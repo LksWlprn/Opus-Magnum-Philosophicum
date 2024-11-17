@@ -1,4 +1,4 @@
-[Stoizismus](# Stoizismus)
+- [Stoizismus](# Stoizismus)
 
 
 
