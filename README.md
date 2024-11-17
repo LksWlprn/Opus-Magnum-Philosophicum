@@ -91,7 +91,7 @@
 ## 7.1.	Formale Logik und Metamathematik
 ## 7.2.	Quantorenlogiken
 ## 7.3.	Russells Paradoxon und Gödels Unvollständigkeitssatz
-## 7.4.	Kategorientheorie
+## 7.4.	Kategorientheorie und Kausalmengentheorie
 ## 7.5.	Platonischer Realismus
 ## 7.6.	Kosmogonie
 ## 7.7.	Hypergraphen Dynamik
@@ -103,7 +103,7 @@
 ## 10.1.	Klassisches Relativitätsprinzip
 ## 10.2.	Quantenmechanischer Perspektivismus
 ## 10.3.	Sleeping Beauty Paradoxon
-## 10.4.	Realität ist abhängig von den Eigenschaften der Beobachter
+## 10.4.	Realität ist abhängig von den Eigenschaften der Beobachter (Knuth-Bendix Komplettierung als Kollaps der Wellenfunktion)
 # 11.	Universalismus
 ## 11.1.	Eternalismus
 ## 11.2.	Universalien und Partikularitäten
