@@ -1,3 +1,8 @@
+[Stoizismus](# Stoizismus)
+
+
+
+
 # 1.	Stoizismus
 ## 1.1.	Kontrolle
 ## 1.2.	Das Hier und Jetzt
