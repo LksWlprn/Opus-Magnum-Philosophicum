@@ -1,9 +1,9 @@
-- [Stoizismus](# Stoizismus)
+- [1.	Stoizismus](#1.	Stoizismus)
+- [Stoizismus](#Stoizismus)
 
 
 
-
-# 1.	Stoizismus
+# 1. Stoizismus
 ## 1.1.	Kontrolle
 ## 1.2.	Das Hier und Jetzt
 ## 1.3.	Urteile und Hypnotismus
