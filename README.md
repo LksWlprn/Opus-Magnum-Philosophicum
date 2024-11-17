@@ -108,7 +108,7 @@
 ## 11.1.	Eternalismus
 ## 11.2.	Universalien und Partikularitäten
 ## 11.3.	Typen und Token (Identitätstheorie)
-## 11.4.	Geschlossene, leerer (Relation R) und offener Individualismus
+## 11.4.	Geschlossener, leerer (psychologische Kontinuität) und offener Individualismus
 ## 11.5.	Amnesie und Demenz
 ## 11.6.	Teleportation und Zeitreisen
 ## 11.7.	Gehirn Fission und Fusion
