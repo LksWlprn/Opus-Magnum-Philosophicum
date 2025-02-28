@@ -268,7 +268,7 @@ A similar principle applies to the idea of consciousness jumping between beings.
 But this would require telepathy, which is not what we are discussing. The point is that even if your consciousness were constantly jumping through time or beings, or if all experiences were happening simultaneously and eternally, your experience would still be the same as it is. 
 
 
-## Some thought experiments
+## Some Thought Experiments about Identity
 
 Universalism becomes evident when we consider the concept of identity clearly. It seems to resemble the ideas of the number zero or imaginary numbers in this way. While these concepts are now simple to grasp, they were overlooked or unrecognized for thousands of years. 
 The conventional view of personal identity does not withstand scrutiny.
@@ -386,7 +386,7 @@ This scenario highlights the possibility of the same subject existing in multipl
 Despite the separation, the scientist cannot access her younger self’s thoughts. Yet, they are undeniably the same subject. 
 It is completely sufficient to assume the separateness of experience to explain why one brain cannot access the thoughts of another. However, this separateness of experience does not necessarily imply that the underlying subjecthood is different.
 
-## Set theory argument
+## The Set Theory Argument
 
 Every mental process can be described in two ways: physically, and subjectively as phenomenal experience. Consider merging two brains to form a unified consciousness with no distinct perspectives. Subjectively, the consciousnesses of two individuals merge into one. 
 Using set theory, we can represent the attributes of person A's subjective experience as set A and those of person B as set B. Each set includes a component we call 'subject', which corresponds to the immediacy of experience as here, now, and mine in the first-person style. 
@@ -397,7 +397,7 @@ If no other factor is involved, the same function at different times or places w
 If the merging of two functional systems can result in a single unified subject, this would mean that the individuality of subjective experience arises solely from physical separation, not from differences in the underlying 'subject.' 
 Thus, under functionalism, every subject is ultimately the same. The possibility of merging brains and experiencing the sameness of subjecthood will hopefully lead people to adopt this view in the distant future. 
 
-## The probability argument
+## The Probability Argument
 
 Another argument for universalism is the probabilistic argument. In the conventional view, your existence depends on your physical body. If this body had not been conceived, you would not exist. 
 If a different sperm cell had fertilized the egg at your conception, a different person would exist in your place. According to this view, your existence hinges on winning a kind of sperm cell lottery, with odds of less than 1 in 200 million. 
@@ -519,7 +519,7 @@ Therefore, only functional changes that affect the system as a whole are recogni
 If we were to really change only the left visual system functionally, it would result in a difference in all the other brain regions as well. 
 If both slices are still receiving inputs and sending outputs to the rest of the brain, the experience would include a superposition of both outputs, resulting in incoherence and probably just confusion. Type theory is still standing strong. 
 
-## Binding problem
+## The Binding Problem
 
 One possible resolution to Bostrom's probability paradox of unification (which I explained previously) may lie in solving the binding problem of consciousness, since its solution might reveal duplication to be true. 
 The binding problem arises from the observation that our experience is unified, despite being composed of many functional elements. 
@@ -627,7 +627,7 @@ This is not to say, that a perfect grasp of reality is desirable let alone achie
 But is premise 1 really a factual statement? In this regard I think Sam Harris was right, when he said, that 'ought' and 'should' are verbal traps. They presuppose an objective perspective, from which morality can be evaluated, that does not exist. 
 But if I just ask, 'should I drink from the cup?' I am not asking about a god-given rule, I'm only asking if I really desire to drink from the cup. It is not that deep. 'Should' is just a short-hand for 'real desire'. Therefore premise 1 is just a tautology aka a fact.
 
-## Fundamentals
+## Normative Fundamentals
 
 A desire or will is always a call for change toward a desired future or more accurately against certain undesired futures. In a control system, these would be set points, but we can call them goals. The cause of our desire, whatever its origin, is called a motivation. 
 The root of our motivations lies in our preferences and their root in well-being. Preferences allow us to rank different experiences based on their quality of well-being—that is, how much we desire them relative to one another. An ethical theory must take this into account. 
@@ -785,7 +785,7 @@ The repugnant conclusion, on the other hand, can be evaluated in the same way an
 Viewed this way, the repugnant conclusion isn't even truly repugnant. If experiencing the world has intrinsic value for the person, as Nozick suggested in his experience machine thought experiment, then the repugnant conclusion might actually be favored by the universal subject. 
 Total utilitarianism, therefore, seems to be correct under universalism. Ultimately, if the number of experienced moments is important, is up the population under examination and cannot be answered objectively. 
 
-## Longtermism:
+## Longtermism
 
 Consider the thesis that "we should not aim for ethical principles". If this thesis is wrong, then we should aim for ethical principles. 
 If it is true, then "we should not aim for ethical principles" would itself be an ethical principle to aim for, thereby undermining its own claim that we should not aim for them. This contradiction means that there are ethical principles we should aim for. 
