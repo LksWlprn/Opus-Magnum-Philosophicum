@@ -28,7 +28,7 @@ However, in reality, we lack such completeness. We also acknowledge that falsifi
 So, both falsification and Bayesian inference contribute to solving the problem of induction. They represent two distinct types of contradiction in relation to a given hypothesis, forming the foundation for knowledge acquisition. 
 
 
-## Objective Truth:
+## Objective Truth
 
 The pursuit of knowledge is, at its core, a pursuit of truth. Zuboff notes that beyond critical rationalism and empiricism, many theories of truth attempt to counter skepticism by lowering the standards for what counts as truth. He writes: 
 “These are self-refuting because it turns out that they can make no sense except as claims that these theories themselves are true according to the rejected higher standard. 
