@@ -417,6 +417,28 @@ If the "randomness" of this choosing is not truly random but deterministic (just
 This would not matter to the chosen person, though, because it does not change the conclusion of the probability argument, if the person can't predict the outcome. If you would play this game, 200 million people would be right to infer that the easy game was being played and only 1 person wold be right to infer that the hard game was played. Even in a deterministic universe, one should not bet on the usual view, if one can't predict who will be chosen. 
 Even if the probability argument might be flawed, there are still other arguments for universalism left to explore. 
 
+
+## Quantum Observer Theory
+
+It can be argued that what has driven the biggest revolutions in science is refining the definition of what observers are.
+In relativity, observers can know the order of time-like separated events but cannot know the order of space-like separated events. 
+Similarly, in quantum mechanics, the observer plays a special role in collapsing the wavefunction, becoming entangled with the system. Hence, it seems plausible that new insights into the nature of observers might further deepen our understanding of reality. 
+
+In Wolfram's theory of hypergraph dynamics, Jonathan Gorard postulates that "An observer is any persistent structure within a multiway system that perceives a single, definitive evolution history." 
+Within this framework, observers branch and converge within parts of the multiway system. For an observer to perceive a single evolution history, its internal representation of the world must be causal invariant. 
+Gorard showed that a causal invariant observer must exploit a minimal set of completion rules, which would cause reality to appear causally invariant from the observer’s perspective. In this way, the observer’s properties shape reality to present itself with its quantum nature. 
+Now, functionalism and universalism also contribute to our understanding of observers. Universalism is especially relevant to Gorard’s claim, as an observer branching within the multiway system cannot be understood through conventional subjective identity theory. 
+Instead, we must assume that the subject is universal, since, when enough equivalence classes exist and our subjective experience is the same across different branches—despite differing physical realities in each—we can observe quantum phenomena. 
+The subject is a universal, equivalent across all branches, and thus we are the same subject in all branches. As long as there is no difference in subjective experience between these branches, we experience all of them simultaneously (but only if universalism is true). 
+However, when subjective experience differs between branches, the observer's function changes, and the observer can no longer recognize the other branches. This is because the observer is the function itself, as functionalism suggests. 
+Imagine a branching observer evolving into two functions: in one branch, the observer forms a representation of blue, and in the other, a representation of gold in its mind. 
+While both are the same universal subject, the observer in the first universe cannot recognize the observer in the second universe. This is because there is no corresponding function that would allow the observer to perceive both experiences simultaneously. 
+
+The observer in the first universe, if it recognized blue and gold at the same time, would need to be able to tell people about this experience of gold-blue-ness in both universes. 
+But the observer is not able to do this, because there is no corresponding function and so the observer is cut-off from the other experiences it has, even though these experiences belong to the same subject. 
+Ultimately, this argument claims that universalism needs to be true, if the observer's properties cause reality to be causal invariant in the way Wolfram's physics project suggests. 
+
+
 ## Falsifying Universalism
 
 It seems impossible to falsify universalism objectively, which would render the claim unscientific. However, it seems to me that universalism could be falsified subjectively. For example, one could anesthetize a brain or invent a switch to toggle the corpus callosum on and off. 
@@ -740,7 +762,6 @@ The point is neither to have that grasp nor to escape from it, but rather, as fa
 
 8) Another mistake about morality could be a fanaticism in the application of the principle of best action itself, 
 having us always concerned about distant others and a distant future. If no special weight were given to oneself and those close to one, or to the present moment, much of human life, including that of similarly concerned others and future moments, would be poisoned, or starved.
-
 Thus a moral concern for others may best be tempered by a particular concern with one’s own affairs. A prudential concern for the future may best be tempered by a respect for spontaneity and living in the present. 
 Anyway, we often know more about ourselves and the present and can deal better with them. But none of what I been saying should be seen as a qualification of the principle of best action; it is what the principle itself must recommend. 
 The principle has the power to absorb like a sponge all criticisms according to which it would be recommending anything undesirable, such as the self-defeating fanatical concern for others and the future that we have just rejected. 
