@@ -652,32 +652,6 @@ We do not desire some maximally specific future, but we prefer a future state th
 For example, if the only options are winning or losing, then avoiding to lose is the same as wanting to win. But in general, because we cannot precisely control or even predict the future, we can merely hope to evoke change in the right direction away from what we want to avoid. 
 This is in line with Poppers views on science, where, since we cannot know the future, we can only ever hope to find theories that will not get falsified, but we can never actually obtain truth. 
 
-## Negative Utilitarianism and the Trolley Problem
-
-I argued that negative utilitarianism is best understood as a practical guideline rather than a fundamental ethical principle. The principle it proposes is:
-
-An act is right if and only if it minimizes the total sum of suffering.
-
-The corresponding positive principle would be:
-
-An act is right if and only if it maximizes the total sum of well-being.
-
-But the trolley problem and the more extreme transplant problem demonstrate why negative utilitarianism cannot serve as the ultimate ethical foundation. 
-Here's the original Trolley Problem:
-
-"Edward is the driver of a trolley, whose brakes have just failed. On the track ahead of him are five people; the banks are so steep that they will not be able to get off the track in time. 
-The track has a spur leading off to the right, and Edward can turn the trolley onto it. Unfortunately there is one person on the right-hand track. Edward can turn the trolley, killing the one; or he can refrain from turning the trolley, killing the five." (Thomson 1976, 206) 
-
-And here's the original transplant problem:
-
-"Donald is a great diagnostician. Five of his patients are dying. By chance Donald learns of a healthy specimen such that if Donald cuts him up into bits, a peculiar physiological process will be initiated in the five, curing them. 
-Donald can cut his healthy specimen up into bits, killing him, thereby saving his patients. Or he can refrain from doing this, letting his patients die." (Thomson 1976, 214) 
-
-At first glance, negative utilitarianism might suggest that we should minimize the number of deaths, since one person dying results in less immediate suffering than five people dying. However, this view fails to account for the total suffering involved. 
-The five survivors in these scenarios would likely experience suffering—both from the traumatic experience and from ongoing difficulties in their continuing lives. Their collective suffering could easily exceed that of the single individual, if its life continued. 
-The problem becomes even more pronounced when we scale up the numbers. If a thousand people are in danger, negative utilitarianism would suggest that their combined suffering would far outweigh that of a single individual and should be eliminated. 
-This logic leads to an obviously unethical conclusion: that systematically eliminating as many people as possible would be the best action to take. Clearly, this contradicts what we would truly want to do if we had a perfect grasp of everything involved. 
-This conclusion arises because it completely neglects the fact that there is a desirable state of mind, we call well-being and not just an undesirable state of suffering. To optimize the experience of the universal subjects, we need to think about the desirable and undesirable.
 
 ## Ideal Observer Theory
 
@@ -864,6 +838,33 @@ After all, one could reduce suffering by skipping all incarnations ending consci
 Prioritizing suffering is therefore not a dogmatic principle, but a practical suggestion.
 Second of all, antinatalism, if it were desirable, would only work inside the light-cone a certain civilization occupies. We can never influence the suffering outside of our light-cone. 
 Therefore, destroying life is not a rational objective, because the universal subject would experience all the other lives outside our light-cone anyways. Instead, the best we can do is to contribute to the positive experiences of the universal subject as much as we can. 
+
+## Negative Utilitarianism and the Trolley Problem
+
+I argued that negative utilitarianism is best understood as a practical guideline rather than a fundamental ethical principle. The principle it proposes is:
+
+An act is right if and only if it minimizes the total sum of suffering.
+
+The corresponding positive principle would be:
+
+An act is right if and only if it maximizes the total sum of well-being.
+
+But the trolley problem and the more extreme transplant problem demonstrate why negative utilitarianism cannot serve as the ultimate ethical foundation. 
+Here's the original Trolley Problem:
+
+"Edward is the driver of a trolley, whose brakes have just failed. On the track ahead of him are five people; the banks are so steep that they will not be able to get off the track in time. 
+The track has a spur leading off to the right, and Edward can turn the trolley onto it. Unfortunately there is one person on the right-hand track. Edward can turn the trolley, killing the one; or he can refrain from turning the trolley, killing the five." (Thomson 1976, 206) 
+
+And here's the original transplant problem:
+
+"Donald is a great diagnostician. Five of his patients are dying. By chance Donald learns of a healthy specimen such that if Donald cuts him up into bits, a peculiar physiological process will be initiated in the five, curing them. 
+Donald can cut his healthy specimen up into bits, killing him, thereby saving his patients. Or he can refrain from doing this, letting his patients die." (Thomson 1976, 214) 
+
+At first glance, negative utilitarianism might suggest that we should minimize the number of deaths, since one person dying results in less immediate suffering than five people dying. However, this view fails to account for the total suffering involved. 
+The five survivors in these scenarios would likely experience suffering—both from the traumatic experience and from ongoing difficulties in their continuing lives. Their collective suffering could easily exceed that of the single individual, if its life continued. 
+The problem becomes even more pronounced when we scale up the numbers. If a thousand people are in danger, negative utilitarianism would suggest that their combined suffering would far outweigh that of a single individual and should be eliminated. 
+This logic leads to an obviously unethical conclusion: that systematically eliminating as many people as possible would be the best action to take. Clearly, this contradicts what we would truly want to do if we had a perfect grasp of everything involved. 
+This conclusion arises because it completely neglects the fact that there is a desirable state of mind, we call well-being and not just an undesirable state of suffering. To optimize the experience of the universal subjects, we need to think about the desirable and undesirable.
 
 ## Team formation
 
