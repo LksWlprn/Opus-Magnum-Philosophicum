@@ -1,6 +1,32 @@
-# On Epistemology
+# Metaphysics
 
-## The Problem of Induction
+
+## On Ontology
+
+The most fundamental metaphysical question is: Why is there anything at all? Until recently, science could not help us in answering this question, but I now believe that it can. 
+
+Since nothing can come from nothing, absolute nothingness should persist, yet reality exists. 
+One possible answer, the zero-ontology, holds that reality can be both there and not there and sums to nothing overall, much like how matter and antimatter cancel out. But this isn't more than a hunch.
+A better approach begins by examining the nature of nothingness. 
+One kind of nothingness from which everything could have started is the total absence of anything. This would include the lack of any boundary conditions, since there would have to be something to define a boundary condition. There cannot be any definitions in such nothingness. 
+Yet, this absence of constraints would itself be a constraint (a definition), meaning that absolute nothingness contradicts itself and is impossible. The only non-contradictory kind of nothingness would be one that is at least definable: 
+a state of complete emptiness, where empty does not mean empty spacetime, but rather spacelessness and timelessness. But in such a state necessary truths, meaning logical truths, are still necessarily existent. 
+If they did not exist, there would be no constraints on reality at all, allowing anything to exist arbitrarily, which would be exactly the contradictory form of nothingness we already ruled out as self-defeating. Necessary truths must exist necessarily. 
+There are infinitely many possible formal systems, and all such systems must exist in an abstract sense. This corresponds to Stephen Wolfram’s Ruliad, the space of all possible rule-based structures, within which our universe is a fragment. 
+Therefore, I claim that Wolfram's model of everything must be, from logical a priori reasoning alone, very close to being the correct model of everything, given our evidence that something exists at all.
+
+This view ultimately leads to mereological nihilism, as everything we observe reduces to vertices in a hypergraph. One might mistakenly conclude that this implies the existence of only particulars and no universals. However, this is not the logical conclusion. Instead, equivalent structures within the hypergraph give rise to multiply instantiated universals.
+
+Take, for example, an electron, that is a specific hypergraph configuration within the larger structure. Since all electrons share the same underlying configuration, they are universals. Similarly, larger emergent structures arise within the hypergraph, carrying new information not inherent in their smaller components. We can refer to these structures as "systems." Such emergent systems include physics, chemistry, biology, and consciousness, which emerge from pockets of computational reducibility.
+While the hypergraph structures of these systems are not themselves universals—for instance, no two biological cells have identical hypergraph configurations—they represent a new level of emergent information, within which universals can exist. For example, if we model cells as nodes in a functional network forming an organism, certain parts of the network can be structurally identical and thus form universals within their own emergent ontologies.
+
+There are two types of universals, arising from two distinct principles: structural equivalence and functional equivalence. Electrons, for instance, are functionally equivalent because any electron exhibits the same input-output relationships as any other. Whether an electron is from Mars or Earth, its repulsion behavior remains unchanged. This functional equivalence stems from a deeper structural equivalence, as all electrons share the same underlying configuration.
+But in emergent systems like biology, exact structural equivalence is rare. As I've said, the structure of cells is never truly identical, yet their emergent ontology is based not on precise structure but on shared input-output relationships within their network, making it a functional network. This functional equivalence allows them to be treated as universals within their new ontology.
+
+
+## On Epistemology
+
+### The Problem of Induction
 
 There are two logical solutions to the problem of induction. To find these solutions it is paramount to think clearly about the problem.
 The problem of induction arises from the fact that after repeatedly observing "A is X," it remains non-contradictory to observe "A is not X." 
@@ -28,7 +54,7 @@ However, in reality, we lack such completeness. We also acknowledge that falsifi
 So, both falsification and Bayesian inference contribute to solving the problem of induction. They represent two distinct types of contradiction in relation to a given hypothesis, forming the foundation for knowledge acquisition. 
 
 
-## Objective Truth
+### Objective Truth
 
 The pursuit of knowledge is, at its core, a pursuit of truth. Zuboff notes that beyond critical rationalism and empiricism, many theories of truth attempt to counter skepticism by lowering the standards for what counts as truth. He writes: 
 “These are self-refuting because it turns out that they can make no sense except as claims that these theories themselves are true according to the rejected higher standard. 
@@ -39,7 +65,7 @@ In other words, pragmatism cannot see itself as true merely pragmatically.”
 Zuboff argues that any theory rejecting objectivism about truth, where objectivism follows the correspondence theory (i.e., a thought, statement, or representation is true if and only if reality is as it is described), ultimately falls into this trap of self-defeat. 
 
 
-## Knowledge and Gettier-Cases
+### Knowledge and Gettier-Cases
 
 What is knowledge? This question is at the heart of epistemology, since philosophers want to know what they can know. The classic account of knowledge involves that it must be justified, true, and believed. 
 “Whenever a knower (S) knows some fact (p), several conditions must obtain. A proposition that S doesn’t even believe cannot be, or express, a fact that S knows. Therefore, knowledge requires belief. False propositions cannot be, or express, facts, and so cannot be known. 
@@ -62,7 +88,7 @@ Non-coincidence relates to the justification because something can be true becau
 But, in Gettier cases, the truth of my belief (e.g., that the barn is real) is not actually related to this justification, but it is true despite the justification for believing it being wrong. 
 What is then needed for non-coincidence is that the justification of my belief in X is also coupled to the truth of X. 
 
-## An Answer to Scepticism
+### An Answer to Scepticism
 
 "How can you know that your present experience doesn’t owe its existence to an artificial stimulation of your brain, disembodied in a vat, or to a merely chance and causeless occurrence of its pattern in the absence of any world 
 or even any time outside of it? The classic scepticism regarding the possibility of intellectual justification for judgments about the character of the world beyond the present appearances in a mind, 
@@ -109,7 +135,7 @@ an agent conceived of more generally is extremely improbable to be doing so."
 
 
 
-## The new Problem of Induction
+### The new Problem of Induction
 
 Zuboff's principle of highest probability can also deal with the new problem of induction:
 
@@ -135,7 +161,7 @@ Sometimes, in later versions of the riddle, ‘grue’ means green before some a
 But [...] stability is required in a hypothesis that would make evidence probable. That a loaded coin was somehow threatening to become fair would have made less probable that it had so far landed heads a thousand times in a row. 
 And the threat being future would just be an ad hoc specification."
 
-## The Duhem-Quine Thesis
+### The Duhem-Quine Thesis
 
 One big problem, if one could only use falsification to establish fallible, conjectural truth, is that falsification itself cannot deductively falsify hypotheses nor theories. 
 If you toss a coin a billion times and it lands on heads every time, it would still not be contradictory to claim that the coin is truly fair. One cannot deductively refute this hypothesis. 
@@ -154,7 +180,7 @@ But it is contradictory to assert that they are probable when the evidence demon
 Consequently, the scientific method is vindicated by the principle of highest probability.
 
 
-## The Problem of Prior Probabilities
+### The Problem of Prior Probabilities
 
 Zuboff’s empiricism draws upon Bayesian inference, in which Bayes’ theorem has an objective a priori status. One issue with this theorem is that it requires prior probabilities to update the probability of a hypothesis being true in light of new evidence. 
 This has led some philosophers to adopt a subjectivist stance, arguing that ultimate prior probabilities cannot be known objectively and must instead be assigned based on subjective credences. Zuboff contends that these philosophers conflate subjectivity with perspectivity. 
@@ -193,7 +219,7 @@ When the difference in how much the hypotheses favor the evidence is small, the 
 However, in cases like the trillion-bead urn scenario, where the difference in evidential favorability is vast, the unknown prior probabilities do not undermine the inference." 
 
 
-## Perspectival Probability
+### Perspectival Probability
 
 Lastly, on the topic of epistemology, it is crucial to understand the perspectival nature of probability. This is very easily confused with subjective probability. There's only a small difference, which can be revealed by thinking about tigers. 
 The dangerousness of a tiger is not subjective, in the sense that a tiger is not dangerous for a person far away and dangerous for a person in the tigers vicinity. The tiger is dangerous either way, 
@@ -226,7 +252,7 @@ who has just fallen into the tiger’s enclosure and someone at home reading in 
 Well, all we can say is that these differing sorts of reactions to tigers are typical of people in situations like those. They are subjective reactions that cannot be justified by objective differences in how much danger a tiger is posing, since a tiger is always dangerous."
 
 
-# On Personal Identity
+## On Personal Identity
 
 What is personal identity? Why do we have a persistent identity over time? Why are we the same person at 80 as we were at 8, even if we don’t remember anything from when we were 8? One approach is psychological connectedness, what Derek Parfit called “Relation R.” 
 Through this, Parfit rejected personal identity altogether and instead focused on survival. According to him, what matters in survival is not strict identity but rather the continuity of psychological connections. 
@@ -268,7 +294,7 @@ A similar principle applies to the idea of consciousness jumping between beings.
 But this would require telepathy, which is not what we are discussing. The point is that even if your consciousness were constantly jumping through time or beings, or if all experiences were happening simultaneously and eternally, your experience would still be the same as it is. 
 
 
-## Some Thought Experiments about Identity
+### Some Thought Experiments about Identity
 
 Universalism becomes evident when we consider the concept of identity clearly. It seems to resemble the ideas of the number zero or imaginary numbers in this way. While these concepts are now simple to grasp, they were overlooked or unrecognized for thousands of years. 
 The conventional view of personal identity does not withstand scrutiny.
@@ -298,7 +324,7 @@ But suppose her old memories eventually resurface, bringing her former personali
 Rather than two subjects sharing a single brain, the new personality comes to recognize that she has always been the same subject as the old personality. 
 And ultimately this scenario isn't different from injecting one person's memories and personality into another person's brain, which must lead us to conclude that everyone is actually the same subject/identity. 
 
-## Teleportation
+### Teleportation
 
 Derek Parfit's famous thought experiment of the teletransporter imagines a person being teleported from Earth to Mars. For our discussion, let’s assume macroscopic teleportation is physically possible. Of interest to us is only what happens to our experience. Will we survive? 
 The common view holds that teleportation would end our experience due to a discontinuity. But discontinuity doesn't end our experience in other cases, like sleep, coma, memory loss, near-death experiences or brain surgery. 
@@ -341,7 +367,7 @@ In a Buddhistic view any psychological process would be forging on through a suc
 Neither self-interest nor other-interest (interest, that is, for the self-interests of others) would be appropriate. As I’ve mentioned, the improbability for itself of existing of any of the momentary subjects would make such a hypothesis statistically untenable just as it did the usual view of the person. For in every moment of the ongoing mental process an inference would be supported that from this momentary perspective the existence of this momentary subject would be overwhelmingly improbable 
 by contrast with the existence of the universal subject in universalism."
 
-## Qualia Universals
+### Qualia Universals
 
 The thought experiments behind Universalism demonstrate that universals are ontologically real. First, let's assume there exists some abstract information (which we could call a model, a system, a framework, a representation, or a pattern) in our mind. 
 This abstract information is what we experience as qualia, from within our conscious mind. Now, let's further assume that two identical brains are created and given the same experience. Brain A is placed to our right, and Brain B to our left. 
@@ -362,7 +388,7 @@ Therefore, some universals must also exist ontologically. If stories are univers
 
 
 
-## Eternalism
+### Eternalism
 
 The argument for eternalism is also an argument favoring universalism. Eternalism posits that any existence in time is equally real. No moment of experience is special. All experiences are equally real eternally and simultaneously. 
 And just like my experience is separated by time, it is also separated by space. Just like time separates your past self from your current self, space separates your experience in one being from your experience in another being. 
@@ -372,7 +398,7 @@ Likewise, if we were to doubt universalism, we would need to explain why a certa
 But this means, postulating something we haven't observed and maybe even in principle cannot observe. It also violates ontological parsimony and therefore Occam's Razor. 
 
 
-## Occam's razor
+### Occam's razor
 
 Occam's razor can derive its effectiveness from the uselessness of introducing a claim into one's hypotheses that doesn't contribute to explain one's evidence. It is not obvious that believing in the separateness of subjects violates Occam's razor, but it does. 
 The evidence that we experience only our own perspective within a single human being can be fully explained by the observation that experiences are isolated from one another. 
@@ -386,7 +412,7 @@ This scenario highlights the possibility of the same subject existing in multipl
 Despite the separation, the scientist cannot access her younger self’s thoughts. Yet, they are undeniably the same subject. 
 It is completely sufficient to assume the separateness of experience to explain why one brain cannot access the thoughts of another. However, this separateness of experience does not necessarily imply that the underlying subjecthood is different.
 
-## The Set Theory Argument
+### The Set Theory Argument
 
 Every mental process can be described in two ways: physically, and subjectively as phenomenal experience. Consider merging two brains to form a unified consciousness with no distinct perspectives. Subjectively, the consciousnesses of two individuals merge into one. 
 Using set theory, we can represent the attributes of person A's subjective experience as set A and those of person B as set B. Each set includes a component we call 'subject', which corresponds to the immediacy of experience as here, now, and mine in the first-person style. 
@@ -397,7 +423,7 @@ If no other factor is involved, the same function at different times or places w
 If the merging of two functional systems can result in a single unified subject, this would mean that the individuality of subjective experience arises solely from physical separation, not from differences in the underlying 'subject.' 
 Thus, under functionalism, every subject is ultimately the same. The possibility of merging brains and experiencing the sameness of subjecthood will hopefully lead people to adopt this view in the distant future. 
 
-## The Probability Argument
+### The Probability Argument
 
 Another argument for universalism is the probabilistic argument. In the conventional view, your existence depends on your physical body. If this body had not been conceived, you would not exist. 
 If a different sperm cell had fertilized the egg at your conception, a different person would exist in your place. According to this view, your existence hinges on winning a kind of sperm cell lottery, with odds of less than 1 in 200 million. 
@@ -418,7 +444,7 @@ This would not matter to the chosen person, though, because it does not change t
 Even if the probability argument might be flawed, there are still other arguments for universalism left to explore. 
 
 
-## Quantum Observer Theory
+### Quantum Observer Theory
 
 It can be argued that what has driven the biggest revolutions in science is refining the definition of what observers are.
 In relativity, observers can know the order of time-like separated events but cannot know the order of space-like separated events. 
@@ -439,7 +465,7 @@ But the observer is not able to do this, because there is no corresponding funct
 Ultimately, this argument claims that universalism needs to be true, if the observer's properties cause reality to be causal invariant in the way Wolfram's physics project suggests. 
 
 
-## Falsifying Universalism
+### Falsifying Universalism
 
 It seems impossible to falsify universalism objectively, which would render the claim unscientific. However, it seems to me that universalism could be falsified subjectively. For example, one could anesthetize a brain or invent a switch to toggle the corpus callosum on and off. 
 On the usual view, if we were to anesthetize a brain and then connect it to another brain, similar to how the brains of craniopagus twins can be connected, there would still be two subjective perspectives. 
@@ -453,7 +479,7 @@ Using brain-machine interfaces, we could even create separate virtual realities 
 Would this lead to two permanently separate subjects residing in the same brain, or would they simply reintegrate into the original subject, who now feels as though it experienced both gaming and studying? Isn't the latter far more likely, since it is already the status-quo? 
 
 
-## Nick Bostrom's counter-arguments
+### Nick Bostrom's counter-arguments
 
 The most famous counterarguments against universalism—or more specifically, the unification hypothesis, which is a sufficient condition for universalism to be true but not an unavoidably necessary one—were published by Nick Bostrom. 
 Bostrom’s first counterarguments both rely on the assumption of a quasi-infinite universe. While they ultimately fail to refute unification, they might still provide new insights into the nature of the universe and experience.
@@ -519,7 +545,7 @@ Therefore, only functional changes that affect the system as a whole are recogni
 If we were to really change only the left visual system functionally, it would result in a difference in all the other brain regions as well. 
 If both slices are still receiving inputs and sending outputs to the rest of the brain, the experience would include a superposition of both outputs, resulting in incoherence and probably just confusion. Type theory is still standing strong. 
 
-## The Binding Problem
+### The Binding Problem
 
 One possible resolution to Bostrom's probability paradox of unification (which I explained previously) may lie in solving the binding problem of consciousness, since its solution might reveal duplication to be true. 
 The binding problem arises from the observation that our experience is unified, despite being composed of many functional elements. 
@@ -575,8 +601,10 @@ One might interject and criticize this explanation on the same grounds I critici
 But this explanation doesn't claim that causality could account for the boundary of consciousness. There might be many more prerequisites for conscious experience, like coherence, consensus, integration, feedback loops etc. These are more likely to account for the boundary.
 
 
-# On the Theory of Mind
+## On the Theory of Mind
 
+
+### Functionalism
 Functionalism claims that the character of our mental experience is wholly produced by the function it plays in the system of our brain. The identity of a mental state is then determined by its causal relations to sensory stimulations, other mental states, and behavior. 
 To prove this view, let us imagine an operation performed on the brain of a patient. In this operation, the left side of the patient’s visual cortex is replaced by a non-organic machine that performs exactly the same function as the visual cortex would have. 
 The machine preserves exactly the same causal input/output relationship with the rest of the brain. The only differences are internal to the machine, not in the external relationships with other brain regions. 
@@ -592,6 +620,23 @@ So, functionalism is true.
 
 
 
+### Multiple Drafts Model and the Thousand Brains Theory
+
+
+
+
+### The Left Brain Interpreter
+
+
+
+
+### Grid Solution to the Binding Problem
+
+
+
+
+
+### Attention Schema Theory
 
 
 
@@ -599,9 +644,7 @@ So, functionalism is true.
 
 
 
-
-
-# On Morality
+## On Morality
 
 Why is consciousness so tightly linked to morality? In questions regarding animal ethics, abortion ethics, AI ethics, or medical ethics consciousness is often a deciding factor for how to treat any being. 
 Kant thought that humans had some kind of inherent dignity. But where does that come from? Philosophers have tried to answer this, but there is no actual answer. It somehow just has to be there, in order to make Kantian ethics work. 
@@ -609,7 +652,7 @@ The answer to both questions is really simple when one knows about Universalism.
 By the immediacy of experience from the first-person PoV (for the full argument, see Zuboffs work). If this is accepted, then every being with this pattern of immediacy in its experience is the same person. By that logic, consciousness tells you, when another being is you. 
 That is why consciousness is so important, because it distinguishes what is you and what not. And by doing that, it distinguishes what is of moral consideration and what not. There is no inherent dignity to humans, but it emerges from consciousness and Universalism.
 
-## Hume's law
+### Hume's law
 How to get an 'ought' from an 'is':
 
 P1: One should only desire, what one really desires.
@@ -627,7 +670,7 @@ This is not to say, that a perfect grasp of reality is desirable let alone achie
 But is premise 1 really a factual statement? In this regard I think Sam Harris was right, when he said, that 'ought' and 'should' are verbal traps. They presuppose an objective perspective, from which morality can be evaluated, that does not exist. 
 But if I just ask, 'should I drink from the cup?' I am not asking about a god-given rule, I'm only asking if I really desire to drink from the cup. It is not that deep. 'Should' is just a short-hand for 'real desire'. Therefore premise 1 is just a tautology aka a fact.
 
-## Normative Fundamentals
+### Normative Fundamentals
 
 A desire or will is always a call for change toward a desired future or more accurately against certain undesired futures. In a control system, these would be set points, but we can call them goals. The cause of our desire, whatever its origin, is called a motivation. 
 The root of our motivations lies in our preferences and their root in well-being. Preferences allow us to rank different experiences based on their quality of well-being—that is, how much we desire them relative to one another. An ethical theory must take this into account. 
@@ -653,7 +696,7 @@ For example, if the only options are winning or losing, then avoiding to lose is
 This is in line with Poppers views on science, where, since we cannot know the future, we can only ever hope to find theories that will not get falsified, but we can never actually obtain truth. 
 
 
-## Ideal Observer Theory
+### Ideal Observer Theory
 
 The principle of perfect grasp is a type of ideal observer theory, making it cognitivist and subjectivist in nature. This means that ethical statements express propositions, which can be true or false, and where truth or falsity depends on people's preferences. 
 This stands in direct opposition to non-cognitivism (such as expressivism), which asserts that ethical statements are not propositions and can only be honest or dishonest, but not true or false. To strengthen the principle of perfect grasp, we need to refute non-cognitivism. 
@@ -678,7 +721,7 @@ This mean that beliefs are critical to any moral statement. Emotions cannot be e
 Zuboff summarizes: "I only ever desire a thing because of what I believe it to be. And since beliefs are correctable, so are desires. [...] My only real desires are those I would have if I had a perfect grasp of everything involved."
 
 
-## The Intricacies of the Principle of Perfect Grasp
+### The Intricacies of the Principle of Perfect Grasp
 
 There are many intricacies about the principle of perfect grasp or what Arnold Zuboff calls the principle of best action. Let's explore a few of them to get a better understanding of what this view actually entails. 
 
@@ -742,7 +785,7 @@ The principle has the power to absorb like a sponge all criticisms according to 
 The hypothetical perfect grasp itself must contain an appreciation of all such problems and any solutions. And it would include, as part of this, a full recognition of the limits and special needs of particular agents.
 
 
-## The Value of life
+### The Value of life
 
 Universalism leads to some new perspectives on ethics. One such perspective concerns the ethical value of life. Since the death of an individual is no longer synonymous with the death of their subjective experience, it follows that death is not inherently something to fear. 
 Instead, death must be evaluated on a different basis than usual. The fear of death can no longer be understood as the fear of non-experience. Nor is it simply the fear of losing one’s memories, as storing those memories as a computer file would not alleviate this fear. 
@@ -764,7 +807,7 @@ The asymmetry originates from the fact that there are moments of experience one 
 One can be content with a moment and not wish to alter it, even if it isn't the best possible experience. As long as one is content with their experience, there is, by definition, no need for change and no call for action. 
 
 
-## Population Ethics
+### Population Ethics
 
 Universalism has far-reaching consequences for population ethics. One specific problem in population ethics is the non-identity problem. This problem says that even a change that would, on the surface, seem to represent a clear improvement for a future person will often fail to make that person better off. Instead, it often serves only to bring another person, a "better-off person," but still a nonidentical person, into existence in place of the one we intended to help.
 Under universalism, this view no longer makes any sense. 
@@ -785,7 +828,7 @@ The repugnant conclusion, on the other hand, can be evaluated in the same way an
 Viewed this way, the repugnant conclusion isn't even truly repugnant. If experiencing the world has intrinsic value for the person, as Nozick suggested in his experience machine thought experiment, then the repugnant conclusion might actually be favored by the universal subject. 
 Total utilitarianism, therefore, seems to be correct under universalism. Ultimately, if the number of experienced moments is important, is up the population under examination and cannot be answered objectively. 
 
-## Longtermism
+### Longtermism
 
 Consider the thesis that "we should not aim for ethical principles". If this thesis is wrong, then we should aim for ethical principles. 
 If it is true, then "we should not aim for ethical principles" would itself be an ethical principle to aim for, thereby undermining its own claim that we should not aim for them. This contradiction means that there are ethical principles we should aim for. 
@@ -807,7 +850,7 @@ Longtermism is further strengthened by universalism, which clarifies that the su
 According to the principle of perfect grasp, if one were to fully grasp everything involved, one would naturally seek to prevent futures of immense suffering, for one will otherwise unavoidably experience all that suffering. So this is what we should strive to do.
 
 
-## Practical application
+### Practical application
 
 There are many possible analogies to approximate the previously derived ethical rule:
 
@@ -839,7 +882,7 @@ Prioritizing suffering is therefore not a dogmatic principle, but a practical su
 Second of all, antinatalism, if it were desirable, would only work inside the light-cone a certain civilization occupies. We can never influence the suffering outside of our light-cone. 
 Therefore, destroying life is not a rational objective, because the universal subject would experience all the other lives outside our light-cone anyways. Instead, the best we can do is to contribute to the positive experiences of the universal subject as much as we can. 
 
-## Negative Utilitarianism and the Trolley Problem
+### Negative Utilitarianism and the Trolley Problem
 
 I argued that negative utilitarianism is best understood as a practical guideline rather than a fundamental ethical principle. The principle it proposes is:
 
@@ -866,7 +909,7 @@ The problem becomes even more pronounced when we scale up the numbers. If a thou
 This logic leads to an obviously unethical conclusion: that systematically eliminating as many people as possible would be the best action to take. Clearly, this contradicts what we would truly want to do if we had a perfect grasp of everything involved. 
 This conclusion arises because it completely neglects the fact that there is a desirable state of mind, we call well-being and not just an undesirable state of suffering. To optimize the experience of the universal subjects, we need to think about the desirable and undesirable.
 
-## Team formation
+### Team formation
 
 Generally, team formation is seen as a positive development, as it unites people behind a common cause. The mindset associated with this is called the 'soldier mindset' by Julia Galef. However, team formation could just as easily be seen as creating division and exclusion. 
 Beyond practical purposes, it leads to self-deception through motivated reasoning. People begin to integrate these causes into their identities, so that any attack on these feels like an attack on their entire identity, leading to polarization and radicalization. 
@@ -878,7 +921,7 @@ Any other team formation necessarily ignores that what one does to the enemy, on
 
 
 
-# On Free Will
+## On Free Will
 
 
 Universalism and incompatibilism share many counter-intuitive ethical consequences, making it highly improbable for these concepts to have any role in a hypothetical science of ethics. As a result, consequentialist-utilitarian ethics is way more persuasive. 
@@ -910,7 +953,7 @@ And it cannot be justified on the basis of personhood. By the same reasoning, me
 The truth of these claims is easier to recognize, if we think about the long-term future of humanity. We are already moving in this direction of giving up ownership and we'll soon need to rethink meritocracy, when the merit of AI outpaces all of us.
 
 
-## The Compatibilist Confusion
+### The Compatibilist Confusion
 
 I think the compatibilist confusion originates from two distinct concepts of control as foundations for free will. To distinguish these, I will refer to the first type as regulatory control and the second as ultimate or true control. 
 Regulatory control is the kind of control central to control theory in engineering. For example, if a thermostat regulates temperature, it can be said to have regulatory control—there is a causal dependency of temperature on the thermostat. 
@@ -945,7 +988,7 @@ The condition for accountability can simply be that the agent consciously identi
 If I were asleep or hypnotized when performing an action, I would not be truly accountable because I was not conscious of it. In essence, an agent is accountable for an action if, at the moment of action, they recognize themselves as accountable for that action. 
 The moment-condition is necessary to prevent cases where external manipulation, like implanting a chip to alter an agent’s sense of responsibility afterward, could falsely absolve them of accountability. To be accountable, one must have felt accountable at the moment of interest.
 
-## Accountability
+### Accountability
 
 I argue that compatibilists are not actually debating free will or what it truly means to be responsible for an action, but rather the concept of accountability.
 
@@ -972,7 +1015,7 @@ Ultimately, I'd conclude that Fischer’s approach to accountability is essentia
 An agent is accountable for their actions if and only if they consciously identify with their actions and are appropriately reasons-responsive at the moment of action. 
 
 
-## Stoicism and Compatibilism
+### Stoicism and Compatibilism
 
 Stoicism is not often framed this way, but it is fundamentally a philosophy based on compatibilism. To the extent that this is possible, the Stoic view largely aligns with my view. The Stoics fully embraced determinism. 
 Stoicism holds that one can only genuinely control one’s own thoughts, and that it is our thoughts, not external circumstance that we should focus our attention on. While we do not have true control over our thoughts, we possess a crucial form of regulatory control: 
@@ -993,7 +1036,7 @@ The value of wisdom is intended to shield us from ignorance and stupidity, justi
 Courage protects us from making mistakes out of fear, and self-control shields us from mistakes driven by irrational passions. 
 In other words, the Stoic ideal is not about having "free will" in the metaphysical sense but about achieving optimal self-regulation (mental health), controlling what can be controlled and ceasing to desire control over what cannot.
 
-## Against Retributivism
+### Against Retributivism
 
 Arnold Zuboff has also argued against retributivism and for incompatibilism. 
 
