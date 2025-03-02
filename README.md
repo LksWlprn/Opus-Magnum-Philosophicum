@@ -616,8 +616,20 @@ But this explanation doesn't claim that causality could account for the boundary
 ## On the Theory of Mind
 
 
+### The Problem of Dualism
+
+Dualism is the thesis that the mind is non-physical and that the mind and brain are two distinct things. I think that much of the powerful illusion of personal identity, absolute qualia and free will can be attributed to this dualistic belief, because it deceives us to believe in some form of soul, separate from the physical realm. Such a soul, as a supernatural phenomenon, cannot be part of of a natural world, for if it were, it wouldn't be supernatural anymore; it would just become part of what nature is. The common view of personal identity is that we are distinct souls, living inside a physical body, being born and torn in and out of existence by the bodies physical death. The common view about qualia is that they are somehow part of this soul-realm and are therefore wholly unexplanable by science. And the common view about free will is that this soul of ours can somehow itself cause some effects, independent of the physically determined chain of causation. The last view is particularly interesting, because it assumes a bidirectional communication between the physical and the mind-realm. How else would we even know about both of them? 
+
+Daniel Dennett writes: "If mind and body are distinct things or substances, they nevertheless must interact; the bodily sense organs, via the brain, must inform the mind, must send to it or present it with perceptions or ideas or data of some sort, and then the mind, having thought things over, must direct the body in appropriate action (including speech). Hence the view is often called Cartesian interactionism or interactionist dualism. In Descarte's formulation, the locus of interaction in the brain was the pineal gland, or epiphysis. [...] Since we don't have the faintest idea what properties mind stuff has, we can't even guess how it might be affected by physical processes emanating somehow from the brain, so let's ignore those upbound signals for the time being, and concentrate on the return signals, the directives from mind to brain. These, ex hypothesi, are not physical; they are not light waves or sound waves or cosmic rays or streams of subatomic particles. No physical energy or mass is associated with them. How then, do they get to make a difference to what happens in the brain cells they must affect? [...] Dualism's embarrassment here is really simpler than the citation of presumed laws of physics suggests. It is the same incoherence that children notice-but tolerate happily in fantasy-in such fare as Casper the Friendly Ghost. How can Casper both glide through walls and grab a falling towel? How can mind stuff both elude all physical measurement and control the body? A ghost in the machine is of no help in our theories unless it is a ghost that can move things around". 
+
+These old argument against dualism might not refute all types of dualistic approaches, but this wasn't my goal here. The goal was just to show how this one idea has really stiffled philosophical progress, even though it's so easily shown to be a fantasy. Instead of refuting all typs of dualism, it well suffice to prove that functionalism must be true, which is a non-dualst account of consciousness and mind. If functionalism is true, then dualism is false.
+
+
+This, in turn, means that the merely intrinsic characterisics and states of any parts of the brain are wholly irrelevant to consciousness. As long as the input/output-relations are the same, the experience is the same. This will also imply that philosophical zombies, as imagined by David Chalmers, are impossible.
+
+
 ### Functionalism
-Functionalism claims that the character of our mental experience is wholly produced by the function it plays in the system of our brain. The identity of a mental state is then determined by its causal relations to sensory stimulations, other mental states, and behavior. 
+Functionalism claims that the character of our mental experience is wholly produced by the function it plays in the system of our brain. The identity of a mental state is then determined by its causal relations to sensory stimulations, other mental states, and behavior. According to functionalism the whole mental character of vision—the whole of how things look—is fixed purely in the pattern of responses to vision and not in any of the initial processing of vision in the visual cortex. 
 To prove this view, let us imagine an operation performed on the brain of a patient. In this operation, the left side of the patient’s visual cortex is replaced by a non-organic machine that performs exactly the same function as the visual cortex would have. 
 The machine preserves exactly the same causal input/output relationship with the rest of the brain. The only differences are internal to the machine, not in the external relationships with other brain regions. 
 We can imagine two worlds: one in which the patient retains their organic visual cortex, and one where they have the non-organic implant. In both worlds, the person behaves exactly the same, as all causal relations are unaltered. 
@@ -628,11 +640,333 @@ Now, there are only three possibilities for what happens to the character of the
 2) There is a change in the character of mental experience, but the person does not recognize this change. This is also impossible because any change would only occur in the left visual cortex. If qualia were inverted or absent, the right visual cortex would remain unaffected, leading to an obvious discrepancy in the character of qualia between the left and right visual fields. Such a difference would be impossible to ignore.
 
 3) There is no change in the character of mental experience. This is the only viable option.
-So, functionalism is true. 
+So, functionalism is true.
+
+Zuboff writes about this thought-experiment: 
+"Of course one and the same pattern of speech and behaviour, as described from the
+outside, might be produced by very different psychological states, as when sincerity is
+replaced by pretending. It is this consideration that seems to defeat the behaviourist attempt
+to define the mind purely in terms of behavioural dispositions. But in our case we know that
+the pattern of psychological responses to vision remains the same; it is impossible that
+anything like pretending be introduced by the gadget as stipulated. For the parts of the brain
+that would be involved in pretending, or in any other psychological complication that could
+have produced the same speech and behaviour despite a difference in the experience, are
+necessarily unchanged by the gadget and therefore unadjusted to any change in experience.
+So the speech and behaviour, it seems, must simply be responsive to an unchanged
+experience.
+But there may be a way we can think of even the psychological pattern remaining the
+same despite important differences in the quality of experience. It seems I can easily
+imagine myself as experiencing red objects with the same phenomenal quality with which I
+now experience blue objects and vice versa. And it seems I can also easily imagine myself
+as having experienced colour differently in this way from birth (which is essentially, of
+course, the tale often told by philosophers about such a difference of experience between
+two people). It seems I could further imagine that, despite that private difference in
+experience, I was still taught to say a fire was “red” and the sky was “blue” and, whichever
+qualia I regularly experienced with them, I still formed the same patterns of practical,
+intellectual, emotional and irrational associations and reactions regarding the colours of fire
+and sky. It seems that the pattern of my psychological responses, not just my behavioural
+dispositions, could have been the same as now in such an imagined case of qualia inversion,
+while my experience of red and blue was different. Moreover, it seems I can imagine an
+automaton, with something like my pattern of mental functioning in its mechanism, but with
+no qualia, no experience, at all.
+But just as it is impossible that anything like pretending be introduced by the gadget,
+it is impossible also that anything be introduced like the sort of sweeping qualia inversion or
+absence that might be imagined to allow experience to change while the pattern of mental
+functioning stayed the same. For, once again, it is impossible for the remainder of the mental
+system to adjust in any way to any change in the experience processed by the gadget, since
+the remainder of the mental system is, due to the stipulation, necessarily unchanged.
+An inversion that might seem to be without functional implications would have to be
+both systematic and total; it would have to occur consistently across the whole of the
+experience involving the relevant qualia, and therefore, in this case, in the qualia of visual
+memories and imaginings as well as in those of all of immediate vision. (And an absence of
+qualia that might seem to be without functional implications would have to be a total
+absence of all the qualia, an absence, that is, of all consciousness.) But our gadget
+replacement was of only the left half of the visual cortex. So if this replacement somehow
+resulted in an inversion or absence of qualia in the vision processed by the gadget, this
+inversion or absence on the right side of vision would clash with the necessarily unchanged
+qualia of visual memories and associations, as well as with the unchanged qualia of the other
+side of the visual field. Such a clash would make it absurd, in the now familiar way, that the
+pattern of mental functioning could not be reflecting a clash. So qualia inversion or absence
+cannot be what is happening in the gadget replacement. The experience must simply be the
+same.
+[...]
+It misleadingly seems to us that the intrinsic nature of our quale of red cannot be
+determined by something as extrinsic to our visual processing as the external pattern of the
+gadget’s causal relations with the surrounding brain. And this seems aptly illustrated by the
+ease with which one can imagine colour qualia reversing their roles in one’s psychology, as
+we earlier did with red and blue. Impressed by the apparent non-relational immediacy of
+qualia and their seeming interchangeability, we want to link them intimately to nonrelational, interchangeable intrinsic properties of the brain. And we can then seem to
+understand the possibility of qualia inversion as the possibility of a role reversal in brain
+activity, between, say, “chemical x” and “chemical y”.
+But what can prevent our imagining a reversal of the roles of such functionally
+interchangeable chemicals between the right and left visual cortex of the same person? And
+then, according to this assignment of qualia to such intrinsic determinations, red and blue
+things on one side of the visual field would look the other way around from how they looked
+on the other side; yet they would be treated and thought of, in all the activities of the rest of
+the brain in which they were compared, as looking the same on both sides. And this would
+be absurd.
+If we are to imagine that qualia can be totally inverted or absent without functional
+implications, this requires that we think that qualia depend on interchangeable nonfunctional properties of a sort that could thus be inverted or absent without functional
+implications. But that means it must also be possible that these non-functional properties,
+and therein qualia, could be changed unsystematically, and that there could be merely partial
+inversions or absences of qualia, without any functional implications. And this, of course, is
+absurd.
+[...]
+But, one might think, there may yet be a way to resist this conclusion. What about
+the very aphasia case I described earlier? We would naturally regard it as absurd that a
+person could at once be moving based on vision and honestly reporting he is not seeing that
+scene in which he is moving. This case of mental inconsistency seems impossible, yet it
+exists. So maybe what we rejected, a gadget replacement in which experience changed with
+no effect on mental functioning, is like aphasia, and only seemingly impossible. But the
+cases are crucially different.
+We try to imagine what it’s like for the aphasia patient to move around and deal with
+objects based on vision that he honestly says he’s not having. We then realize that the state
+of vision on which the movement is based and the very different state of vision on which the
+speech is based must each be experienced as though it did not belong to the same person
+who is in the other state. But surely both states must really belong equally to the patient. If
+only one of them had existed, it would undoubtedly have been his experience. How can the
+mere existence of the other have changed that ownership? The solution to this puzzle, then,
+is that it must just be seeming to the patient that he is in only one of these visual states. He is
+really in both states at once, but with an illusion in each that he isn’t in the other. Being in
+both is not the same as knowing that one is. This confusion between metaphysical and
+merely epistemic boundaries is what makes such a break between the functions of a single
+person’s mind seem impossible though it really is not.
+Notice that this case of aphasia, unlike that of the gadget replacement, has functional
+implications, which are essential to it. It consists in a disharmony between functions, those
+of speech and movement, which corresponds, we must suppose, to an alienation between the
+visual experiences on which these functions are based."
+
+
+
+### A Functional Analysis of Experience
+
+In his treatise of functional analysis of experience Zuboff encourages us to look at a so-called Necker cube. The Necker cube is an ambiguous drawing, resulting in an optical illusion.
+Each part of the drawing is ambiguous by itself, yet the human visual system picks an interpretation of each part that makes the whole cube consistent, by choosing an orientation it might have, if it was a 3D object.
+We can shift this orientation ourselves, even though, of course, the drawing of the cube does not change.
+
+"A naive view is that the shift is an event in the object, in the picture on the paper, and
+you are simply open to this in your perception of it. If it were not for the special obviousness
+in this case of a reason for rejecting it, this naive view would be by far the most natural one.
+After all, that view agrees with how things look. The phenomenal properties of the picture
+are changing, and it can only look to us as though the picture in itself is changing.
+What makes it so obvious in this case that the natural view is wrong is that you are
+controlling the shift. Which way the picture looks is decided by you, not by anything in the
+object. So you know that what changes is not the object but something in you, your way of
+seeing it. As philosophers we are lucky here. Since in the struggle for survival either way of
+seeing such a cube (called a “Necker cube” in perceptual psychology) could be useful, in
+this special sort of case nature has allowed us not only a rare power over our own perception
+but with it also a rare opportunity to see beyond our usual naivety. In most cases we simply
+take our perception as a passive openness to the object, which is thought of as in itself just as
+we see it. But now we may learn that seeing anything requires an activity in us, of seeing it
+as something.
+The Necker cube can, I think, suggest strongly to us the secret of what this visual
+experience is. Is it not plausible that the shift in your experience of the cube be nothing but a
+shift between two systematic patterns of potential psychological and behavioural responses,
+the responses that you would make if called on to describe the cube, trace its front side,
+imagine objects resting upon it, etc.? When you are shifting from one way of seeing to the
+other, and the object is looking as though it is changing in its properties, the various ways
+you would function regarding that object are shifting. The suggestion is that the change of
+look in the object is nothing but the shift in the functions, from an appropriateness of
+function to one orientation of the cube to an appropriateness of it to the other orientation. In
+that change in the functions, and logically inseparable from it, the look of the object is
+changing. The object couldn’t now look like that without such a shift in the functions and
+there couldn’t be such a shift in the functions without it now looking like that. The shift in
+functions and in look are necessary and sufficient conditions of each other. And this that the
+Necker cube so strongly suggests is that which our consideration of the gadget replacement
+had already proved. Experience is logically determined by function.
+Someone who straightforwardly saw an object would be therein fixed to say, do and
+think things appropriate to it having a look; that would be its having that look for him. A
+lesion between the visual cortex and the speech centre could, in robbing him of some but not
+all of that appropriateness of function, make us say he both does and does not see. Further
+such lesions, between the visual cortex and more functions, would rob him of more ways in
+which he was seeing till finally, cut off from having any functional character, the visual
+cortex would have lost its significance for vision and he would be straightforwardly
+sightless.
+The appropriateness of potential responses to an orientation of the cube would not be
+a consciousness of the potential responses themselves. No, rather the existence of the pattern
+of potential responses would be the consciousness of the orientation of the cube. And one
+mustn’t imagine lots of distinct structures and determinations in the brain, each designed to
+deal explicitly with another circumstance in which another appropriate response would be
+implied by the existence of the mental state. Thus if an appropriate response is that I would,
+with the right motivation, describe cube A as seeming to have the orientation of cube B, one
+mustn’t expect the function of speech to include an explicit, spelled-out determination that I
+would be so describing it to a circus clown named Bozo to whom I was honestly reporting
+my experience or that I would be ready to say the appropriate thing in some particular
+ancient lost language if I had learned to speak it. These implications would be there, in my
+function of speech, if it was fixed in a way appropriate to my seeing that orientation of the
+cube; but they would be there only implicitly.
+Let’s now examine more closely what happens when we see. Light from the object
+strikes the retinas. In the retinas light-sensitive chemical reactions trigger an immediate
+pattern of impulses in associated neurons. Specialized cells are so connected with this
+immediate stimulation that they are stimulated only by various abstract features of it. For
+example, one specialized neuron will receive impulses when, and only when, lines lie at a
+certain angle, no matter where on the retinas they are registered. This will finally be
+translated into functional responses to that angle of line as an abstraction. Much of the
+processing in the visual cortex carries on like this, with more and more general features of
+the scene being registered in specialized neurons. But none of this is vision if it is considered
+only at this stage. None of it ever would be vision if it did not issue in functional effects that
+fixed the look of the object of vision by their appropriateness to its being that way.
+A pawn in a game of chess may be a piece of stone or a piece of wood. Its being
+stone or wood is an intrinsic property not importantly related to its being a pawn. That the
+piece of stone or wood is also a pawn is logically determined by its extrinsic property of
+possessing a role in a game. Without the context of the game it makes no sense to call this a
+pawn. Yet the pawn still is the piece of wood or stone. It has intrinsic properties too,
+intrinsic properties which must be consistent with its role if it is to be a pawn. It would be a
+crude mistake to want to identify the pawn somehow with the wider game and not the piece
+of stone or wood simply because it is the wider game that makes the stone or wood also a
+pawn.
+Seeing the angle of a line is something caused by the relevant stimulation of the
+eyes, something that in its turn then causes the various appropriate functional determinations
+of talking, thinking and behaving, the ones that go with the line being seen as at that angle. I
+do not want to say that seeing the angle is the determinations of the functions any more than
+I would want to say that a pawn is a game of chess. It is the stimulation of the specialized
+cell in the visual cortex that is the seeing of the angle, but only because of its effects in the
+functions. Without those effects the seeing would be bereft of its phenomenal character, as
+well as its behavioural and internal psychological implications, and then it would be no
+seeing. I am here endorsing a view called “the causal role identity thesis”; I am endorsing it,
+that is, if it includes my understanding of phenomenology. A mental item has its mental
+nature purely through playing the causal role of that item; but its playing that role, I would
+insist, is to be understood, as we proved through our gadget replacement case, to be fixing
+any phenomenal character the mental item may have. This is crucial because a phenomenal
+character is essential to much of the mental. What would a pain be without it?
+And, speaking of pain, let me reinforce this analysis of vision with a consideration of
+another mental item, a pain in my right hand. The naive view that is directly suggested by
+the way the thing seems is that an unpleasant substance or quality is actually occupying an
+area of my physical hand, just as some injected material would be doing. But no physical
+investigation of my hand will turn up that substance or quality. Furthermore, someone who
+had lost an arm could be genuinely encountering an object just like this one, as a phantom
+limb pain, without the hand even being there.
+The naive view is that if the area of the pain then shrinks two causally connected
+events are occurring. The pain itself is shrinking, and this shrinking of the pain is causing
+my experience of it to change accordingly. But there are not here two causally connected
+events. It would be absurd, a contradiction, for the pain to shrink while my experience failed
+to reflect this. My experience of the pain logically determines the entire existence and nature
+of the pain itself. This is not to say that the pain as mental object somehow is the experience
+of it. This also would be absurd. The pain and the experience of it are correlatives. For a
+purely phenomenal object like a pain, to be is to be perceived. Its whole existence and nature
+is logically determined by the existence and nature of the experience of it. In a sense only
+the experience exists, since in its existence alone does the pain exist; but then in that other
+sense, of course, that it is perceived, the pain does exist. And all its phenomenal properties,
+of location, intensity, unpleasantness, are determined utterly in the experience of them.
+But what makes the experience an experience of just such a pain? Try to think of my
+feeling that pain in my right hand while I was in all ways fixed to respond to it as a tickle on
+the sole of my left foot. How could it have the properties of a pain in my right hand then?
+How could it fail to be instead a sensation of a tickle on the sole of my left foot?
+The pain or the tickle, the phenomenal object, exists only in there being an
+experience of it. This experience is the brain process, or whatever else, that plays the
+psychological causal role of the experience of the pain or the tickle. And this experience
+possesses its phenomenological character, and therein the pain or tickle possesses its
+apparent character, solely through the experience’s functional character, through the way it
+affects the mental functions that would deal with the pain or the tickle.
+Yet much of the mental is partly or wholly unconscious. The conscious mental
+activities, speech, imagination, voluntary movement and so on, are, as it happens, in the
+upper part of the brain. They typically are highly integrated with and reflective of each
+other, though, as we saw in the case of aphasia, they are not necessarily so. When a child
+learns to use a spoon, at first it is the conscious mind that awkwardly deals with it. As the
+child practices, however, neurons lower down in the brain are firing sympathetically with
+the conscious brain activity and also averaging out the mistakes and clumsiness. Such
+actions, once learned, are far better performed unconsciously. Soon it will not be the
+conscious mind that deals with the spoon. The conscious mental activities will be free for
+those things done better by them.
+In the view I am urging consciousness is not an occult quality but rather a certain
+area and style of activity. Consider for a moment some things that lie on the borderline of
+consciousness. Some detail of your peripheral vision or the sensations in your toes, were you
+really conscious of these before I mentioned them? That may be hard to say. But they were
+brought very definitely into consciousness when I did mention them. In your becoming more
+conscious of the toes they became much more influential in the conscious mental activities;
+you then were ready to talk about them, think about them, perform voluntary actions in
+response to them. My view, of course, is that this much fuller occupation of your conscious
+functions with the state of your toes just was your more definite consciousness of them."
+
+
+
+### A Functional Analysis of Color Qualia
+
+"So what should a functionalist say about qualia inversion? It is not surprising that
+colours are experienced as systematically interchangeable on the most obvious level of
+functioning. For colours serve, quite literally, as mere placeholders in our spatial experience.
+It must be that one colour could easily appear in the place of another. Yet colours must be
+distinguishable; something in how we experience them makes red look different from blue.
+Anyone who embraces functionalism because of the a priori reasoning of this paper must
+say that, since only functional properties determine the experience of qualia, when we
+imagine an inversion of that experience without any obvious functional change we are
+actually imagining an inversion of certain subtler functional properties that give the colours
+their particular looks. But what could these subtler functional properties be?
+At one time it was popular to talk about the “red-green paradox”, that two people
+might be experiencing red and green qualia that were inverted between them with no sign of
+this difference in their speech or behaviour. But philosophers have largely been won over
+instead to talking about an inversion of the whole spectrum (with which my earlier inversion
+of red and blue is roughly in line). This is because the qualia of red and green are not in
+every way interchangeable after all; they are differently related to the qualia of the other
+colours.
+For example, green will be produced by a blending of blue and yellow. This looks
+right to us. But if your quale of green was replaced by that of red, the unchanged blue and
+yellow qualia would be rather unconvincing in producing the former red quale instead of the
+green when they blended. This would look wrong, even if experienced that way from birth.
+It was thought that standing the qualia of the rainbow upside down, an inverted spectrum,
+would preserve the pattern of blending. But this has been challenged. I think the truth is
+rather that each colour quale is in a unique relationship with all the others. For then we may
+be able to understand a quale as logically determined by the set, appropriate only to that
+quale, of one’s potential responses to its potential blendings and contrasts.
+There is a feature of colour experience that perceptual psychologists call “colour
+constancy”. I once looked at my familiar brown briefcase lying on a couch and was
+surprised to discover that a spot on its surface had turned pink. My first thought was that
+perhaps some strong bleach had been splashed on it. But after a while I realized that a circle
+of bright, unusually focused sunlight was shining on the briefcase through a small opening
+in a curtain across the room. As soon as I recognized this fact the colour constancy in my
+perception changed the look of the colour of that spot from pink-in-the-shade to a lighted-up
+brown. I was able then to make myself move back and forth between seeing one colour and
+the other, just as you were able to do between the two orientations of the Necker cube.
+I think that when my experience of that colour changed what was crucially changing
+was a set of implicit potential responses to relationships of colours and light, to how this
+colour would blend and contrast with others, in sunlight or out of sunlight. To see this colour
+as pink-in-the-shade was to be ready, implicitly, with all those responses appropriate to its
+looking pink-in-the-shade; and the change to seeing the colour as lighted-up brown was a
+change to an alternative state of readiness and appropriateness that was dramatically
+different. If a colour has any look for us we must be in a state of appropriate response to that
+look. And the a priori assurance that functions preserve all experience requires that the
+colour having its look just is our being in such a functional state.
+The functions of speech and behaviour that we are tempted to think would remain
+unaffected in a systematic qualia inversion are those based on extrinsic relationships of
+qualia, such as being associated with certain names or objects. The functions that I am
+arguing logically determine the qualia, are based rather on qualitative relationships that are
+inherent in the qualia and inseparable from their natures.
+The number nine has extrinsic relationships with its name and with the planets of the
+solar system, which happen to be nine in number but might not have been. But its inherent
+relation to three, considered as its square root, logically determines that the number is nine.
+Nothing that has nine’s relationships with three, or with five hundred and four, could fail to
+be nine. Just so, nothing could fail to be a certain quale that had its inherent relationships
+with the other qualia. And an expression of those same inherent relationships in the higher
+functions, in the implicit potential responses to the look of a colour, could not fail to be an
+experience of that quale.
+But the main point for me is not that such an account of our experience of qualia is in
+its own right persuasive. It’s rather that something like this account must be correct because
+functionalism can be established as necessarily true by the reasoning of our replacement
+argument.
+I confess that the combination of the replacement argument for functionalism and the
+inverted spectrum argument against it has sometimes appeared to me to represent an
+unresolvable paradox at the heart of the mind-body problem. On the one hand it seemed
+easy to conceive of total systematic inversions or absences of qualia that were functionally
+irrelevant. On the other hand the proposition that such functionally irrelevant changes in
+qualia were possible would have had to imply that the qualia depended on non-functional
+properties; and this in turn would have had to imply that there could also be partial,
+unsystematic changes in qualia that were functionally irrelevant. We have seen that such
+non-functional disturbances of experience would be absurd. They would be far more clearly
+absurd, I have been arguing, than the determination of qualia by purely functional
+properties.
+If I find myself insisting that my experience of red is uncapturable by any functional
+analysis, I can stop myself by reflecting that if God were playing a trick on me, of fiddling
+with the character of whatever was causing me to speak, as long as God preserved just its
+functional implications for speech, I would go on talking in exactly this way about the
+absurdity of functionalism. Until, of course, this reflection stopped me. Functionalism seems
+to me by far the lesser of two apparent absurdities."
+
 
 
 
 ### Multiple Drafts Model and the Thousand Brains Theory
+
+Now, after finding out that functionalism is the right description of consciousness, experience and mind, we can next devote ourselves to figuring out how it all works.
 
 Daniel Dennett's Multiple Drafts Model (MDM) presents a functionalist approach to understanding consciousness. MDM posits that consciousness arises from parallel, distributed processes within the brain, leading to multiple, simultaneous interpretations—or "drafts"—of sensory inputs and cognitive events. These drafts compete for influence over behavior and cognitive functions, with no single draft holding privileged status as the definitive conscious experience. Dennett's model draws from the Global Workspace Theory in positing that consciousness arises when information is broadcast across a neural workspace, allowing disparate cognitive modules to access and integrate information. The core idea is that consciousness is more like fame than like television or what Dennett calls the cartesian theater (which he wants to vanquish); it’s not a special "medium of representation" in the brain where content must be transformed to become conscious. As Kanwisher (2001) points out, "The neural correlates of consciousness for a particular perceptible feature are found in the neural structure that processes that feature". Instead of switching to a different medium or going somewhere to become conscious, previously unconscious content stays right where it is, gaining a form of "fame" that competes with other content vying for recognition. According to this view, this competition is what defines consciousness. Just as one can be on TV and seen by millions without becoming famous, because the TV appearance doesn’t have the right impact, there is no special area in the brain where representation alone is enough for consciousness. It’s always the consequences that make the difference.
 
@@ -677,6 +1011,8 @@ I contend that Graziano's attention schema theory is subsumed by Gazzaniga's lef
 In the greater scheme of things the voting mechanism which decides about what drafts of narrative become famous and can therefore influence our behavior, is itslef made into a narrative by an interpreter in our mind. This narrative is what Graziano calls the attention schema, which is related to our memories in such a way that we would call these memories our experiences (that we were aware of). The primary adaptive function of the attention schema is to enable a better, more flexible control of attention. In the theory of dynamical systems control, a control system works better and more flexibly if it constructs an internal model of the item it controls. An automatic airplane-piloting system will work better if it incorporates a model of the dynamics of the airplane. An air and temperature controller for a building works better if it incorporates a rich, predictive model of the building's airflow and temperature dynamics. The brain's controller of attention works better by constructing a rich, internal model of what attention is, how it changes over time, what its consequences are, and what state it is in at any moment.
 
 This model is essentially the narrative we perceive as that which we are aware of. The model itself might reside almost entirely in our brain's language-processing modules, but it is highly connected to every part of our cortex. It only becomes aware of the consensus within our cortex, but might influence the voting process itself, for it might influence the shifting of attention within the cortical object spaces.
+
+
 
 
 ## On Morality
