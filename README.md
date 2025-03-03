@@ -636,7 +636,7 @@ Daniel Dennett writes: "If mind and body are distinct things or substances, they
 These old argument against dualism might not refute all types of dualistic approaches, but this wasn't my goal here. The goal was just to show how this one idea has really stiffled philosophical progress, even though it's so easily shown to be a fantasy. Instead of refuting all typs of dualism, it will suffice to prove that functionalism must be true, which is a non-dualst account of consciousness and mind. If functionalism is true, then dualism is false.
 
 
-This, in turn, means that the merely intrinsic characterisics and states of any parts of the brain are wholly irrelevant to consciousness. As long as the input/output-relations are the same, the experience is the same. This will also imply that philosophical zombies, as imagined by David Chalmers, are impossible.
+This, in turn, means that the merely intrinsic characterisics and states of any parts of the brain are wholly irrelevant to consciousness. As long as the input/output-relations are the same, the experience is the same. This implies that philosophical zombies, as imagined by David Chalmers, are impossible. It also implies that mind-uploading is indeed possible and that cryonics/cryopreservation can actually work in principle. While these topics are interesting, they are not discussed in further detail here.
 
 
 ### Functionalism
@@ -973,13 +973,32 @@ absurdity of functionalism. Until, of course, this reflection stopped me. Functi
 to me by far the lesser of two apparent absurdities."
 
 
+Another interesting topic on the subject of qualia, which I will only discuss briefly, is the problem of aphantasia. Aphantasia is a condition where a person is unable to visualize images in their mind. Most people can picture objects in their "mind’s eye." For example, if someone asks you to close your eyes and imagine an apple, you could likely describe its color and any unique details. However, someone with aphantasia wouldn’t be able to do this. To them, the idea of an apple exists only conceptually, not as a mental image. While they understand that apples can be green, yellow, or red, they can’t visualize a specific one in their mind. Imagination exists on a spectrum between hyperphantasia and aphantasia. 
+Both types of imagination seem to be closely connected to memory. People with hyperphantasia can recall and describe memories in much greater detail, while those with aphantasia tend to forget autobiographical information more easily. This suggests that memory is strongly linked to the ability to summon visual details.
+Researchers believe aphantasia may be caused by a weak connection between the frontal and occipital lobes. The frontal lobe generates the intention to visualize, while the occipital lobe creates the mental image.
+What makes aphantasia especially interesting in the study of consciousness is the idea that it may involve unconscious mental visualization. It seems that people with aphantasia can visualize 3D objects almost as well as people without aphantasia, since they can solve 3D rotation puzzles almost as quickly, but people with aphantasia are not consciously aware of their mental processes involved in solving these puzzles. But this is exactly what we would expect on our view of functionalism. As we've already found out, any functional unit in our brain can only be recognized in terms of its input-output relationships with any other functional unit. It the frontal and occipital lobes are only weakly connected, it is completely expected that we will not be able to create mental visualizations. The Multiple Drafts Model of consciousness will also make it clear that these visualization need not be send to any other place in the brain to become conscious. It is completely sufficient to posit that the occipital lobe is a bad competitor in the competition of clout in the brain. 
 
 
 ### Multiple Drafts Model and the Thousand Brains Theory
 
 Now, after finding out that functionalism is the right description of consciousness, experience and mind, we can next devote ourselves to figuring out how it all works.
 
-Daniel Dennett's Multiple Drafts Model (MDM) presents a functionalist approach to understanding consciousness. MDM posits that consciousness arises from parallel, distributed processes within the brain, leading to multiple, simultaneous interpretations—or "drafts"—of sensory inputs and cognitive events. These drafts compete for influence over behavior and cognitive functions, with no single draft holding privileged status as the definitive conscious experience. Dennett's model draws from the Global Workspace Theory in positing that consciousness arises when information is broadcast across a neural workspace, allowing disparate cognitive modules to access and integrate information. The core idea is that consciousness is more like fame than like television or what Dennett calls the cartesian theater (which he wants to vanquish); it’s not a special "medium of representation" in the brain where content must be transformed to become conscious. As Kanwisher (2001) points out, "The neural correlates of consciousness for a particular perceptible feature are found in the neural structure that processes that feature". Instead of switching to a different medium or going somewhere to become conscious, previously unconscious content stays right where it is, gaining a form of "fame" that competes with other content vying for recognition. According to this view, this competition is what defines consciousness. Just as one can be on TV and seen by millions without becoming famous, because the TV appearance doesn’t have the right impact, there is no special area in the brain where representation alone is enough for consciousness. It’s always the consequences that make the difference.
+Daniel Dennett's Multiple Drafts Model (MDM) presents a functionalist approach to understanding consciousness. MDM posits that consciousness arises from parallel, distributed processes within the brain, leading to multiple, simultaneous interpretations—or "drafts"—of sensory inputs and cognitive events. These drafts compete for influence over behavior and cognitive functions, with no single draft holding privileged status as the definitive conscious experience. Dennett's model draws from the Global Workspace Theory in positing that consciousness arises when information is broadcast across a neural workspace "where just about everything can get in touch with just about everything else", allowing disparate cognitive modules to access and integrate information. 
+
+"The basic idea is that consciousness is more like fame than 
+television; it is not a special “medium of representation” in the
+brain into which content-bearing events must be transduced in
+order to become conscious. As Kanwisher (2001) aptly emphasizes: “the neural correlates of awareness of a given perceptual
+attribute are found in the very neural structure that perceptually analyzes that attribute.” Instead of switching media or
+going somewhere in order to become conscious, heretofore
+unconscious contents, staying right where they are, can achieve something rather like fame in competition with other fame
+seeking (or just potentially fame-finding) contents. And, according to this view, that is what consciousness is." 
+
+According to this view, this competition is what defines consciousness. Just as one can be on TV and seen by millions without becoming famous, because the TV appearance doesn’t have the right impact, there is no special area in the brain where representation alone is enough for consciousness. It’s always the consequences that make the difference.
+
+" So consciousness is not so much fame, then, as political influence—a good slang term is clout. When processes compete for 
+ongoing control of the body, the one with the greatest clout 
+dominates the scene until a process with even greater clout displaces it."
 
 I think one of the strongest arguments against the Cartesian Theater resides in a very short passage in Dennett's book Consciousness Explained. The Cartesian Theater would require a certain place where all the information comes together to become conscious. But if this were the case, we could never become conscious of information, which we were unconscious of at the moment of it being received. An often cited example is the autopilot-driver: "You have probably experienced the phenomenon of driving for miles while engrossed in conversation and then discovering that you have utterly no memory of the road, the traffic, your car-driving activities. It is as if someone else had been driving." This seems to be plausible if consciousness was a Cartesian Theater, because we think we were unconscious of the road-information we were receiving while driving and because it hadn't entered our Cartesian Theater, is is forever lost in unconsciousness. But we can think of counter-examples: "An even more striking case is the pehnomenon of being able to count, retrospectively in experience memory, the chimes of the clock which you only noticed was striking after four or five chimes. But how could you so clearly remember hearing something you hadn't been conscious of in the first place? The question betrays a commitment to the Cartesian model; there are no fixed facts about the stream of consciousness independent of particular probes."
 
@@ -1024,26 +1043,14 @@ On attention, they write: "One of the key elements of a location-based framework
 It can then be conjectured that our overall attention is also a shift between object spaces, where the object is, connected to the MDM, the winner in the competition of fame.
 
 
+
 ### Attention Schema Theory
 
-I contend that Graziano's attention schema theory is subsumed by Gazzaniga's left-brain interpreter. Graziano proposed that an attention schema is like the body schema. Just like the brain constructs a simplified model of the body to help monitor and control movements of the body, so the brain constructs a simplified model of attention to help monitor and control attention. The information in that model, portraying an imperfect and simplified version of attention, leads the brain to conclude that it has a non-physical essence of awareness. The construct of subjective awareness is the brain's efficient but imperfect model of its own attention. This model of attention is practically identical to the interpreter described by Gazzaniga, which is (as I've said) identical to the probing mechanism described by Dennett i.e., the fabricated narrative is the narrative about our attention. In this view, consciousness is not a direct reflection of sensory inputs but a model- or narrative-based construct that provides the organism with an understanding of its own focus and mental states. The attention schema enables the brain to attribute awareness to certain stimuli, creating the subjective experience of consciousness, which aligns with the functionalist emphasis on the roles and interactions of mental processes. 
+I contend that Graziano's attention schema theory is subsumed by Gazzaniga's interpreter. Graziano proposed that an attention schema is like the body schema. Just like the brain constructs a simplified model of the body to help monitor and control movements of the body, so the brain constructs a simplified model of attention to help monitor and control attention. The information in that model, portraying an imperfect and simplified version of attention, leads the brain to conclude that it has a non-physical essence of awareness. The construct of subjective awareness is the brain's efficient but imperfect model of its own attention. This model of attention is practically identical to the interpreter described by Gazzaniga, which is (as I've said) identical to the probing mechanism described by Dennett i.e., the fabricated narrative is the narrative about our attention. In this view, consciousness is not a direct reflection of sensory inputs but a model- or narrative-based construct that provides the organism with an understanding of its own focus and mental states. The attention schema enables the brain to attribute awareness to certain stimuli, creating the subjective experience of consciousness, which aligns with the functionalist emphasis on the roles and interactions of mental processes. 
 
 In the greater scheme of things the voting mechanism which decides about what drafts of narrative become famous and can therefore influence our behavior, is itslef made into a narrative by an interpreter in our mind. This narrative is what Graziano calls the attention schema, which is related to our memories in such a way that we would call these memories our experiences (that we were aware of). The primary adaptive function of the attention schema is to enable a better, more flexible control of attention. In the theory of dynamical systems control, a control system works better and more flexibly if it constructs an internal model of the item it controls. An automatic airplane-piloting system will work better if it incorporates a model of the dynamics of the airplane. An air and temperature controller for a building works better if it incorporates a rich, predictive model of the building's airflow and temperature dynamics. The brain's controller of attention works better by constructing a rich, internal model of what attention is, how it changes over time, what its consequences are, and what state it is in at any moment.
 
 This model is essentially the narrative we perceive as that which we are aware of. The model itself might reside to a great extend in our brain's language-processing modules, but it is highly connected to every part of our cortex. It only becomes aware of the consensus within our cortex, but might influence the voting process itself, for it might influence the shifting of attention within the cortical object spaces.
-
-
-
-### Time and Experience
-
-
-
-### Aphantasia and Blindsight
-
-
-
-### Mind Uploading
-
 
 
 
