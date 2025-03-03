@@ -1,7 +1,13 @@
 # Metaphysics
 
+- [On Ontology](#Ontology)
+- [On Epistemology](#Epistemology)
+- [On Personal Identity](#Identity)
+- [On the Theory of Mind](#Consciousness)
+- [On Morality](#Morality)
+- [On Free Will](#Control)
 
-## On Ontology
+## Ontology
 
 ### Existence
 The most fundamental metaphysical question is: Why is there anything at all? Until recently, science could not help us in answering this question, but I now believe that it can. 
@@ -41,7 +47,7 @@ In a society, anyone performing the same role is functionally equivalent. Howeve
 It might also be said, though it's not a rigorous argument, that merely societally agreed upon concepts are in a way less real than concepts based on ontic structural realism or functional realism, because they depend on the existence of that specific society, while functionally or structurally real concepts would be rediscovered by any society. (This argument is inspired by and expands the argument that some societally agreed upon religion would not be rediscoverable if that society were to be wiped out, while the scientifc knowledge of that society would be rediscoverable by any other society.)
 
 
-## On Epistemology
+## Epistemology
 
 ### The Problem of Induction
 
@@ -269,7 +275,7 @@ who has just fallen into the tiger’s enclosure and someone at home reading in 
 Well, all we can say is that these differing sorts of reactions to tigers are typical of people in situations like those. They are subjective reactions that cannot be justified by objective differences in how much danger a tiger is posing, since a tiger is always dangerous."
 
 
-## On Personal Identity
+## Identity
 
 What is personal identity? Why do we have a persistent identity over time? Why are we the same person at 80 as we were at 8, even if we don’t remember anything from when we were 8? One approach is psychological connectedness, what Derek Parfit called “Relation R.” 
 Through this, Parfit rejected personal identity altogether and instead focused on survival. According to him, what matters in survival is not strict identity but rather the continuity of psychological connections. 
@@ -618,7 +624,7 @@ One might interject and criticize this explanation on the same grounds I critici
 But this explanation doesn't claim that causality could account for the boundary of consciousness. There might be many more prerequisites for conscious experience, like coherence, consensus, integration, feedback loops etc. These are more likely to account for the boundary.
 
 
-## On the Theory of Mind
+## Consciousness
 
 
 ### The Problem of Dualism
@@ -1020,7 +1026,7 @@ This model is essentially the narrative we perceive as that which we are aware o
 
 
 
-## On Morality
+## Morality
 
 Why is consciousness so tightly linked to morality? In questions regarding animal ethics, abortion ethics, AI ethics, or medical ethics consciousness is often a deciding factor for how to treat any being. 
 Kant thought that humans had some kind of inherent dignity. But where does that come from? Philosophers have tried to answer this, but there is no actual answer. It somehow just has to be there, in order to make Kantian ethics work. 
@@ -1322,7 +1328,7 @@ Any other team formation necessarily ignores that what one does to the enemy, on
 
 
 
-## On Free Will
+## Control
 
 
 Universalism and incompatibilism share many counter-intuitive ethical consequences, making it highly improbable for these concepts to have any role in a hypothetical science of ethics. As a result, consequentialist-utilitarian ethics is way more persuasive. 
