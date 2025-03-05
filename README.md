@@ -160,7 +160,23 @@ But the pragmatist is failing to notice that he is refuting himself. Pragmatism 
 In other words, pragmatism cannot see itself as true merely pragmatically.” 
 Zuboff argues that any theory rejecting objectivism about truth, where objectivism follows the correspondence theory (i.e., a thought, statement, or representation is true if and only if reality is as it is described), ultimately falls into this trap of self-defeat. 
 
-He writes: "The undermining effect of this critique has a pretty wide reach. A few more
+He writes: 
+
+"Another important example would be a theory that insisted that the truth of what we
+say depends on nothing but rules for when it is right to say such a thing in our
+‘language game’. This insistence can seem to defeat skepticism because we usually
+allow ourselves to say that we know all manner of things to be true that a sceptic is
+maintaining we don’t really know.
+But it could make no sense for a holder of this theory to regard the truth of this theory
+itself as decided by the rules of a language game. For the view must hold that if a
+rejection of this language game theory itself were to be incorporated into the rules of
+the language game then that rejection would therein be true—but only because it
+was in the rules of the language game to say that it was. Hence this theory would still
+be regarding itself as the underlying truth about truth quite apart from whether it
+accorded with our linguistic practices to say that it was. And thus it cannot be
+regarding its truth as fixed by the rules of a language game."
+
+"The undermining effect of this critique has a pretty wide reach. A few more
 examples:
 Do Wittgensteinians want to say that their own description of language as a game is
 itself merely a set of moves in that game? Then if rival descriptions of language
