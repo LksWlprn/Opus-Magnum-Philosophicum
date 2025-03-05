@@ -74,6 +74,61 @@ Nevertheless, it remains the best-supported theory given current evidence.
 In an ideal scenario where all possible hypotheses were conjectured and all falsification tests were known, probability could determine which hypothesis would be most likely true. 
 However, in reality, we lack such completeness. We also acknowledge that falsification is never absolute—errors, oversight, or hallucinations are always possible. Yet, probabilistically, it is improbable that, for example, an entire scientific community hallucinated a black swan. 
 
+Zuboff explains his principle using a story of observing an imaginary species called humebirds, who, until now, have been observed to be blue: "There is indeed, as Hume
+insisted, no logical necessity that the next humebird be blue; but there is a logical
+necessity that it is probable that the next humebird will be blue given this evidence.
+For it is necessarily probable that this collection of random samples has a similar
+proportion of blueness to that of the general population from which it has been taken.
+Let me explain.
+I think that while we are observing the 100 humebirds, rather than forming a Humean
+habit of expectation, we are calculating implicitly the most probable hypothesis
+concerning the general population of humebirds from which these observed birds are
+being randomly sampled. That hypothesis regarding this population that we are
+justifiably coming to favour as most probable is the one that would make the
+occurrence of the evidence, our observations, as highly probable an event as it can
+be. For that high probability of the evidence within the hypothesis necessarily lends
+its weight to the probability of the hypothesis itself, as I shall explain.
+It may help us in this to consider an example of a hypothesis that we would justifiably
+reject as improbable. The worst of these would be the hypothesis that the only birds
+that are blue among the population of humebirds we were sampling happened to be
+the 100 we have already seen. If that were true, then it would have been highly
+probable that non-blue birds would have got mixed into the first hundred
+observations. And our actual observations of only blue humebirds would have had to
+be an extremely improbable event. But, as I often observed in our earlier discussion,
+something improbable necessarily had a low probability of occurring. Hence the
+improbability of the evidence given this hypothesis makes the hypothesis combined
+with the evidence necessarily improbable.
+That the observations were of nothing but blue humebirds, however, gets less and
+less improbable in those hypotheses that increase the proportion of humebirds that
+are blue. The truth of these hypotheses therefore, along with that of the evidence,
+involves less improbability. The least improbable hypothesis must be that the
+humebirds across the whole population being sampled were generally blue. That is
+the hypothesis we implicitly settle on as most probable. And it goes along with this
+hypothesis, of course, that the next humebird sampled from the same population
+(and under the same general conditions) should be expected to be blue. And this, I
+contend, is the implicit thinking that rightly makes us expect that the next humebird
+will be blue.
+This reasoning constitutes an a priori justification of induction. But I have run into
+people with suspicions that I am cheating in claiming that all my reasoning about the
+observed evidence was done a priori, based on nothing but necessary truth whose
+denial would be a contradiction. Why? Well, I had used probabilities and they
+thought that probabilities must have been empirically derived. But anyone who looks
+carefully will see that none of the probabilities appealed to are established
+empirically. For example, I claimed along the way that the first 100 random samples
+being purely blue would be improbable within a hypothesis that only 100 humebirds
+are blue and the rest not blue. For it would be a necessary, mathematical truth that
+there would be many more ways in which the first 100 observations could have gone
+differently, with other colours showing earlier, within the hypothesis of only 100 out of
+the whole humebird population being blue. Nothing there is established empirically.
+The only empirical part of the whole thing would be observing the colour of the
+actually sampled humebirds (which in our case, to help us raise Hume’s problem, is
+simply given to have been blue). But the probabilities in our competing hypotheses
+are fixed a priori, within them. We then correctly judge to be most probable among
+them that hypothesis in which the observations would have been produced with the
+highest probability. For it is a necessary truth that that which is more probable is
+more probable to have occurred."
+
+
 So, both falsification and Bayesian inference contribute to solving the problem of induction. They represent two distinct types of contradiction in relation to a given hypothesis, forming the foundation for knowledge acquisition. 
 
 
@@ -215,6 +270,9 @@ What mattered in both the introduction of justification and Gettier cases was ep
 Non-coincidence relates to the justification because something can be true because of reasons given in the justification, or it can be unrelatedly true. The justification is based on falsification and the principle of highest probability. 
 But, in Gettier cases, the truth of my belief (e.g., that the barn is real) is not actually related to this justification, but it is true despite the justification for believing it being wrong. 
 What is then needed for non-coincidence is that the justification of my belief in X is also coupled to the truth of X. 
+
+In the barn-Gettier-case our justification is that our "visual experience makes it reasonable, from his point of view, to hold that belief". But Henry could not distinguish between fake and real barns from this point of view, meaning that his justification would have been exactly the same for believing another fake barn to be real. This shows a decoupling between justification and truth, since the justification cannot actually justify anything, for it could not have justified the realness of the other fake barn. Believing the barn to be real is in this way only coincidentally true and not actually justifiably true. To be able to really tell a fake barn from a real barn, one would have to examine these barns more closely and find a reliable method of examination, for only then one would be able to differentiate them and could come up with an actual justification coupled to the truth.
+
 
 ### An Answer to Scepticism
 
