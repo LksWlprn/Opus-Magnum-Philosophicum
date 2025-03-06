@@ -549,7 +549,8 @@ experience—its being simply 'this one'—just as it will be discovered during 
 game. (Only subjective individuation can agree with that.) 
 3. From within any awakening I could use its particularity to infer the immensely 
 higher probability that there are a trillion awakenings. (Only objective 
-individuation can agree with that.) 
+individuation can agree with that.)
+
 It is from these three beliefs put together that we get the contradictory 
 impression of before the game not being able to make the inference and yet 
 then having hold of all that will be required to make the inference. 
