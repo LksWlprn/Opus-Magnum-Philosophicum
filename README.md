@@ -584,7 +584,7 @@ Likewise, if we were to doubt universalism, we would need to explain why a certa
 But this means, postulating something we haven't observed and maybe even in principle cannot observe. It also violates ontological parsimony and therefore Occam's Razor. 
 
 
-### Occam's razor
+### Occam's Razor
 
 Occam's razor can derive its effectiveness from the uselessness of introducing a claim into one's hypotheses that doesn't contribute to explain one's evidence. It is not obvious that believing in the separateness of subjects violates Occam's razor, but it does. 
 The evidence that we experience only our own perspective within a single human being can be fully explained by the observation that experiences are isolated from one another. 
@@ -665,7 +665,7 @@ Using brain-machine interfaces, we could even create separate virtual realities 
 Would this lead to two permanently separate subjects residing in the same brain, or would they simply reintegrate into the original subject, who now feels as though it experienced both gaming and studying? Isn't the latter far more likely, since it is already the status-quo? 
 
 
-### Nick Bostrom's counter-arguments
+### Nick Bostrom's Counter-Arguments
 
 The most famous counterarguments against universalism—or more specifically, the unification hypothesis, which is a sufficient condition for universalism to be true but not an unavoidably necessary one—were published by Nick Bostrom. 
 Bostrom’s first counterarguments both rely on the assumption of a quasi-infinite universe. While they ultimately fail to refute unification, they might still provide new insights into the nature of the universe and experience.
@@ -1169,7 +1169,7 @@ In Dennett's model, consciousness is not a static state but a dynamic process, c
 
 Daniel Dennett wrote: "According to the Multiple Drafts model, all variaties of perception—indeed, all varieties of thought and mental activity—are accomplished in the brain by parallel, multitrack processes of interpretation and elabroation of sensory inputs. Information entering the nervous system is under continuous "editalorial revision." For instance, since your head moves a bit and your eyes move a lot, the images on your retina swim about constantly, rather like the images of home movies taken by people who can't keep the camera from jiggling. But that is not how it seems to us. People are often surprised to learn that under normal conditions, their eyes dart about in rapid saccades, about five quick fixations a second, and that this motion, like the motion of their heads, is edited out early in the processing from eyeball to ... consciousness. [...] The editorial processes occur over large fractions of a second during which time various additions, incorporations, emendations, and overwritings of content can occur, in various orders. We don't directly experience what happens on our retinas, in our ears, on the surface of our skin. What we actually experience is a product of many processes of interpretation—editorial processes, in effect. They take in relatively raw and one-sided representations, and yield collated, revised, enhanced representations, and they take place in the streams of activity occuring in various parts of the brain. This much is recognized by virtually all theories of perception, but now we are poised for the novel feature of the Multiple Drafts model: Feature detections or discriminations only have to be made once. That is, once a particular "observation" of some feature has been made,by as specialized localized portion of the brain, the information content thus fixed does not have to be sent somewhere else to be rediscriminated by some "master" discriminator. In other words, discrimination does not lead to a representation of the already discriminated feature for the benefit of the audience in the Cartesian Theater—for there is no Cartesian Theater."
 
-Even though I'm not going into more details about the model, it can convincingly explain many more, and I would even claim, all of the known psychological diseases. It is particularly insightful to consider the following disorders in light of the MDM: dissociative identity disorder, schizophrenia, dissociative amnesia, self-talk, cognitive dissonance, blindsight, red-green colorblindness, alien hand syndrome, phantom limb syndrome, depersonalization or derealization disorders, aphasia, Capgras syndrome, Anton-Babinski syndrome, prosopagnosia, reduplicative paramnesia, anosognosia, Tourette syndrome, Déjà vus, ADHD, synesthesia or palinopsia. 
+Even though I'm not going into more details about the model, it can convincingly explain many more, and I would even claim, all of the known psychological diseases. It is particularly insightful to consider the following phenomena in light of the MDM: dissociative identity disorder, schizophrenia, dissociative amnesia, self-talk, cognitive dissonance, blindsight, red-green colorblindness, alien hand syndrome, phantom limb syndrome, depersonalization or derealization disorders, aphasia, Capgras syndrome, Anton-Babinski syndrome, prosopagnosia, reduplicative paramnesia, anosognosia, Tourette syndrome, Déjà vus, ADHD, synesthesia or palinopsia. 
 
 
 ### The Left Brain Interpreter
@@ -1228,7 +1228,7 @@ The answer to both questions is really simple when one knows about Universalism.
 By the immediacy of experience from the first-person PoV (for the full argument, see Zuboffs work). If this is accepted, then every being with this pattern of immediacy in its experience is the same person. By that logic, consciousness tells you, when another being is you. 
 That is why consciousness is so important, because it distinguishes what is you and what not. And by doing that, it distinguishes what is of moral consideration and what not. There is no inherent dignity to humans, but it emerges from consciousness and Universalism.
 
-### Hume's law
+### Hume's Law
 How to get an 'ought' from an 'is':
 
 P1: One should only desire, what one really desires.
@@ -1363,7 +1363,7 @@ The hypothetical perfect grasp itself must contain an appreciation of all such p
 A moral system that demanded absolute, unrelenting concern for distant others and the distant future might, only at first glance, seem to follow from the principle of perfect grasp. But a perfect grasp would necessarily include a perfect grasp about one's own mental and physical limitations. Humans cannot function effectively under unbearable moral burdens. Excessive moral demands lead to burnout, inefficiency, and sometimes paradoxically worse moral outcomes (e.g., failing to care adequately for those closest to oneself or one’s immediate responsibilities). Moral demands must be sustainable; if an approach causes widespread exhaustion, resentment, or disengagement, it fails to produce the best outcomes. Furthermore, spreading resources too thinly diminishes effectiveness—if one tries to maximize distant concerns at all costs, one risks achieving less than if one had balanced priorities. In this way, fanaticism paradoxically harms the very values it seeks to promote. Extreme self-sacrifice discourages others from acting morally because people confronted with an impossible standard may give up entirely. Additionally, moral motivation depends on intrinsic satisfaction and meaning, which fanaticism often erodes. A perfectly informed agent would therefore conclude that an ethical approach must be practicable and motivating, not just theoretically demanding. If everyone were to prioritize distant concerns at the expense of their immediate responsibilities, then the entire moral structure of human interaction might collapse. A perfect grasp would include an awareness that local and immediate responsibilities are crucial for maintaining long-term moral effectiveness. Stoicism teaches that inner tranquility is essential for moral clarity and effective action. We must focus, for it is in our own best interest and best for our mental health, on what we can control, and accept what cannot be controlled. I believe that stoicism is the most important philosophy for finding out what a perfect grasp would entail.
 
 
-### The Value of life
+### The Value of Life
 
 Universalism leads to some new perspectives on ethics. One such perspective concerns the ethical value of life. Since the death of an individual is no longer synonymous with the death of their subjective experience, it follows that death is not inherently something to fear. 
 Instead, death must be evaluated on a different basis than usual. The fear of death can no longer be understood as the fear of non-experience. Nor is it simply the fear of losing one’s memories, as storing those memories as a computer file would not alleviate this fear. 
@@ -1428,7 +1428,7 @@ Longtermism is further strengthened by universalism, which clarifies that the su
 According to the principle of perfect grasp, if one were to fully grasp everything involved, one would naturally seek to prevent futures of immense suffering, for one will otherwise unavoidably experience all that suffering. So this is what we should strive to do.
 
 
-### Practical application
+### Practical Application
 
 There are many possible analogies to approximate the previously derived ethical rule:
 
@@ -1512,7 +1512,7 @@ The problem becomes even more pronounced when we scale up the numbers. If a thou
 This logic leads to an obviously unethical conclusion: that systematically eliminating as many people as possible would be the best action to take. Clearly, this contradicts what we would truly want to do if we had a perfect grasp of everything involved. 
 This conclusion arises because it completely neglects the fact that there is a desirable state of mind, we call well-being and not just an undesirable state of suffering. To optimize the experience of the universal subjects, we need to think about the desirable and undesirable.
 
-### Team formation
+### Team Formation
 
 Generally, team formation is seen as a positive development, as it unites people behind a common cause. The mindset associated with this is called the 'soldier mindset' by Julia Galef. However, team formation could just as easily be seen as creating division and exclusion. 
 Beyond practical purposes, it leads to self-deception through motivated reasoning. People begin to integrate these causes into their identities, so that any attack on these feels like an attack on their entire identity, leading to polarization and radicalization. 
