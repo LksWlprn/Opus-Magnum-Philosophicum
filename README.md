@@ -438,6 +438,172 @@ who has just fallen into the tiger’s enclosure and someone at home reading in 
 Well, all we can say is that these differing sorts of reactions to tigers are typical of people in situations like those. They are subjective reactions that cannot be justified by objective differences in how much danger a tiger is posing, since a tiger is always dangerous."
 
 
+### The Sleeping Beauty Problem
+
+Zuboff is also the inventor of the Sleeping Beauty Problem. The problem involves Sleeping Beauty participating in an experiment where she is put to sleep after being informed of the rules. A fair coin is flipped to determine her awakenings:
+
+1.If heads, she wakes up once on Monday.
+2. If tails, she wakes up twice—on Monday and Tuesday—but her Monday memory is erased.
+
+Upon waking, she is asked: What is the probability that the coin landed on heads? She has no information other than the fact that she is awake.
+From an external perspective, one might assume the probability is 50% (the "halfer" position). However, since there are three possible awakenings—one with heads (Monday) and two with tails (Monday and Tuesday)—the "thirder" position argues that, given she is awake, the probability of heads is 1/3. The key insight is that the correct answer depends on perspective: 
+
+An external observer must take the "halfer" position (50%).
+
+Sleeping Beauty herself must take the "thirder" position (1/3).
+
+This distinction becomes clear when experiencing the experiment firsthand: If one takes Sleeping Beauty’s position, one wakes up on Monday with heads one-third of the time and on Monday or Tuesday with tails two-thirds of the time. For Sleeping Beauty, the probability that tails was flipped is therefore higher. 
+
+Zuboff writes about the problem: "I like presenting the problem using much larger numbers than you’ll find in the 
+established discussion. 
+Imagine an 'awakening game', as we shall call it, in which, at the start, a single 
+player is to be put to sleep by a hypnotist. He will then be kept in this hypnotic 
+sleep for a trillion days. Except that after he is put to sleep a fair coin will be 
+tossed to determine which of two procedures will be followed: Either he will be 
+awakened for a short period every one of the trillion days or he will be 
+awakened for a short period only once—on only one day randomly chosen 
+among the trillion. 
+To this we must add that, at the end of any period of awakening, the hypnotist, 
+before he puts the player to sleep again, will wipe permanently from his mind 
+the memory of having been awakened. Thus, whichever the number of 
+awakenings, one or a trillion, each will seem like a first awakening. 
+Let us say that a player knows all this but is not told which of the two 
+procedures is being followed in his game. Is there any way he can infer whether 
+he is being awakened one time or a trillion? 
+
+Imagine that you are the player and you now find yourself awake. It seems you 
+can reason as follows: It would be a trillion times less probable that I would on 
+this day be awake if only one day was to be chosen for an awakening instead of 
+all trillion days. What I do find today—my evidence—that I am now awake—
+ would therefore have been immensely improbable with only one awakening in 
+the game. But it has to be immensely improbable that something immensely 
+improbable is what is occurring. So, given this evidence of my today being 
+awake, I must infer that the hypothesis that there are a trillion awakenings is 
+immensely more probable than the hypothesis that there is only one. 
+On the incredibly rare day of awakening in a one-awakening game, such an 
+inference would have misled you into preferring the hypothesis of a trillion 
+awakenings, which would then have been false. But if this game had only one 
+awakening it would also have been overwhelmingly more probable that today 
+you would have been sleeping and therefore in no condition to engage in a 
+misleading inference. That the inference is not misleading is thus 
+overwhelmingly more probable than that it is."
+
+To solve the Sleeping Beauty paradox, Zuboff distinguishes objective and subjective individuation:
+
+"According to what I shall call the 'objective individuation' of experience, 
+however, that an experience actually is this experience rather than another 
+depends not only on the feeling within it of being 'this' (without which it would 
+not even be an experience) but also on further factors that are purely 
+objective—the factors of whose it is and when it occurs. An experience that was 
+someone else’s or that was mine but at another time could not have been this 
+particular one."
+
+"The second way of thinking about the individuation of experience is relaxed. 
+When we are contemplating the single awakening version of the game, despite 
+our ability also to view it as governed like the trillion awakenings by objective 
+individuation, we are nevertheless strongly inclined to think instead of the player 
+as being in one and the same experience of awakening no matter when it might 
+be occurring within the trillion days. [...] But this relaxed style of individuation must therein rob the awakening’s 
+haecceity of all the evidential force that it had seemed to have within objective 
+individuation. For now neither hypothesis would make it any more probable than 
+the other that this awakening would be occurring. In effect, the player himself, 
+much like an earlier described external observer of the game through 
+recordings, would be engaging in a guaranteed, directed observation of 
+awakening rather than in a random one, since awakening would be guaranteed 
+to be viewed within this same one experience whichever way the game was 
+played. And, as we earlier saw regarding the external observer, that must spoil 
+the inference."
+
+"The Sleeping Beauty problem is seen from the angle of the player just before 
+the start of the game. It seems certain that before the start of the game—before 
+the coin determining the number of awakenings has even been tossed—you 
+can say nothing about whether in the coming game you’ll be awakened either 
+once or a trillion times. Yet you can know then that in your very next episode of 
+thought you will be rightly inferring that a trillion awakenings are occurring. 
+It is as though you are in a room where you will soon be opening a door into the 
+next room. You know already what you will see when you open it, and what you 
+will rightly infer on the basis of seeing that; but somehow you cannot yet make 
+the inference. Similarly, it seems, before the game you both can and cannot 
+make an inference. And this contradiction, because one is led to it down 
+seemingly unavoidable paths of reasoning, is a paradox. 
+Those I’ve talked to who have had trouble seeing the problem have found they 
+could feel the power of the paradox after I explained how the awakening game 
+can go piggy back on an uncontroversial probability inference. And examining 
+that inference, as we’ll do after the limbering up exercise of the next section, 
+can assist us in understanding much better the probability involved. 
+So my advice is to persevere beyond this point even if you find that you cannot 
+yet see the promised paradox. For I think that you can still have a real hope of 
+seeing this strange and beautiful bird. 
+And please don’t worry, if you were so inclined, that my discussion of probability 
+will become very technical. I am allergic to equations.
+
+[...]
+
+The paradox depends on believing three claims, two of which are not consistent 
+with each other. The three claims are: 
+1. Before the game starts I could have no way of saying that either number of 
+awakenings is more or less probable than the other. (Both objective and 
+subjective individuation would seem to agree with that claim.) 
+2. Before the game starts I can fully anticipate the particularity of the next 
+experience—its being simply 'this one'—just as it will be discovered during the 
+game. (Only subjective individuation can agree with that.) 
+3. From within any awakening I could use its particularity to infer the immensely 
+higher probability that there are a trillion awakenings. (Only objective 
+individuation can agree with that.) 
+It is from these three beliefs put together that we get the contradictory 
+impression of before the game not being able to make the inference and yet 
+then having hold of all that will be required to make the inference. 
+If we stayed consistently within subjective individuation, we would think that the 
+player before the game could fully anticipate the particularity of the first 
+experience of the game, whether it was the experience of the first of a trillion 
+awakenings or else the (probably) much later experience of a sole awakening in 
+the game. The current imagining of it would have present in it everything that 
+will be required to make it 'this'. But that now fully available particularity could in 
+no way serve, either in the game or now, as evidence for an inference regarding 
+how many awakenings there would be.  
+If we stayed consistently within objective individuation, however, we would think 
+that the player before the game could only be imagining what the first 
+awakening would feel like. He could not somehow now be grasping the later 
+particularity that will have to depend on the objective time of its occurrence. 
+Thus he is not at all now in the position he knows that he later will occupy any 
+time he awakens in the game, the position of being able to use the fact that this 
+experience is occurring to infer the overwhelmingly greater probability of the 
+hypothesis that would be making its existence overwhelmingly more probable. 
+One might mistakenly take this perspectival nature of the inference within 
+objective individuation to be itself the whole problem and then think to have 
+solved it merely through recognizing that such an inference can indeed have 
+such a nature. That is something that Elga seems to do in his paper. He says, 
+'Thus the Sleeping Beauty example provides a new variety of counterexample 
+to Bas Van Fraassen’s ‘Reflection Principle’.2 The Reflection Principle is one 
+that would have required uniformity between our player’s pre-game and in
+game judgments. 
+Yet the perspectival nature of the inference, though perhaps it is surprising, is 
+not paradoxical. A paradox occurs when natural tendencies of thought produce 
+a contradiction. But there is no contradiction in the perspectival character of 
+inference. 
+Within objective individuation the player before the inference is merely 
+anticipating in a general way a future moment of inference whose particular 
+haecceity is in no way available to him. So of course he can’t make the 
+inference. 
+You may remember my providing an image of our paradox: It is as though you 
+already knew both what you would see when you opened the door to another 
+room and what you would rightly conclude based on seeing it but somehow you 
+could not yet arrive at that conclusion. That does represent well enough what 
+we would have if we inconsistently shifted views between anticipation and 
+inference in the way I have been claiming is the source of the paradox. 
+But this image is not parallel with what we would have if we stayed strictly within 
+objective individuation regarding both the inference and the anticipation of it. A 
+suitable parallel might be rather that only your later presence in some particular 
+room among a trillion will be serving you as evidence for an inference that 
+therefore you cannot make now. There is no suggestion here of a paradox in 
+comparing what you know now with what you will be in a position to know later. 
+The Sleeping Beauty problem only arises, then, when we inconsistently take the 
+player before the game to have hold of proper evidence without being able to 
+make the inference. But only the subjective view allows him to have hold of 
+what would only be proper evidence in the objective view."
+
+
+
 ## Identity
 
 What is personal identity? Why do we have a persistent identity over time? Why are we the same person at 80 as we were at 8, even if we don’t remember anything from when we were 8? One approach is psychological connectedness, what Derek Parfit called “Relation R.” 
@@ -552,6 +718,24 @@ The rival view we shall now consider confines me to a much smaller momentary exi
 In a Buddhistic view any psychological process would be forging on through a succession of non-continuous experiencers. At any point in this process there would be an experiencer with its momentary pains and pleasures, but it could have no non-illusory self-interest in any further accumulation of experience as this would not belong to it—since not that subject but only other momentary subjects would exist in any further experience. The experience would belong to no continuing subject. 
 Neither self-interest nor other-interest (interest, that is, for the self-interests of others) would be appropriate. As I’ve mentioned, the improbability for itself of existing of any of the momentary subjects would make such a hypothesis statistically untenable just as it did the usual view of the person. For in every moment of the ongoing mental process an inference would be supported that from this momentary perspective the existence of this momentary subject would be overwhelmingly improbable 
 by contrast with the existence of the universal subject in universalism."
+"Consider all the detail that makes up [the] package of contents [in our visual experience]. Let’s 
+concentrate on the detail in the visual field. In theory a ten by ten grid could be 
+drawn that divided the visual content of a moment of that vision into a hundred 
+squares. And we could easily specify some ten ways in which a colour or shape 
+in each square of visual content might have been different. The number of 
+possible variations in visual content thus highlighted would amount to ten to the 
+hundredth power (a googol), which is immensely greater than the number of 
+particles in the entire visible universe. 
+If the player’s experience would only have existed should all of its package of 
+content have been exactly as he finds it to be, the odds against the existence of 
+this, the experience in which his inference is occurring, are immense beyond 
+belief. If, however, subjective individuation is true and therefore it does not 
+matter to the existence of 'this' experience what content it has—because all 
+content must be equally 'this' merely due to its quality of immediacy—then there 
+is no improbability in the existence of either this experience or the content that 
+has been relieved of that responsibility for individuating it. So the haecceity of 
+experience is independent of the content of the experience as well as of the 
+objective time of the experience."
 
 ### Qualia Universals
 
@@ -621,13 +805,59 @@ But from your perspective, the probability of your existence appears vanishingly
 
 To clarify this point, imagine a hotel where 200 million people sleep unconsciously. In the easy game, everyone wakes up after some time. 
 In the hard game, only one person is randomly chosen to wake up. Now imagine you wake up and must decide: was the easy game or the hard game being played? From your perspective, it is overwhelmingly more likely that the easy game was played, since the chance of waking up in the hard game was just 1 in 200 million. To a stranger, who is just being told one persons' name that woke up either in the easy or hard game, observing from the outside, there’s no improbability at all—someone had to wake up either way. 
-The easy game in the sperm cell lottery corresponds to the hypothesis that universalism is true. If universalism is true, you are every subject in existence. 
+The easy game in the sperm cell lottery corresponds to the hypothesis that universalism is true, since you would, if universalism were true, wake up in every awakened sleeper in our gigantic hotel. If universalism is true, you are every subject in existence, so whoever would have been awakened, would have been you.
 In that case, there is no improbability to your existence in this particular body, because you would have existed no matter which sperm cell "won" the lottery. Thus, universalism offers a far more probable explanation for the evidence of your existence than the conventional view. 
 Initially, I thought this argument might have a flaw: determinism. If everything is deterministic, then there is no true randomness in your sperm cell winning the race; its success would always have been inevitable, with a probability of 100%. 
 I am still not sure if this really is a flaw. To see why, let’s revisit the hotel analogy. In the hard game, the person who wakes up is randomly chosen. 
-If the "randomness" of this choosing is not truly random but deterministic (just unpredictable), the chosen person had a 100% probability of being woken up in both the easy and the hard game. 
+If the "randomness" of this choosing is not truly random but deterministic (just unpredictable), the chosen person had a 100% probability of being awakened in both the easy and the hard game. 
 This would not matter to the chosen person, though, because it does not change the conclusion of the probability argument, if the person can't predict the outcome. If you would play this game, 200 million people would be right to infer that the easy game was being played and only 1 person wold be right to infer that the hard game was played. Even in a deterministic universe, one should not bet on the usual view, if one can't predict who will be chosen. 
-Even if the probability argument might be flawed, there are still other arguments for universalism left to explore. 
+
+To make this point clear, imagine a lottery game without any randomness. The winner has already been determined before the game even started. This ultimate determinacy doesn't take away from the coincidence it will be for the player who actually wins. Zuboff writes: "By
+the way, the lottery having been fixed would not have made [the winners] winning more
+probable unless somehow it would independently have been probable that he rather
+than another entrant would have been the beneficiary." 
+Unless, the winner would have a high chance of winning, every time the lottery were to be repeated, there is a coincidence in his winning, even if the lottery is fixed and the universe is deterministic. 
+
+Zuboff explains: "This is a misunderstanding of what we are thinking about when we reckon 
+probability. The question is almost always not one of the sort of micro level 
+causation a determinist has in mind but rather of the matching of descriptions 
+on a much higher level of abstraction. The description of an urn as having all 
+blue beads and the description of randomly drawing a blue bead from an urn 
+are certain to agree, whatever the micro causation may be regarding the 
+particular movements of the hand drawing the bead, the precise placement of 
+the urn, etc. But the description of an urn as having only one blue bead out of a 
+trillion will only one time in a trillion agree with that of an urn from which a blue 
+bead was randomly drawn. 
+Let's for the sake of argument be among the strictest determinists regarding the 
+tossing of a coin. Consider a case in which there are two coins involved, a fair 
+coin and a double headed coin. The probability of getting a thousand 
+consecutive heads with the fair coin is one in two to the thousandth power—
+ terrifically low. The probability of getting a thousand consecutive heads with the 
+double headed coin is simply one—certainty. Thus we predict that it is incredibly 
+improbable that with the fair coin we shall get this result (or, if the consecutive 
+heads have already occurred, that it was with such a coin that we have got this 
+result). Why? It is because in the case of a coin that satisfies the description of 
+being fair the proportion of ways that it could follow its deterministic trajectories 
+on the micro level and yet land only heads in a thousand consecutive tosses is 
+two to the thousandth power minus one times smaller than the proportion of 
+deterministic ways a coin could follow trajectories that would have it always 
+landing heads if it instead satisfied the description of being double headed. In 
+either case our determinism would have us believing that whatever happened in 
+a description at the ultimate micro level of causation had probability one of 
+occurring, but that would not in the least prevent us from assigning appropriate 
+probabilities at the higher level of description—that at which the coin was either 
+fair or double headed. 
+[...]
+Probability requires consciousness. Ten heads in ten consecutive flips of a 
+fair coin can be considered improbable. But that this result has occurred 
+somewhere within the field of all coin flips seems not improbable at all. And that 
+is because probabilities add together. The small probability of ten consecutive 
+heads when considered locally becomes instead the enormous probability of 
+such an occurrence within an enormously widened area of consideration; and 
+this extreme transformation of probabilities depends on nothing but a shift in 
+perspective. Probability always thus depends on assuming a perspective, on 
+circumscribing an area of consideration, and hence on consciousness, which is 
+the only thing capable of perspective and consideration.
 
 
 ### Quantum Observer Theory
@@ -660,9 +890,58 @@ Under universalism, however, these individuals would now recognize what they cou
 There would no longer be separate perspectives for A and B because there never were separate subjects in the first place. If consciousness is based on a consensus mechanism and if there are still two subjects, this would mean that consensus between two brains is impossible. 
 But as of now, there doesn't seem to be anything preventing consensus.
 
+William Hirstein has already written about a mindmelding proposal to unify the consciousnesses of two people. This will not remain a purely theoretical topic.
+
 Similarly, if we could switch off the corpus callosum, the two halves of the brain would suddenly experience the world independently. 
 Using brain-machine interfaces, we could even create separate virtual realities for each hemisphere. The left brain might experience playing a game, while the right hemisphere might study for a test. After these experiences, the hemispheres can be reunited. 
 Would this lead to two permanently separate subjects residing in the same brain, or would they simply reintegrate into the original subject, who now feels as though it experienced both gaming and studying? Isn't the latter far more likely, since it is already the status-quo? 
+
+
+
+### Mindmelding
+
+Hirstein's proposal to achieve mindmelding revolves around a device connecting person A's prefrontal lobes to person B's posterior cortex using white matter fibers, which would connect person A's sense of self to person B's conscious thoughts and sensations:
+
+"Nature has provided the perfect structure to allow us to perform
+mindmelding thought experiments. The temporal and parietal lobes are extensively
+interconnected with the executive processes in the prefrontal lobes by several different
+white matter fiber tracts, called long association fibers (Schmahmann and Pandya, 2006 ).
+Filley ( 2001 , p.23) observes that these fibers “share the interesting feature that they
+all have one terminus in the frontal lobe. No other lobe of the brain enjoys such rich
+connectivity. The white matter is therefore structurally organized to facilitate frontal lobe
+interaction with all other regions of the cerebrum.” 
+
+Hirstein belives these fibers to play an important role in conscious qualia experience:
+
+"One piece of evidence that these fiber bundles have important connections to consciousness is that damage to them has immediate effects on the patient’s consciousness.
+The fasciculi are abnormal in schizophrenics who experience auditory hallucinations
+(Friston, 1998 ). According to Kier et al. ( 2004 ), the uncinate fasciculus and the inferior
+occipitofrontal fasciculus play a role in producing hallucinations when their connected
+areas are damaged. In their 2004 article entitled, “Pathways that make voices,” Hubl and
+her colleagues found that schizophrenics who experienced auditory hallucinations had
+marked differences in their association fibers (in the arcuate fasciculus, connecting the
+temporal and prefrontal lobes), which led to “disrupted frontotemporal processing”
+(2004, p.666). Friston ( 1998 , p.122) similarly notes that the schizophrenic brain shows an
+absence of positive correlations between prefrontal and superior temporal regions that he
+traces to abnormal glutamate transmission, which “is the mainstay for the excitatory
+cortico-cortical interactions that integrate different brain areas.”
+ Recall that Crick and Koch used the analogy that the front of the brain is looking at the
+back of the brain. Apparently the fasciculi are the means by which they do this, as well as
+the means through which they influence processing in the temporal and parietal lobes.
+Crick and Koch speculate that what they call the neural correlate of consciousness is
+“expressed by only a small set of neurons, in particular those that project from the back
+of the cortex to those parts of the front of the cortex that are not purely motor and that
+receive feedback from there” (2003, p.124). More specifically, Koch ( 2004 ) says that some
+projection neurons from inferior temporal areas to the principal sulcus in the dorsolateral prefrontal cortex may form part of neural correlate of (subject) consciousness."
+
+This would, according to Hirstein, allow one person to experience the other person's consciousness:
+
+"There are certain patterns of activity moving along
+the fiber bundles. We attach the fiber bundle from the brain of the bearer of the qualia (below)
+to the right places in the brain of the sharer (above). The owner of the brain on top can
+experience the conscious representations of the owner of the brain on the bottom. What the
+person on top experiences cannot be his own conscious perceptual representations, which
+reside in his temporal and parietal lobes, since the connections to those are broken."
 
 
 ### Nick Bostrom's Counter-Arguments
