@@ -912,7 +912,7 @@ all have one terminus in the frontal lobe. No other lobe of the brain enjoys suc
 connectivity. The white matter is therefore structurally organized to facilitate frontal lobe
 interaction with all other regions of the cerebrum.” 
 
-Hirstein belives these fibers to play an important role in conscious qualia experience:
+Hirstein believes these fibers to play an important role in conscious qualia experience:
 
 "One piece of evidence that these fiber bundles have important connections to consciousness is that damage to them has immediate effects on the patient’s consciousness.
 The fasciculi are abnormal in schizophrenics who experience auditory hallucinations
@@ -943,6 +943,54 @@ to the right places in the brain of the sharer (above). The owner of the brain o
 experience the conscious representations of the owner of the brain on the bottom. What the
 person on top experiences cannot be his own conscious perceptual representations, which
 reside in his temporal and parietal lobes, since the connections to those are broken."
+
+Hirstein postulates that Mindmelding can answer a variety of long-standing philosophcial questions and is of great practical use. Most of these have already been answered here through pure reasoning. For example, Hirstein writes:
+
+1. On philosophical zombies: "If we put the zombie into a mindmelding experiment, the person joined to him would not experience anything."
+2. On inverted qualia: "If two people really could have inverted spectra while we could find no differences in their
+brains to account for this, that would be an explanatory gap. In cases in which two people
+do experience different colors, I have argued that mindmelding could allow them to
+know this."
+3. On merging selfs: The type of mindmelding I am mainly speaking about is partitioned mindmelding.
+Partitioned mindmelding occurs when each A and B experience the conscious state of B
+as if it were their own state. But A and B maintain their senses of self, by maintaining
+more or less normal operation of their prefrontal lobes. A much more radical type of
+experiment (that we may or may not want to call mindmelding) would involve also
+attempting (somehow) to merge A’s and B’s sense of self, i.e., attempting to merge their
+entire minds. As it is described on the television show Star Trek , the Vulcan mindmeld
+sounds like a variety of this sort of complete mindmelding. Open, unpartitioned, mindmelding would be a new experience for both participants. It would somehow involve two
+selves operating at the same time. It is not at all clear what this would be like. No wonder
+Mr Spock finds it so draining. In this case, there is perhaps a type of normal state that
+provides a clue as to what such a mindmelding experience might be like. One possibility
+would be that this type of experiment would produce something like mutual knowledge,
+or common knowledge, which occurs when one is knowingly experiencing something
+together with someone. A first question here is, how does mindmelding compare to joint
+attention to an external object? Mindmelding where the bearer is looking at a tree might
+be similar to joint attention where two people are standing together looking at a tree." If universalism is true, this experience will be entirely different from what Hirstein has described here.
+4. One the mind-body and binding problem: "the heart of the idea of privacy: the idea that conscious mental states are unbreakable metaphysical atoms, intrinsically
+containing a subject who is aware of them. If mindmelding is possible this conception
+is mistaken, and the mind can be divided into parts: a conscious state, and a subject. The
+mind–body problem itself can likewise be divided into two parts, which can be treated
+separately. The first part is the problem of consciousness. How does the brain produce
+unified conscious states containing bound qualia from all those different sources? The
+answer to this, [Hirstein contends], is that it uses carefully controlled synchronized
+oscillations to link all and only thalamocortical components of a given conscious state. The second part of the
+mind–body problem is the problem of the self, or subject of our conscious states. How
+do we explain the presence of a sense of self in consciousness? How do we explain the
+intimate relation the self bears to the conscious state? How do we explain what appears to
+be a permanent asymmetry between your access to your conscious states and my access to
+them? In short, how do we explain privacy?"
+
+About the practical use of mindmelding, he notes:
+
+"Mindmelding would be of great use in allowing us to accurately diagnose sensory
+problems. Tinnitus, color blindness, and the like could be diagnosed quickly and
+accurately by physicians who were able to mindmeld. Diagnosing tinnitus, for instance,
+currently involves asking the patient about the exact quality of the sound he is aware of.
+With mindmelding, the doctor would have the option of actually hearing the sound itself,
+rather than relying on our limited ability to describe sounds. Mindmelding would allow
+us to understand sensory experience of people with mental illness, such as the hallucinations of schizophrenics. [...] It would allow us to understand what the sensory experience of autistic people is like.
+Mindmelding would also allow a much deeper understanding of dreaming."
 
 
 ### Nick Bostrom's Counter-Arguments
