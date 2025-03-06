@@ -1067,6 +1067,7 @@ One might interject and criticize this explanation on the same grounds I critici
 But this explanation doesn't claim that causality could account for the boundary of consciousness. There might be many more prerequisites for conscious experience, like coherence, consensus, integration, feedback loops etc. These are more likely to account for the boundary.
 
 
+
 ## Consciousness
 
 
