@@ -1011,7 +1011,7 @@ Therefore, only functional changes that affect the system as a whole are recogni
 If we were to really change only the left visual system functionally, it would result in a difference in all the other brain regions as well. 
 If both slices are still receiving inputs and sending outputs to the rest of the brain, the experience would include a superposition of both outputs, resulting in incoherence and probably just confusion. Type theory is still standing strong. 
 
-### The Binding Problem
+### The Binding Problem and the Spread Brain Experiment
 
 One possible resolution to Bostrom's probability paradox of unification (which I explained previously) may lie in solving the binding problem of consciousness, since its solution might reveal duplication to be true. 
 The binding problem arises from the observation that our experience is unified, despite being composed of many functional elements. 
@@ -1065,6 +1065,8 @@ While identical experiences may be epistemically indistinguishable, they are sti
 Since they exist within the same universal function, they are part of the same subject, which supports universalism. So, this view abandons unification, meaning that functionally independent experiences remain distinct, and still allows for the possibility of a multiverse. 
 One might interject and criticize this explanation on the same grounds I criticized causality as experience-binding in my previous solution attempt to the probability paradox: How can causality account for the hard boundary of conscious experience? 
 But this explanation doesn't claim that causality could account for the boundary of consciousness. There might be many more prerequisites for conscious experience, like coherence, consensus, integration, feedback loops etc. These are more likely to account for the boundary.
+
+
 
 
 ## Consciousness
