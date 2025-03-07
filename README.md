@@ -318,11 +318,11 @@ While Descartes later argues that the external world is also certain, his reason
 
 By establishing one's existence as a necessary truth, we also implicitly establish the necessary truth of logic, since my existence stands in opposition to my non-existence. By establishing my existence, I am implying that my non-existence is a contradiction. Logic is therfore even prior to my existence, because I can only establish my existence through logic. Even though a Cartesian demon could deceive me into believing more abstract logical reasoning about mathematics, this simplest kind of tautological logic must be necessarily true, for if it weren't I would not be able to differentiate my thoughts existence from their non-existence.
 
-By this reasoning, we can establish the following a priori truths:
+By this reasoning, we can establish the following a priori necessary truths:
 
-The existence of something.
-The existence of a thinking entity.
-The existence of logic.
+1. The existence of something.
+2. The existence of a thinking entity.
+3. The existence of logic.
 
 Kant further claimed that space, time, and causality are conditions of perception, not objects of perception. Therefore, they would need to be systems that also exist independently of individual thought. For example, he argued that change can only be perceived if time exists and if there is something stable relative to which change occurs. Consequently, something beyond perception must exist to establish the relationship between change and persistence. But this is an illusion, as Hume points out.
 Zuboff explains: "Hume stresses that there can be no a priori discovery of any causal relation, since necessarily a 
