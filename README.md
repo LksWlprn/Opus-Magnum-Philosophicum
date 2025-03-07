@@ -316,7 +316,7 @@ In the Second Meditation, Descartes reaches his foundational conclusion about wh
 
 While Descartes later argues that the external world is also certain, his reasoning depends on the assumption that God exists and would not deceive us. Since this premise is questionable, we set aside his further meditations.
 
-By establishing one's existence as a necessary truth, we also implicitly establish the necessary truth of logic, since my existence stands in opposition to my non-existence. By establishing my existence, I am implying that my non-existence is a contradiction. Logic is therfore even prior to my existence, because I can only establish my existence through logic.
+By establishing one's existence as a necessary truth, we also implicitly establish the necessary truth of logic, since my existence stands in opposition to my non-existence. By establishing my existence, I am implying that my non-existence is a contradiction. Logic is therfore even prior to my existence, because I can only establish my existence through logic. Even though a Cartesian demon could deceive me into believing more abstract logical reasoning about mathematics, this simplest kind of tautological logic must be necessarily true, for if it weren't I would not be able to differentiate my thoughts existence from their non-existence.
 
 By this reasoning, we can establish the following a priori truths:
 
