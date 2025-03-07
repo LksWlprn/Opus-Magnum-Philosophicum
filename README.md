@@ -51,7 +51,16 @@ It might also be said, though it's not a rigorous argument, that merely societal
 
 ### The Problem of Induction
 
-There are two logical solutions to the problem of induction. To find these solutions it is paramount to think clearly about the problem.
+There are two logical solutions to the problem of induction. To find these solutions it is paramount to think clearly about the problem. Arnold Zuboff writes:
+
+"An a priori discovery is one that is made independent of any 
+empirical confirmation because it is the discovery of a necessary truth, whose contrary is a 
+contradiction. That which is known a priori can therefore be known (as the phrase suggests) in a 
+way that is logically prior to experience. In a posteriori discovery we acquire beliefs empirically, 
+based on the patterns of experience, like the belief that a lectern is in a room. The contraries of such 
+propositions are not contradictory, and such propositions therefore, with only one kind of 
+exception, do not possess the certainty of necessary truths."
+
 The problem of induction arises from the fact that after repeatedly observing "A is X," it remains non-contradictory to observe "A is not X." 
 Therefore, we cannot conclude that "All A are X." The only thing we can logically establish from observation are falsifications: while observing "A is not X" is not inherently contradictory, asserting "All A are X" after such an observation would be contradictory. 
 
@@ -127,6 +136,17 @@ are fixed a priori, within them. We then correctly judge to be most probable amo
 them that hypothesis in which the observations would have been produced with the
 highest probability. For it is a necessary truth that that which is more probable is
 more probable to have occurred."
+
+Zuboff concludes: "I call the single a priori principle that I believe governs one’s overall empirical thinking the ‘highest 
+probability principle’. It requires us always to favour in our beliefs, as most probable to have 
+occurred, that overall context of our current experience that would, as discovered purely in our 
+concepts of it, have had inherent in it the highest probability of having produced the pattern of our 
+current experience. We must do so because it is a necessary truth that the pattern’s being produced 
+in the most probable way is an event that was in itself more probable to have occurred than the 
+pattern’s being produced in any less probable way. Let me just add that sometimes, of course, we 
+must believe that an event which was locally improbable is the most probable to have occurred; but 
+we can only properly do so when this local improbability has been needed in strictly the most 
+probable overall hypothesis."
 
 
 So, both falsification and Bayesian inference contribute to solving the problem of induction. They represent two distinct types of contradiction in relation to a given hypothesis, forming the foundation for knowledge acquisition. 
@@ -272,6 +292,78 @@ But, in Gettier cases, the truth of my belief (e.g., that the barn is real) is n
 What is then needed for non-coincidence is that the justification of my belief in X is also coupled to the truth of X. 
 
 In the barn-Gettier-case our justification is that our "visual experience makes it reasonable, from his point of view, to hold that belief". But Henry could not distinguish between fake and real barns from this point of view, meaning that his justification would have been exactly the same for believing another fake barn to be real. This shows a decoupling between justification and truth, since the justification cannot actually justify anything, for it could not have justified the realness of the other fake barn. Believing the barn to be real is in this way only coincidentally true and not actually justifiably true. To be able to really tell a fake barn from a real barn, one would have to examine these barns more closely and find a reliable method of examination, for only then one would be able to differentiate them and could come up with an actual justification coupled to the truth.
+
+
+### Descarte's Scepticism and a priori truths
+
+The pendant to the most fundamental question of ontology ("Why does anything exist?") in epistemology is the question "What is true a priori?". For any truth to be established, there is no way around the need for experience, so in that sense nothing can be established a priori. Rather, what we're asking is if there are actual necessary truths that are 100% certain to be true. 
+
+Descartes, in his First Meditation, sought absolute certainty by systematically doubting everything. He began with sensory deception—optical illusions show that perception can be influenced by expectations. Distant objects, for example, may be misinterpreted: a silhouette could appear as an animal but turn out to be a rock or plant. Hallucinations and mirages further demonstrate that our senses are unreliable. Even verifying perceptions through touch or smell is insufficient since he could be dreaming, making all sensory impressions uncertain.
+This leads him to consider whether mathematical truths, grounded in logic, remain certain. However, he imagines an all-powerful demon who could manipulate his reasoning, deceiving him into believing he thinks logically when he does not. 
+
+Zuboff writes: "There is a self-refuting view, momentarily considered and rejected (on grounds other
+than these) by Descartes, that the only thing about which we can be certain is that
+nothing can be certain. If the obviously self-destructive claim of being certain that
+nothing can be certain is dropped, we may still be left with a merely tentative idea
+that there can be nothing about which we can be certain. Now, this idea is a more
+general version of the idea, in its tentative form, that nothing can be definitely
+established in philosophy. And my reply to this more general version is similar to
+what I said earlier about that one: We can indeed even now be certain that if nothing
+can be certain then we can never be certain of that. So we can be certain of
+something."
+
+In the Second Meditation, Descartes reaches his foundational conclusion about what it is that we can indeed be certain of: the one certainty is thought itself. Even if deceived, the act of doubting confirms his existence—Cogito ergo sum ("I think, therefore I am"). Since deception requires a subject to be deceived, something must exist: a thinking entity, a mind.
+
+While Descartes later argues that the external world is also certain, his reasoning depends on the assumption that God exists and would not deceive us. Since this premise is questionable, we set aside his further meditations.
+
+By establishing one's existence as a necessary truth, we also implicitly establish the necessary truth of logic, since my existence stands in opposition to my non-existence. By establishing my existence, I am implying that my non-existence is a contradiction. Logic is therfore even prior to my existence, because I can only establish my existence through logic.
+
+By this reasoning, we can establish the following a priori truths:
+
+The existence of something.
+The existence of a thinking entity.
+The existence of logic.
+
+Kant further claimed that space, time, and causality are conditions of perception, not objects of perception. Therefore, they would need to be systems that also exist independently of individual thought. For example, he argued that change can only be perceived if time exists and if there is something stable relative to which change occurs. Consequently, something beyond perception must exist to establish the relationship between change and persistence. But this is an illusion, as Hume points out.
+Zuboff explains: "Hume stresses that there can be no a priori discovery of any causal relation, since necessarily a 
+cause, which must precede and be contiguous to its effect, must be distinct from its effect. To cause 
+itself a thing would, impossibly, have to exist before and next to itself; and therefore only distinct 
+things can be in a relation of cause and effect. And this logical distinction between cause and effect 
+means that one can always conceive of the cause without the effect and the effect without the 
+cause; that one can always therein conceive of the causal relation not holding; that the contrary of 
+any causal relation holding is never a contradiction; and that, therefore, a causal relation could 
+never be discovered a priori. [...]
+Hume recognizes full well that there are causal conceptual truths that can be known a priori. For 
+example, though, as we’ve seen, he maintains that it could never be established a priori that every 
+(or any) event has a cause, since any event can be conceived of as occurring without a cause, he is 
+nevertheless happy to admit that it is necessarily true that every effect has a cause. But this 
+conceptual truth, that an effect, to be an effect, must have a cause, is, as Hume points out, only like 
+the similar conceptual truth that every husband necessarily has a wife. The terms ‘cause’ and 
+‘effect’, like the terms ‘husband’ and ‘wife’, are correlatives, defined as applying to one of these 
+things only if that thing happens to be in the relevant relation to the other. Hence it is a relation of 
+ideas (ideas of such correlatives) and not a matter of fact that every ‘effect’ has a cause or every 
+‘husband’ has a wife. I might add to this that it is true a priori that every ‘poison’ has a power to 
+produce harmful effects in some living thing. 
+It would be a contradiction, absurd, for a thing to be an ‘effect’ without a cause, a ‘husband’ 
+without a wife or a ‘poison’ without a power to harm. But, since it is equally absurd that any effect, 
+husband or poison not be distinct from its own cause, wife or harmful effects, it can never be 
+known a priori that any one item in these pairs, described neutrally, will exist in combination with 
+the other in its pair, that the term that requires the combination will in fact properly apply to it, or to 
+anything in reality. Thus it could never be shown a priori that any event is an ‘effect’, that any man 
+is a ‘husband’ or that any stuff is a ‘poison’, because it can never be a contradiction that one 
+member of the combination that defines the quoted terms exists without the other. Only experience 
+can show whether such things exist in the defining combinations. 
+Thus we can only discover relations of cause and effect through observing in our experience, in our 
+impressions, that what we shall call the ‘cause’ exists in the right sort of combination with what we 
+shall call the ‘effect’. And our belief that a cause will be, as required in the idea of a cause, 
+consistently followed by the event we call its ‘effect’, is acquired purely through our instinctual 
+mechanism of association of ideas. Through custom, through habit, after many repetitions in our 
+experience, we come to expect always to occur that combination of kinds of events whose 
+complete consistency is required to qualify the events in such a combination to be called the ‘cause’ 
+and the ‘effect’ of each other."
+
+But if causal relations cannot be established a priori, space and time cannot be established either, because they rely on causation. We intuitively only think of cause and effect as temporal processes, but they are just as much spatial processes, for a cause-effect process would not be itself without both its temporal and spatial components. 
+
 
 
 ### An Answer to Scepticism
@@ -1856,7 +1948,7 @@ Any other team formation necessarily ignores that what one does to the enemy, on
 
 
 Universalism and incompatibilism share many counter-intuitive ethical consequences, making it highly improbable for these concepts to have any role in a hypothetical science of ethics. As a result, consequentialist-utilitarian ethics is way more persuasive. 
-If both incompatibilism and universalism are true, then concepts such as blame, retribution, obligation, and responsibility are rendered incoherent.
+If both incompatibilism and universalism are true, then concepts such as blame, retribution, hate, obligation, and responsibility are rendered incoherent or unethical.
 Under universalism, obligation is untenable because obligation presupposes a relation between distinct individuals. 
 If I inflict harm upon myself, I do not have an obligation to myself to cease my own suffering. But given that I am everyone, it follows that I cannot have obligations toward others, since there are no true "others" distinct from myself. 
 But all the other listed concepts, blame, retribution, and responsibility, ultimately depend on the coherence of obligation. If no one has obligations, then it is impossible to blame anyone for harming another in the retributive sense, for the blamer and blamed are the same. 
