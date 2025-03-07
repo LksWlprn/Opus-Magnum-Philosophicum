@@ -1620,7 +1620,7 @@ This expression is only possible iff you believe there is something disgusting a
 Beliefs can exist prior to emotions, but emotions cannot exist prior to the beliefs they express. 
 One might ask, if one hasn't fully understood my claim, what could be right or wrong or true or false about an expression of pain. But I'm not claiming that the expression of pain is a belief in itself and could be right or wrong, but that it is an expression of a belief. 
 A change in beliefs necessitates a change in expression of beliefs, which means a change in emotional expression. The pain in itself isn't right or wrong, but the beliefs underlying that pain can be, so I might not truly want to express pain, if my beliefs were different. 
-This mean that beliefs are critical to any moral statement. Emotions cannot be explained without them and cannot be dealt with separately. Even though emotions are not propositions in themselves, they can still be right or wrong, depending on what beliefs they express. 
+This means that beliefs are critical to any moral statement. Emotions cannot be explained without them and cannot be dealt with separately. Even though emotions are not propositions in themselves, they can still be right or wrong, depending on what beliefs they express. 
 
 Zuboff summarizes: "I only ever desire a thing because of what I believe it to be. And since beliefs are correctable, so are desires. [...] My only real desires are those I would have if I had a perfect grasp of everything involved."
 
