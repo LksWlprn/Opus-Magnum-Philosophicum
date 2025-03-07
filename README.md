@@ -1565,12 +1565,12 @@ P2: There is only one subject of experience, every being is the same subject.
 
 C: Everyone should only desire, what everyone really desires. 
 
-Here we evade the is-ought problem by seemingly already including an 'ought'-statement in the premises, that's actually a fact. Now one would of course ask, how this ought-statement can be justified, but it is justified, because desire and believes are intimately connected. 
+Here we evade the is-ought problem by seemingly already including an 'ought'-statement in the premises, that's actually a fact. Now one would of course ask, how this ought-statement can be justified, but it is justified, because desire and beliefs are intimately connected. 
 Arnold Zuboff gives the example of a cup of hot mud. Looking at the cup, I could believe it to be hot chocolate and may think that I desire it. But in reality my believe is wrong, which is why my real desire is to not drink from the cup. 
 Applying this principle consequently to all my desires, requires for me to have a perfect grasp of reality. My only real desires are those I would have if I had a perfect grasp of everything involved. 
 The principle going along with this that governs my actions must tell me to act, as far as possible, as I would want myself to be acting with a perfect grasp of everything involved. 
 It would include within it, then, all the motivation of all of the various systems of desire, but it would also have the correction of all that motivation in light of the perfect grasp. The overall result must be a desire for the reconciliation of all systems of desire. 
-This is not to say, that a perfect grasp of reality is desirable let alone achievable, but it describes the process by which we at least try to live by, because our mind automatically simulates and auto-corrects our desire in accordance with our believes. 
+This is not to say, that a perfect grasp of reality is desirable let alone achievable, but it describes the process by which we at least try to live by, because our mind automatically simulates and auto-corrects our desire in accordance with our beliefs. 
 But is premise 1 really a factual statement? In this regard I think Sam Harris was right, when he said, that 'ought' and 'should' are verbal traps. They presuppose an objective perspective, from which morality can be evaluated, that does not exist. 
 But if I just ask, 'should I drink from the cup?' I am not asking about a god-given rule, I'm only asking if I really desire to drink from the cup. It is not that deep. 'Should' is just a short-hand for 'real desire'. Therefore premise 1 is just a tautology aka a fact.
 
