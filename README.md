@@ -294,7 +294,7 @@ What is then needed for non-coincidence is that the justification of my belief i
 In the barn-Gettier-case our justification is that our "visual experience makes it reasonable, from his point of view, to hold that belief". But Henry could not distinguish between fake and real barns from this point of view, meaning that his justification would have been exactly the same for believing another fake barn to be real. This shows a decoupling between justification and truth, since the justification cannot actually justify anything, for it could not have justified the realness of the other fake barn. Believing the barn to be real is in this way only coincidentally true and not actually justifiably true. To be able to really tell a fake barn from a real barn, one would have to examine these barns more closely and find a reliable method of examination, for only then one would be able to differentiate them and could come up with an actual justification coupled to the truth.
 
 
-### Descarte's Scepticism and a priori truths
+### Cartesian Scepticism and A Priori Truths
 
 The pendant to the most fundamental question of ontology ("Why does anything exist?") in epistemology is the question "What is true a priori?". For any truth to be established, there is no way around the need for experience, so in that sense nothing can be established a priori. Rather, what we're asking is if there are actual necessary truths that are 100% certain to be true. 
 
