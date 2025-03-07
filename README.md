@@ -2118,11 +2118,9 @@ This conclusion arises because it completely neglects the fact that there is a d
 ### Team Formation
 
 Generally, team formation is seen as a positive development, as it unites people behind a common cause. The mindset associated with this is called the 'soldier mindset' by Julia Galef. However, team formation could just as easily be seen as creating division and exclusion. 
-Beyond practical purposes, it leads to self-deception through motivated reasoning. People begin to integrate these causes into their identities, so that any attack on these feels like an attack on their entire identity, leading to polarization and radicalization. 
+Beyond practical purposes, it leads to self-deception through motivated reasoning. People begin to integrate these causes into their personalities, so that any attack on these feels like an attack on their entire personality, leading to polarization and radicalization. 
 Galef therefore recommends adopting the 'scout mindset' to benefit from practical team formation while embracing truth as the team’s guiding cause, countering motivated reasoning. If we align ourselves with seeking truth, there are no enemies to our team. 
 Any other team formation necessarily ignores that what one does to the enemy, one ultimately does to oneself, since we are ultimately the same subject. Political, religious, or economic team formation, beyond its practical uses, should therefore always be seen as unhelpful.
-
-
 
 
 
