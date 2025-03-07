@@ -853,15 +853,6 @@ At t₀ (before teleportation), there is one person, A. At t₁, there are two p
 Parfit chose (4), because A doesn't even exist as an identity, since identity doesn't matter for survival in his view. Kolak writes: "according to Parfit, our borders are always indeterminate and personal identity is indeterminate (relative) and (but) whether personal identity extends across some particular border is not what matters primarily in survival." Every moment of experience is only there for itself and in this sense "I" do not extend over multiple moments but only exist in every moment separately. 
 But how can this view possibly be right? Clearly, there is something persisting through all my experiences and I would survive in at least one of the replicas. There is also a probability argument to be made, which I'm not going to elaborate here. 
 But, as we've seen, it is far more probable from your perspective for you to exist if universalism is true, than if the usual view was true. On Parfit's view it would be even more unlikely for you to exist, than on the usual view. 
-David Lewis argued for answer (1) and (2), proposing that A already contained two subjects who were later separated. But this view is absurd, because the mere possibility of replicating a person infinitely, necessitates an infinite amount of subjects residing in every person. 
-Only universalism gives a satisfying answer to teleportation. The only thing needed for me to persist through time is for my experiences to be immediate in first-person style, being now, here and this. This style of experience is what makes it mine. 
-Therefore, as long as an experience has that style of immediacy to it, it will be mine. A, B and C all experience their experiences in this way and are for that reason the same experiencer. Of course there is nothing that decides that either (1) or (2) is right. 
-If one thinks clearly about what identity truly is, (3) must be correct. A survives in B AND C and there is no paradox, because identity has nothing to do with random psychological attributes, each of us may have. Zuboff writes: 
-"You don't discover which [conscious being] you are by checking an objective description—that you are the one with a certain name or a certain origin. 
-For before you can consider any such objective facts about yourself, you much more simply know that you are the conscious being whose experience is immediate, first-person in its style. You are the one that seems to be at the centre. 
-But now consider that every conscious being has experience that fully shares that character you thought belonged only to the one that was you—the immediate, first-person character of experience that supposedly distinguishes you from all the others. 
-All consciousness in every conscious thing is equally immediate and first-person.
-[...] it falsely seems in each that it is the only one that is me because the specific content of experience in each one is cut off from the specific content in all the others." 
 
 Zuboff wrote for example: "I think that something like a Buddhistic view can seem less obviously vulnerable to the incoherence of the usual view in such cases as brain bisection. 
 I believe that is the main reason for the great popularity within philosophy of Derek Parfit’s view, which is more or less Buddhistic."
@@ -888,6 +879,19 @@ is no improbability in the existence of either this experience or the content th
 has been relieved of that responsibility for individuating it. So the haecceity of 
 experience is independent of the content of the experience as well as of the 
 objective time of the experience."
+
+
+David Lewis argued for answer (1) and (2), proposing that A already contained two subjects who were later separated. But this view is absurd, because the mere possibility of replicating a person infinitely, necessitates an infinite amount of subjects residing in every person. 
+Only universalism gives a satisfying answer to teleportation. The only thing needed for me to persist through time is for my experiences to be immediate in first-person style, being now, here and this. This style of experience is what makes it mine. 
+Therefore, as long as an experience has that style of immediacy to it, it will be mine. A, B and C all experience their experiences in this way and are for that reason the same experiencer. Of course there is nothing that decides that either (1) or (2) is right. 
+If one thinks clearly about what identity truly is, (3) must be correct. A survives in B AND C and there is no paradox, because identity has nothing to do with random psychological attributes, each of us may have. Zuboff writes: 
+"You don't discover which [conscious being] you are by checking an objective description—that you are the one with a certain name or a certain origin. 
+For before you can consider any such objective facts about yourself, you much more simply know that you are the conscious being whose experience is immediate, first-person in its style. You are the one that seems to be at the centre. 
+But now consider that every conscious being has experience that fully shares that character you thought belonged only to the one that was you—the immediate, first-person character of experience that supposedly distinguishes you from all the others. 
+All consciousness in every conscious thing is equally immediate and first-person.
+[...] it falsely seems in each that it is the only one that is me because the specific content of experience in each one is cut off from the specific content in all the others." 
+
+
 
 ### Qualia Universals
 
