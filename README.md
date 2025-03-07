@@ -1550,29 +1550,29 @@ This model is essentially the narrative we perceive as that which we are aware o
 
 ## Morality
 
-Why is consciousness so tightly linked to morality? In questions regarding animal ethics, abortion ethics, AI ethics, or medical ethics consciousness is often a deciding factor for how to treat any being. 
-Kant thought that humans had some kind of inherent dignity. But where does that come from? Philosophers have tried to answer this, but there is no actual answer. It somehow just has to be there, in order to make Kantian ethics work. 
-The answer to both questions is really simple when one knows about Universalism. In Universalism Parfits argument, that personhood is based on psychological connectedness (relation R) is overcome and instead personhood is defined by our conscious experience of this and mine. 
-By the immediacy of experience from the first-person PoV (for the full argument, see Zuboffs work). If this is accepted, then every being with this pattern of immediacy in its experience is the same person. By that logic, consciousness tells you, when another being is you. 
-That is why consciousness is so important, because it distinguishes what is you and what not. And by doing that, it distinguishes what is of moral consideration and what not. There is no inherent dignity to humans, but it emerges from consciousness and Universalism.
+Why is consciousness so tightly linked to morality? In questions regarding animal ethics, abortion ethics, AI ethics, or medical ethics, consciousness is often a deciding factor for how to treat any being. 
+Kant thought that humans had some kind of inherent dignity. But where does that come from? Philosophers have tried to answer this question, but it there doesn't seem to be an actual answer. It somehow just has to be there, in order to make Kantian ethics work. 
+The answer to both questions is really simple in hindsight, given our knowledge about Universalism. Parfits argument, that personhood is based on psychological connectedness (relation R) is overcome and instead is refined by the argument that personhood is defined by what makes an experience mine, this, here and now, which is nothing else than its style of immediacy. 
+If this is accepted, then every being with this pattern of immediacy in its experience is the same person. By that logic, consciousness, as a necessary condition for immediate experience, tells you, when another being is you. 
+That is why consciousness is so important, because it distinguishes what is you and what not. And by doing that, it distinguishes what is of moral consideration and what not. There is no inherent dignity to humans, but it emerges from consciousness, self-interest and Universalism.
 
 ### Hume's Law
 How to get an 'ought' from an 'is':
 
 P1: One should only desire, what one really desires.
 
-P2: There is only one subject of experience, every being is the same subject.
+P2: There is only one subject of experience, every being with immediate experiences is the same subject.
 
-C: Everyone should only desire, what everyone really desires. 
+C: One should only desire, what everyone really desires. 
 
-Here we evade the is-ought problem by seemingly already including an 'ought'-statement in the premises, that's actually a fact. Now one would of course ask, how this ought-statement can be justified, but it is justified, because desire and beliefs are intimately connected. 
+Here we evade the is-ought problem by seemingly already including an 'ought'-statement in the premises, that's actually a necessarily true statement. Now one would of course ask, how this ought-statement can be justified, but it is justified, because desire and beliefs are intimately connected. 
 Arnold Zuboff gives the example of a cup of hot mud. Looking at the cup, I could believe it to be hot chocolate and may think that I desire it. But in reality my believe is wrong, which is why my real desire is to not drink from the cup. 
 Applying this principle consequently to all my desires, requires for me to have a perfect grasp of reality. My only real desires are those I would have if I had a perfect grasp of everything involved. 
 The principle going along with this that governs my actions must tell me to act, as far as possible, as I would want myself to be acting with a perfect grasp of everything involved. 
 It would include within it, then, all the motivation of all of the various systems of desire, but it would also have the correction of all that motivation in light of the perfect grasp. The overall result must be a desire for the reconciliation of all systems of desire. 
 This is not to say, that a perfect grasp of reality is desirable let alone achievable, but it describes the process by which we at least try to live by, because our mind automatically simulates and auto-corrects our desire in accordance with our beliefs. 
-But is premise 1 really a factual statement? In this regard I think Sam Harris was right, when he said, that 'ought' and 'should' are verbal traps. They presuppose an objective perspective, from which morality can be evaluated, that does not exist. 
-But if I just ask, 'should I drink from the cup?' I am not asking about a god-given rule, I'm only asking if I really desire to drink from the cup. It is not that deep. 'Should' is just a short-hand for 'real desire'. Therefore premise 1 is just a tautology aka a fact.
+But is premise 1 really a factual statement? In this regard I think Sam Harris was right, when he said that 'ought' and 'should' are verbal traps. They presuppose an objective perspective, from which morality can be evaluated. Such an 'ought', presupposing an objective will of reality, must fail as long as reality is not teleological.
+But if I just ask, 'should I drink from the cup?' I am not asking about a god-given rule, I'm only asking if I really desire to drink from the cup. It is not that deep. 'Should' is just a short-hand for 'real desire'. Therefore premise 1 is just a tautology: One really desires only what one really desires. 
 
 ### Normative Fundamentals
 
@@ -1594,7 +1594,7 @@ Notably, we cannot substitute "everyone" for the other "I" in that sentence, bec
 This principle shares similarities with Rawls' "veil of ignorance," but instead employs what Daniel Kolak calls the "veil of wisdom". 
 Instead of ignorance it employs a perfect grasp (perfect knowledge and understanding) of everything. Instead of judging as if I was to be born into one, I need to be judging as if I was to be born into every conscious being. 
 The result is an ethical framework that is fundamentally consequentialist-utilitarian in its pursuit of well-being, specifically aligning with preference utilitarianism, as it seeks to reconcile everyone's preferences. 
-Even more specific would be the term "negative preference utilitarianism", because, as indicated in the beginning, a desire is a call for change, which would not arise if one is content with one's mental state. 
+Even more specific would be the recommendation of "practical (non-ideological) negative preference utilitarianism" or "Prioritarianism", because, as indicated in the beginning, a desire is a call for change, which would not arise if one is content with one's mental state. 
 We do not desire some maximally specific future, but we prefer a future state that avoids what we want to avoid experiencing, which often results in the same overall goal (i.e. when there are only two options), but is more broadly applicable than utility-maximization. 
 For example, if the only options are winning or losing, then avoiding to lose is the same as wanting to win. But in general, because we cannot precisely control or even predict the future, we can merely hope to evoke change in the right direction away from what we want to avoid. 
 This is in line with Poppers views on science, where, since we cannot know the future, we can only ever hope to find theories that will not get falsified, but we can never actually obtain truth. 
@@ -1610,7 +1610,7 @@ Non-cognitivism is furthermore false because emotions are always functional stat
 Even pain is not belief-independent, but rests on the belief that physical damage is harmful. This belief is so deeply ingrained in us (since even babies have this belief) that it seem more visceral and not like a usual belief. 
 However, it is revealed to be one by people who have managed to overcome pain through meditation or otherwise. In psychology, it is a well-established fact (e.g. in the ABC model) that emotional reactions are responses to our beliefs. 
 One could not experience specific emotions without corresponding specific beliefs. The claim that "moral statements are expressions of emotions" becomes (since emotions are expressions of beliefs) "moral statements are expressions of expressions of beliefs." 
-Since beliefs are propositional (truth-apt) and can be right or wrong, emotions can be right or wrong as well.
+Since beliefs are propositional (truth-apt) and can be right or wrong, emotions can be right or wrong as well, in the sense, that one would not feel them with a better grasp about what's involved.
 
 So, even if the expressivist/emotivist claim were true, that ethical statements were just expressions of emotions of approval or disapproval, 
 these emotions can still be right or wrong, depending on whether their underlying beliefs are right or wrong. For example, consider the desire to drink from a cup seemingly filled with hot chocolate, which actually contains hot mud. 
@@ -1618,8 +1618,8 @@ Your emotional expression of desire can be true or false, depending on what is a
 This expression is only possible iff you believe there is something disgusting about pineapple pizza.
 
 Beliefs can exist prior to emotions, but emotions cannot exist prior to the beliefs they express. 
-One might ask, if one hasn't fully understood my claim, what could be right or wrong or true or false about an expression of pain. But I'm not claiming that the expression of pain is a belief in itself and could be right or wrong, but that it is an expression of a belief. 
-A change in beliefs necessitates a change in expression of beliefs, which means a change in emotional expression. The pain in itself isn't right or wrong, but the beliefs underlying that pain can be, so I might not truly want to express pain, if my beliefs were different. 
+One might ask, if one hasn't fully understood my claim, what could be right or wrong or true or false about an expression of pain. But I'm not claiming that the expression of pain is a belief in itself and could be right or wrong propositionally (because emotions aren't propositional), but that it is an expression of a belief. 
+A change in beliefs necessitates a change in expression of beliefs, which means a change in emotional expression. The pain in itself isn't right or wrong, but the beliefs underlying that pain can be, so I might not truly want to express pain, if my beliefs were different. In that sense, the pain can be right or wrong (non-propositionally).
 This means that beliefs are critical to any moral statement. Emotions cannot be explained without them and cannot be dealt with separately. Even though emotions are not propositions in themselves, they can still be right or wrong, depending on what beliefs they express. 
 
 Zuboff summarizes: "I only ever desire a thing because of what I believe it to be. And since beliefs are correctable, so are desires. [...] My only real desires are those I would have if I had a perfect grasp of everything involved."
