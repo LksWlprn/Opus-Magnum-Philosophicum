@@ -697,6 +697,65 @@ what would only be proper evidence in the objective view."
 
 
 
+### The Incoherence of Objective Time
+
+"Imagine that your experience of reading this section is somehow 
+instantaneously frozen at its mid-point and then one billion years later 
+instantaneously thawed to continue just as it would have done without the 
+freezing. Well, the objective billion year gap could not register on you at all. The 
+experience would be subjectively the same as it would have been without the 
+gap. The content of the later half would seamlessly flow from the earlier. 
+Now imagine that, first, your entire experience of reading this section occurs in 
+normal fashion. And, then, all is instantaneously frozen and somehow worked 
+upon to restore it to precisely the condition it was in just at the beginning of the 
+second half of the experience. And, after a billion year gap, it is instantaneously 
+thawed and made to continue precisely as it did, in every subjective detail, the 
+first time. 
+
+In this case there is a precise objective repetition of the second half of the 
+reading of this section. But what will there be subjectively? I would argue that, 
+despite the objective repetition, there could be no subjective repetition. In the 
+previously considered case of the billion year gap, the first half of the 
+experience of reading this section subjectively continued seamlessly into the 
+second. Well, that must still happen in this repetition case—but it must happen 
+also with the continuation that first occurred, the one without a gap. But surely 
+there can be experienced here only one such seamlessly joined continuation. 
+So precise objective repetitions cannot register subjectively as multiple 
+episodes of experience but only as one, no matter when or how many they may 
+be. 
+
+If differences in content were to be introduced between the two continuations of 
+the experience of reading this section, then there would indeed be subjectively 
+more experience—where the differences came in there would be unconnected 
+experiencing of the variant parts. But still no repetition of what was precisely the 
+same. 
+
+If this is right, then, startlingly, in a strange choice between there being one 
+thousand precisely repeated day-long episodes of torture and only one such 
+episode to which, however, a stepping on one’s foot was added, it would be 
+wise to choose the thousand repetitions because they would be subjectively 
+only the single episode but without a stepping on one’s foot.  
+One can easily do thought experiments in which objective temporal order 
+comes apart from the subjective order. A science fiction or magic reordering in 
+objective time of stages of your experience of reading this section that perfectly 
+preserved all the subjective character of the experience in each of those stages 
+could result in no subjective difference in your experience of the reading. What 
+would naturally have been the first stage would be experienced as first and the 
+last as last even if objectively they came the other way around. (Line up 
+alphabet blocks in any order you like: That will have no effect at all on the 
+alphabetical order of the letters on them.) And all these moments would be 
+experienced simply as ‘now’ whenever objectively they had been made to 
+occur. 
+
+Objective individuation is confused—it is not only incredibly improbable but 
+incoherent. It would have us expect that when an objective time was gone, was 
+past, then the experience that was tied to it would be subjectively gone as well. 
+But, as we have just seen, what does not yet exist may be subjectively earlier 
+than what is past. And all of that is subjectively ‘this time’, ‘now’, whatever the 
+objective time of its occurrence."
+
+
+
 ## Identity
 
 What is personal identity? Why do we have a persistent identity over time? Why are we the same person at 80 as we were at 8, even if we don’t remember anything from when we were 8? One approach is psychological connectedness, what Derek Parfit called “Relation R.” 
@@ -1204,6 +1263,130 @@ While identical experiences may be epistemically indistinguishable, they are sti
 Since they exist within the same universal function, they are part of the same subject, which supports universalism. So, this view abandons unification, meaning that functionally independent experiences remain distinct, and still allows for the possibility of a multiverse. 
 One might interject and criticize this explanation on the same grounds I criticized causality as experience-binding in my previous solution attempt to the probability paradox: How can causality account for the hard boundary of conscious experience? 
 But this explanation doesn't claim that causality could account for the boundary of consciousness. There might be many more prerequisites for conscious experience, like coherence, consensus, integration, feedback loops etc. These are more likely to account for the boundary.
+
+
+### In Denfense of the Type Theory of Identity
+
+There are further thought experiments uncovering that the type theory of identity must be true and that duplication is metaphysically incoherent. If the argument here is successful, which I think it is, then we should actually abandon the infinite multiverse-hypothesis. This would have drastic implications for the theory of everything, and in particular Wolfram's model, which I believe to be the most probable candidate for delivering such a theory. It would entail that we, as conscious obsevers, have the property of producing causal invariance in such a way that all branches that would result in our experience continuing, ultimately always converge into a single branch. Such a model would possibly be explanable under Quantum-Darwinism, Superdeterminsim or the Transactional Interpretation of Quantum Mechanics. All these models would then deserve to receive more attention.
+
+Zuboff argues as follows:
+
+"A 'token' of a 'type' is a specific instance of it. Thus tokens of the abstract type 
+novel would include the more specific types French novel and American novel. 
+One token of American novel would be the particular novel, the detailed type, 
+The Adventures of Huckleberry Finn. And tokens of Huckleberry Finn would be 
+the individual copies of it (which would at the same time be tokens also of the 
+more abstract type American novel and the still more abstract type novel). 
+ 
+We once visited a planet where, until we arrived, there had always been only 
+one copy of any book. The inhabitants, consequently, had had a hard time 
+discovering the distinction between a novel, as a type, and a copy of it, as its 
+token. They sloppily thought, for example, that the literary merit of a novel 
+depended on the particular identity of their one copy, which to them just was the 
+novel.  
+ 
+But even before we, with our great powers of duplication, had arrived on that 
+planet, one of their own philosophers had invited them to engage in thought 
+experiments about hypothetical duplications; and this alone was enough to 
+remedy their confusion. He would ask them to think about a hypothetical 
+duplication of one of their books. Couldn’t they then see a distinction they hadn’t 
+noticed before, between a copy and a novel? This would be like the already 
+familiar distinction between a word and its instances. The novel would number 
+just one despite there being two copies of it. The novel would continue to exist 
+when a copy was destroyed, so long as another copy still existed. Whether or 
+not a book was exciting would depend on the novel rather than on the copy. 
+And although in our own real exercise brains have been actually duplicated, it 
+could have been just as effective if one of your Earth philosophers had simply 
+asked you to engage in the corresponding thought experiments.  
+Anyway, the suggestion we are considering, with the aid of our brain duplication 
+exercise, is that the experience of being the particular person reading this 
+particular discussion may be a detailed type, like a particular novel, and remain 
+numerically one if instantiated more than once, as in the case of the duplicate 
+brain activities in our exercise. And it is part of the view we are considering that 
+the subject of the experience also remains numerically one in both instances, 
+just as Huckleberry Finn, the character, remains numerically one in all the 
+copies of his adventures.  
+Perhaps the identity of an episode of experience and its subject, like that of a 
+novel and its character, depends merely on a pattern and is therefore indifferent 
+to changes in the particularity of the medium in which the pattern is maintained. 
+And perhaps the particularity felt in experience, the this and here and mine in it, 
+is merely a subjective impression that exists equally well in every occurrence of 
+the pattern of it, like the setting and perspective of a novel. 
+What I have just been describing might be called the 'type view' of the identity of 
+experience and its subject, as opposed to the 'token view' that would tie the 
+particularity of subject and experience to the particularity of a brain and its 
+activity. And a variation of our exercise with the distant brains can, I believe, 
+help you in deciding between these views. 
+But first I must tell you that in a few moments my colleagues, in preparation for 
+the next exercise, will be shutting down one of the brains in the pair that is 
+currently communicating with your body [Fig. 3]. And this is something worth 
+thinking about. For, if you believe the token view, you must hope, if you want to 
+remain conscious for the next exercise, that it will happen not to be your brain 
+that is shut down but the other one. If, on the other hand, you believe the type 
+view, you won’t be bothered, because you then believe that you will continue 
+being conscious whichever brain remains working, much as Huck Finn would 
+continue in his adventures if any one of a number of copies of the novel 
+happened to be destroyed. 
+
+So, by the way, it should be clear that substantive matters like self-interest are 
+at issue in these metaphysical considerations. On the answer to this 
+metaphysical question of whether your particular experience is a type like a 
+particular novel or a token like a particular copy depends how you will be 
+spending the time following the shutdown. Thus I hope it is clear that we are 
+not, as some might like to charge, simply indulging in linguistic decisions as to 
+whether to call either the type or the token 'a particular experience'. To which, 
+type or token, properly attaches the self-interested concern about remaining 
+conscious is a substantive question not open to linguistic choice, any more than 
+would be the question to which attaches literary merit, the copy or the novel.  
+ 
+And now that you have reached this point my colleagues are about to do that 
+shutting down of one brain in the pair. If the token view is right I must bid 
+farewell to one of two readers. Five... four... three... two... one.... It’s been done. 
+Since on the token view the reader I am now addressing is the lucky survivor, 
+perhaps congratulations are in order. On the type view a shrug of the shoulders 
+is in order. And now for an exercise that decides between these views.  
+ 
+We have just cut apart the hemispheres of the remaining brain and put each 
+hemisphere into its own nutrient bath. But we have all along continued by radio 
+communication the pattern of impulses across the severed corpus callosum, so 
+that the activity of each hemisphere has all along been integrated with that of 
+the other as though they had never been parted. And each still communicates 
+with the body in the same pattern it normally would [Fig. 4]. This maintenance of 
+the normal pattern of brain activity and of interaction with the body explains why 
+your experience and behavior is, even in this odd case, of a normal sort. 
+
+Now we are going to embarrass the token view. You see, we have just turned 
+on a duplicate we made of the right hemisphere, which will communicate with 
+the left hemisphere and the body in the same pattern as the still operating 
+original right hemisphere does. So each of the two right hemispheres is now 
+interacting in a precisely similar fashion with the single left hemisphere and the 
+body.
+If you take the token view, that a subject and its experience are to be 
+distinguished by the particularity of a brain and its activity, you are now faced 
+with a puzzle. 
+ 
+For the subject and the experience of either of the two right hemispheres is 
+equally well joined with the subject and experience of the single left 
+hemisphere. For example, the side of your visual field being processed in your 
+left hemisphere is joined just as seamlessly with the other side of the visual field 
+whether this is processed in one or the other of the two right hemispheres. But 
+the token view must distinguish the subject and the experience in one of the two 
+right hemispheres from the subject and experience in the other. According to 
+the type view, however, there is now just the one subject, you, with the same 
+experience you would be having if there had been no doubling of the right 
+hemisphere. 
+ 
+The type view, then, treats this case like that of a two volume novel when we 
+have got two copies of the first volume but only one of the second. There is no 
+doubling of the adventures of the first volume, somehow with only a single 
+continuation in the second volume. Two central characters, one in each copy of 
+the first volume, do not strangely become one character in the single copy of 
+the second volume. Similarly, we should not try to say that the experience of 
+one of the halves of your visual field is now doubled because of the doubled 
+hemisphere and belongs to two distinct subjects, you and somebody else—but 
+only half somebody else, because both subjects somehow are the same one 
+subject in the activities of the single left hemisphere. This token view is 
+incoherent."
 
 
 
