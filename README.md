@@ -2167,6 +2167,7 @@ But a helpless observer cannot be held morally responsible for anything. The age
 If one would not punish a baby who unintentionally causes harm, or a person whose violent actions are the consequence of a brain tumor and who ceases to act violently upon its removal, then no one can justifiably be punished, since everyone is equally powerless in their actions. 
 If responsibility collapses, then all associated deontological concepts collapse as well. Retribution becomes incoherent because punishment becomes arbitrary. We do not punish a tree for falling, for it can't do anything against its descent; 
 likewise, no person has true control over their actions, and thus retribution cannot be meaningfully applied.
+
 Certain additional moral concepts become incoherent from the standpoint of universalism, even though they remain compatible with incompatibilism. 
 For instance, the concept of justice as fairness is flawed. Fairness presupposes a demand for equality between distinct persons. If two players engage in a game, the game is fair only if both abide by the same rules. 
 However, for a universalist, every game is ultimately a game in which I play against myself. If I play a game where I pretend to be two separate players, A and B, it is ultimately irrelevant which player wins, because I am both. 
@@ -2174,7 +2175,9 @@ Similarly, concepts such as ownership and theft become incoherent, for one canno
 Who rightfully owns them, the present self or the future self? Since both are the same person, both own the possessions. But, under universalism, because everyone is the same person, it follows that everyone would own all possessions, including mine. 
 Consequently, ownership must be attributed to something else about the agent other than the person, if it wants to remain a coherent concept. Yet, as we have established, the agent was never free in any meaningful sense, bringing us back to incompatibilism. 
 Here, the concept of deservingness is rendered incoherent, though not necessarily under universalism. We cannot deserve anything, for we've never been in control of our actions. While ownership may have pragmatic utility, it can't be justified on the basis of desert either. 
-And it cannot be justified on the basis of personhood. By the same reasoning, meritocracy can at best be pragmatically, but never morally, justified, if we define it as: "If initial chances are equal, the winner deserves the gain", since deservingness isn't real. 
+And it cannot be justified on the basis of personhood. By the same reasoning, meritocracy can at best be pragmatically, but never morally, justified, if we define it as: "If initial chances are equal, the winner deserves the gain", since deservingness isn't real. Being rewarded or punished for our talents can never be ethically justified, as we never had the ability to decide what our talents would be, we just have to accept them. In practical terms, rewarding and punishing talent can certainly be justified. However, in doing so, one no longer refers to the intrinsic value of talent but rather to its external consequences—namely, that this talent will achieve the best possible results in relation to a specific goal.
+A naturally gifted marathon runner may put significantly less effort into improving their endurance than a biologically disadvantaged runner, yet in a meritocracy, they would still deserve the victory if they achieved the better result. This reveals that meritocracy operates on a different principle than meritocrats initially assume. In reality, they are not concerned with rewarding hard work itself but with achieving the best possible results. This entirely excludes the notion that meritocrats see work, effort, or dedication as intrinsically valuable.
+
 The truth of these claims is easier to recognize, if we think about the long-term future of humanity. We are already moving in this direction of giving up ownership and we'll soon need to rethink meritocracy, when the merit of AI outpaces all of us.
 
 
@@ -2310,7 +2313,315 @@ But, as Nagel says: "Where a significant aspect of what someone does depends on 
 We must ultimately reject the Control Principle and the Kantian conception of morality that embraces it. We must accept that every action and its consequences are ultimately a matter of luck, even if it falsely appears that we have ultimate control over some of our choices. There are, of course, other definitions of luck, for instance not based on control but on coincidence (probability of coinciding events). Me, expecting heads, in a fair coin-flip, coinciding with the coin actually landing heads can be considered luck. If some moral action would depend on this coincidence, this would count as moral luck, quite apart from control, because even though the coin flip might be deterministic, it will still land heads only 50% of the times it is tossed. The kind of moral luck going along with this, is defined by the probability of some matching patterns of events. One may say to have moral luck, if there was such a coincidence involved. Since the probability that a person acts immoral without reason is very low, it is not seen as moral luck if the person behaves morally, but it is morally unlucky if the person happens to act immoral without reason. The woman, in the example above, stepping on your toes, makes you morally unlucky, because it is an improbable coincidence that the woman acts this way (without reason, only because she was pushed). This kind of luck remains, but the opposite of this kind of luck is not control anymore, since a high probability of an event occuring doesn't entail control over that event. True control plays no role in genuine moral assessment. Only conscious states of well-being and suffering have moral significance, and actions can be evaluated based on whether they contribute to one or the other. It is entirely irrelevant whether an action was free, lucky, controlled, or accidental—what matters is its outcome. If an action produces well-being, it is good; if it causes suffering, it is bad. Beyond this, we cannot make further moral judgments about the person performing the action, other than acknowledging their accountability. A person who causes suffering is not evil but merely accountable for a harmful action, much like a thermostat can be said to be responsible (only in a regulatory sense) for maintaining a comfortable or uncomfortable temperature. The key difference is that a person is conscious and responsive to reasons, whereas a thermostat operates mechanistically. This distinction makes the person morally accountable for an effect, while the thermostat can only be attributable to an effect.
 
 
+### Superdeterminism
 
+First, let me cast some doubt on the Many-Worlds Interpretation of quantum mechanics. The Many-Worlds Interpretation (MWI) posits that measurements cause the universal wavefunction to branch into distinct, non-interacting worlds. While this explains why observers perceive a single outcome, it does not account for why outcomes follow the Born rule’s probability distribution.
+One attempt to derive probabilities in MWI appeals to self-location. Since an observer’s experience is identical across all worlds where, for example, a particle was reflected by a beam-splitter (and thus detected at detector 1) and across all worlds where it was transmitted (and thus detected at detector 2), these worlds form two indistinguishable “bundles”, over which the observer is now distributed, meaning that there are now two different observers with their different experiences. This suggests that the observer, upon measurement, must assign equal probability (50%) to each bundle, because he can either find himself in bundle 1 or bundle 2. This reasoning is known as the Epistemic Separability Principle (ESP).
+
+However, this approach fails in asymmetric cases. For example, an imperfect beam splitter might reflect a photon 33% of the time and transmit it 67%. One must still assigns equal probabilities to each resulting bundle, getting a 50-50 split, because there are still only two differentiated observers created by this measurement. But this cannot explain our observing reflection 1/3 and observing transmission 2/3 of the time. This demonstrates that naive self-location reasoning does not track quantum probabilities.
+
+Another problem for the MWI is the measurement problem. The measurement process in quantum mechanics is a non-linear process, while the Schrödinger equation is a linear equation. The MWI must invoke an equivalent assumption to explain the observation of a definitive state. The Schrödinger equation itself will only ever describe probability amplitudes, without producing observables. A superposition of initial states will only result in a superposition of eigenstates. Choosing one of the eigenstates just reintroduces the measurement problem. The measurement process is completely incompatible with the Schrödinger equation. Sabine Hossenfelder writes:
+
+"In the many worlds interpretation, if you set up a detector for a measurement, then the detector will also split into several universes. Therefore, if you just ask “what will the detector measure”, then the answer is “The detector will measure anything that’s possible with probability 1.” This, of course, is not what we observe. We observe only one measurement outcome. The many worlds people explain this as follows. Of course you are not supposed to calculate the probability for each branch of the detector. Because when we say detector, we don’t mean all detector branches together. You should only evaluate the probability relative to the detector in one specific branch at a time.
+That sounds reasonable. Indeed, it is reasonable. It is just as reasonable as the measurement postulate. In fact, it is logically entirely equivalent to the measurement postulate. The measurement postulate says: Update probability at measurement to 100%. The detector definition in many worlds says: The “Detector” is by definition only the thing in one branch. Now evaluate probabilities relative to this, which gives you 100% in each branch."
+
+Probably the greatest issue with the Schrödinger equation is its inherently complex nature. It is often suggested to quantum mechanics students to shut up and calculate, and to not even try understanding the actual nature of quantum mechanics, because the Schrödinger equation is nothing that could be measured. Such a process, it is assumed, determines what is physically actualized. The statistical nature of quantum mechanics should have pointed us toward the obvious conclusion that the Schrödinger equation is not fundamental, but must be a result of a more fundamental deterministic process. 
+
+Sabine Hossenfelder similarly concludes: 
+
+"In its density matrix
+form, the Schrödinger equation is remarkably similar to the classical Liouville equation. So
+much that, in this form, the Schrödinger equation is sometimes referred to as the Schrödinger-
+Liouville or Quantum-Liouville equation, though the historically more correct term is the von
+Neumann-Dirac equation [...] The classical Liouville equation is linear in the probability density due to conservation
+of probability. But this linearity says nothing whatsoever about whether the dynamics of the
+underlying system from which the probability density derives is also linear. Hence, for example,
+chaotic dynamical systems, despite their nonlinear dynamics, obey the same linear equation for
+probability density. To us, this close formal similarity between the two equations strongly
+suggests that quantum physics, too, is only the linear probabilistic description of an underlying
+nonlinear deterministic system.
+From this point of view, pursuing an Everettian approach to quantum physics is not the
+right thing to do, because this idea is founded on the belief that the Schrödinger equation is
+fundamental; that nothing underpins it. Moreover, it does not make sense to just append nonlinear dynamics to the Schrödinger equation in situations when state decoherence becomes
+non-negligible, because it is not the Schrodinger equation itself that needs to become nonlinear."
+
+
+Since we now have good reason to believe that there aren't infinitely many branches of history, but probably only one, we must, as I've suggested elsewhere, take superdeterminism more seriously. Superdeterminism is the hypothesis that local realism can be saved by hidden variables, if statistical independence isn't satisfied. 
+
+In 1964, John Stewart Bell published the Bell inequality, delivering an unwarranted setback to Einstein’s hidden variable theories about quantum mechanics. Einstein had introduced the concept of local realism to address apparent violations of two fundamental physical principles by quantum mechanics: locality and realism. Einstein was concerned about the apparent superluminal "spooky action at a distance", which is not compatible with the theory of relativity.
+Locality asserts that no information or influence can travel faster than the speed of light, while realism holds that particles possess well-defined properties even when not being measured. Many physicists interpret Bell’s inequality as proof that hidden variables cannot exist, arguing that its violation implies the rejection of local realism—a conclusion that has been experimentally confirmed.
+
+However, this interpretation is not entirely accurate. Bell’s theorem is based on several key assumptions, and abandoning the notion of hidden variables is not strictly necessary to account for the experimental results. Specifically, Bell’s theorem rests on three fundamental premises:
+
+1. The existence of hidden variables
+2. Locality
+3. Statistical independence
+
+Statistical independence states that experimental outcomes are not influenced by the choice of measurement—that is, they do not depend on the experimental setup or the decisions made by the experimenters. For this reason, it is also referred to as the assumption of free will.
+Bell noted himself:
+
+”There is a way to escape the inference of superluminal speeds and spooky action at a distance. But it involves absolute determinism in the universe, the complete absence of free will. Suppose the world is super-deterministic, with not just inanimate nature running on behind-the-scenes clockwork, but with our behavior, including our belief that we are free to choose to do one experiment rather than another, absolutely predetermined, including the "decision" by the experimenter to carry out one set of measurements rather than another, the difficulty disappears. There is no need for a faster than light signal to tell particle A what measurement has been carried out on particle B, because the universe, including particle A, already "knows" what that measurement, and its outcome, will be.” 
+
+Superdeterminism should be taken more seriously because of its compatibility with Einstein's theory of relativity. For Bell's theorem to work, one must assume non-overlapping past-lightcones for the settings of instruments:
+
+"It has been assumed that the settings of instruments are in some sense free variables — say at the whim of the experimenters — or in any case not determined in the overlap of the backward lightcones. Indeed without such freedom I would not know how to formulate any idea of local causality, even the modest human one."
+
+But this is not a given:
+
+"After all, the backward light cones of those two acts do eventually overlap, and one can imagine one region which controls the decision of the two experimenters who chose a and b."
+
+The mystery of hidden variables appears to grow deeper the further one looks back in time and the farther one moves apart in space. Imagine an experiment involving two entangled photons, conducted at opposite ends of the Milky Way, after two spacecraft have traveled for thousands of years to reach their respective destinations. By the time the measurements take place, the original experimenters are long dead, and their distant descendants must decide how to configure the measurement apparatus to determine the state of one of the photons.
+In the standard interpretation of quantum mechanics, this first measurement collapses the quantum state of the photon—and instantaneously, across vast the distances, also determines the state of its entangled counterpart. This apparent faster-than-light influence is one of the key features of quantum entanglement, though it does not allow for faster-than-light communication.
+
+If superdeterminism is correct, however, the states of both photons were predetermined from the moment the spacecraft launched, though they remained unmeasured. In this view, the universe would have had to evolve in such a way that the experimenters (or their descendants) were inevitably led to choose the exact measurement settings that align with the states the particles had possessed since the beginning of the journey.
+To many physicists, this idea resembles a kind of cosmic conspiracy—a scenario in which the fundamental laws of the universe conspire to prevent truly free experimental choices, challenging the assumptions underlying conventional scientific methodology.
+
+Sabine Hossenfelder retorts: "In a superdeterministic theory, the measurement
+setting, θ, can be chosen in the same way you can chose it in normal quantum mechanics. It’s
+just that what the prepared state will evolve into depends on those measurement settings.
+Part of this confusion comes from mistaking a correlation for a causation. Violations of
+Statistical Independence, ρ(λ|θ) ≠ ρ(λ), do not tell us that λ influences θ. They merely tell us
+that λ and θ are correlated. Another part of this confusion stems from forgetting that Bell’s theorem makes statements 
+about the outcomes of measurements. It does not have a time-dependence. So really all the
+variables which appear in the theorem are the variables at the time of measurement. This also
+immediately clears up the confusion about what happens if one changes the detector settings
+between preparation and detection. The answer is: nothing. Because the setting at preparation
+was always irrelevant, and so was the exact way in which these settings came about. In a
+superdeterministic theory, the evolution of the prepared state depends on what the detector
+setting is at the time of measurement. [...]
+ρ(λ|θ) ≠ ρ(λ), put into words, means that the
+hidden variables which determine the measurement outcome are correlated with the detector
+settings at the time of measurement. This does not necessarily mean the hidden variables were
+correlated with the measurement settings at the time of preparation. This correlation may instead have come about dynamically.
+However, if the theory is deterministic, one can replace the state of the detector at the time
+of measurement with the state of the detector at the time of preparation plus the evolution law.
+This makes the situation dramatically more complicated because to find out what the setting will
+be at the time of detection one now has to calculate what goes on in the experimenter’s brain.
+If one in this way insists on describing the measurement setting at the time of detection by the
+state of the system at an earlier time plus a hideously complicated evolution of a macroscopic
+system, then the violation of Statistical Independence begins to appear conspiratorial. It seems
+that, somehow, something must have made the experimenter change the settings so that they
+“fit” to the evolution of the prepared state, when really the only thing that matters was the
+setting at the time of measurement all along.
+One can make the situation even more complicated by rolling back the initial condition
+further in time by some billions of years so that now one has to take into account each and everything that happened in the backward lightcone of the actual measurement. It then seems like
+one needs to arrange the hidden variables in “just the right way” so that any possible method
+for choosing the detector settings comes out correctly. This is one of the reasons that superdetermism is widely believed to be finetuned."
+
+"A lot of people seem to think that violating Statistical Independence is weird, but is no weirder
+than quantum mechanics already is because in quantum mechanics too the measurement outcome depends on the detector settings. Yes, it does: You need the detector setting to update the
+wave-function. You need it to define the projection operators that enter the collapse postulate.
+The reason this doesn’t appear in the math as a violation of Statistical Independence is that
+in quantum mechanics we accept that the measurement outcome is not determined, so there
+are no hidden variables to correlate with anything. The price we pay is that instead of having
+a dynamical law that depends on the detector settings and locally gives rise to a measurement
+eigenstate, in quantum mechanics we have a law that does not depend on the detector settings,
+but then, when the measurement actually happens, it suddenly becomes undeniable that this
+was actually the wrong dynamical law. So then we correct for our mistake by what we call
+the update of the wave-function. As a consequence, this update is instantaneous and appears
+non-local, but that is because it never described the dynamics of the ontic states to begin with.
+One sees this too in Bohmian mechanics and models with spontaneous collapse, both of
+which require information about the detector settings to produce dynamics that agree with observation.4
+It’s just that followers of these approaches like to insist that really the only thing we
+ever measure are positions, in which case there’s no need to choose what you measure, hence
+nothing to postulate. Of course this is also why no one who works on quantum field theory
+takes either Bohmian mechanics or collapse models seriously."
+
+One argument against superdeterminism posits that superdeterminism would undermine the scientific method entirely. Sabine Hossenfelder summarizes and answers the argument as follows:
+
+"In a nutshell, the argument has it that scientists use the assumption of Statistical Independence to analyze outcomes of random trials. Think about randomly assigning mice to groups
+for studying whether tobacco causes cancer, to name a common example. Without Statistical
+Independence one would be allowed to postulate that observed correlations (between tobacco
+exposure and cancer incidence) just happened to be encoded already in the initial state of the
+experimental setup, science would falter, and the world would fall apart into shredded pages of
+Epistemological Letters, or so I imagine."
+
+Tim Maudlin puts it like this: “It is like a shill for the tobacco industry first saying that smoking does not cause
+cancer, rather there is a common cause that both predisposes one to want to smoke
+and also predisposes one to get cancer (this is already pretty desperate), but then
+when confronted with randomized experiments on mice, where the mice did not
+choose whether or not to smoke, going on to say that the coin flips (or whatever)
+somehow always put the mice already disposed to get lung cancer into the experimental group and those not disposed into the control. This is completely and totally
+unscientific, and it is an embarrassment that any scientists would take such a claim
+seriously.”
+
+However, Hossenfelder goes on to explain:
+
+"The problem with this argument is that, crucially, it leaves aside why we use the assumption
+of Statistical Independence and why we do not consider its violations viable scientific explanations for random trials. Let me fill you in: We use the assumption of Statistical Independence
+because it works. It has proved to be extremely useful to explain our observations. Merely
+assuming that Statistical Independence is violated in such experiments, on the other hand, explains nothing because it can fit any data.
+Here, I am using the word “explain” in a very narrow, computational sense. A theory
+“explains” data if it requires less detail as input than data it can fit (to some precision). One
+could quantify the explanatory power of a theory, but for our purposes that’s an overkill, so here
+and in the following I use “explain” to loosely mean “fitting a lot of data with few assumptions”.
+This may be somewhat vague but will do.
+So, it is good scientific practice to assume Statistical Independence for macroscopic objects
+because it explains data and thus help us make sense of the world. It does not, however, follow
+that Statistical Independence is also a useful assumption in the quantum realm. And vice versa,
+assuming that Statistical Independence is violated in quantum mechanics does certainly not
+imply that it must also be violated for mice and cancer cells. In fact, it is extremely implausible
+that a quantum effect would persist for macroscopic objects because we know empirically that
+this is not the case for any other quantum-typical behavior that we have ever seen.
+That it took 43 years for someone to raise this blindingly obvious point goes to show what
+happens if you leave philosophers to discuss physics. Luckily, recently an explicit example was
+put forward that shows how violations of Statistical Independence in a superdeterministic
+model for quantum mechanics are effectively erased along with decoherence. I sincerely hope
+(alas, do not actually believe) that this will put to rest the claim that superdeterminism is nonscientific.
+Part of the confusion underlying this argument seems to be the belief that giving up Statistical Independence is all there is to superdeterminism. But a violation of Statistical Independence
+is merely a property of certain models whose ability to explain data needs to be examined on a
+case-by-case basis. Superdeterministic models do not explain any arbitrary set of data thrown at
+them; they make specific predictions, to begin with those of quantum mechanics. The ultimate
+reason, however, to not assume Statistical Independence for quantum objects is that this way
+we might be able to explain more data than we can with quantum mechanics. It is a deterministic approach that in principle predicts individual measurement outcomes, not just averages
+thereof. If someone came up with a better explanation for cancer incidence in mice than Statistical Independence and a causal correlation between tobacco exposure and cancer, then we
+should certainly take that seriously too.
+Needless to say, the claim that superdeterminism would kill science has always been silly
+because most scientists care heartily little what is being discussed in the foundations of quantum mechanics. And that’s for good reasons: Quantum effects are entirely negligible for the
+description of macroscopic objects."
+
+Now, let's look at superdeterminism in the context of free will. Here, Sabine Hossenfelder differentiates the ability to have done otherwise and the absence of constraints:
+
+"The Statistical Independence assumption is often referred to as “Free Choice,” because it can
+be interpreted to imply that the experimenter is free to choose the measurement setting independently of the value of the hidden variables. This has had the effect of anthropomorphising
+what is merely a mathematical assumption of a scientific hypothesis. Let us therefore have a
+look at the relation between Statistical Independence and the physical processes that underlie
+free choice, or free will more generally.
+Ever since Hume, the notion of free will has been defined in two different ways:
+• as an ability to have done otherwise;
+• as an absence of constraints preventing one from doing what one wishes to do.
+As in our previous discussion of causality, these definitions are profoundly different in terms of
+physical interpretation. An ability to have done otherwise presumes that a hypothetical world
+where one did do otherwise is a physically meaningful concept. That is to say, the scientific
+meaningfulness of the notion of ‘an ability to have done otherwise’ depends on the extent to
+which one’s theory of physics supports the notion of counterfactual worlds: as discussed below,
+theories may vary as to this extent.
+The second definition, by contrast, does not depend on the existence of counterfactual
+worlds. It is defined entirely in terms of events or processes occurring in spacetime. For
+example, what one “wishes to do” could be defined in terms of a utility function which the
+brain attempts to optimise in coming to what we can call a “choice” or “decision”. This second
+definition is often referred to as the compatibilist definition of free will.
+Statistical Independence relies on the first of these definitions of free will because (as discussed above) it draws on the notion of counterfactual worlds. The absence of Statistical Independence does not, however, violate the notion of free will as given by the second definition. We
+do not usually worry about this distinction because in the theories that we are used to dealing
+with, counterfactuals typically lie in the state space of the theory. But the distinction becomes
+relevant for superdeterministic theories which may have constraints on state-space that rule out
+certain counterfactuals (because otherwise it would imply internal inconsistency). In some superdeterministic models there are just no counterfactuals in state space (for an example, see
+Section 5.2), in some cases counterfactuals are partially constrained (see Section 5.1), in others,
+large parts of state-space have an almost zero measure (5.3).
+One may debate whether it makes sense to speak of free will even in the second case since
+a deterministic theory implies that the outcome of any action or decision was in principle fixed
+at the beginning of the universe. But even adding a random element (as in quantum mechanics)
+does not allow human beings to choose one of several future options, because in this case the
+only ambiguities about the future evolution (in the measurement process) are entirely unaffected
+by anything to do with human thought. Clearly, the laws of nature are a constraint that can
+prevent us from doing what we want to do. To have free will, therefore, requires one to use
+the compatibilist notion of free will, even if one takes quantum mechanics in its present form
+as fundamental. Free will is then merely a reflection of the fact that no one can tell in advance
+what decisions we will make.
+But this issue with finding a notion of free will that is compatible with deterministic laws (or
+even partly random laws) is not specific to Superdeterminism. It is therefore not an argument
+that can be raised against Superdeterminism. Literally all existing scientific theories suffer from
+this conundrum. Besides, it is not good scientific practice to discard a scientific hypothesis
+simply because one does not like its philosophical implications.
+Let us look at a simple example to illustrate why one should not fret about the inability
+of the experimenter to prepare a state independently of the detector. Suppose you have two
+fermions. The Pauli exclusion principle tells us that it is not possible to put these two particles
+into identical states. One could now complain that this violates the experimenter’s free will, but
+that would be silly. The Pauli exclusion principle is a law of nature; it’s just how the world is.
+Violations of Statistical Independence, likewise, merely tell us what states can exist according
+to the laws of nature. And the laws of nature, of course, constrain what we can possibly do.
+In summary, raising the issue of free will in the context of Superdeterminism is a red herring.
+Superdeterminism does not make it any more or less difficult to reconcile our intuitive notion
+of free will with the laws of nature than is the case for the laws we have been dealing with for
+hundreds of years already."
+
+Hossenfelder's idea about what a superdeterministic model would require, is called the path integral approach:
+
+"The path integral approach to Superdeterminism rests on the observation that the Feynman
+path integral has a future input dependence already, which is the upper time of the integration.
+However, in the usual path integral of quantum mechanics (and, likewise, of quantum field
+theory), one does not evaluate what is the optimal future state that the system can evolve into.
+Instead, one posits that all of the future states are realized, which results in a merely probabilistic
+prediction.
+The idea is then to take a modified path integral for the combined system of detector and
+prepared state and posit that in the underlying theory the combined system evolves along merely
+one possible path in state space that optimizes a suitable, to-be-defined, function. This function
+must have the property that initial states which evolve into final states containing superpositions
+of detector eigenstate states are disfavoured, in the sense that they do not optimize the function.
+Instead, the optimal path that the system will chose is one that ends up in states which are
+macroscopically classical. One gets back normal quantum mechanics by averaging over initial
+states of the detector.
+This approach solves the measurement problem because the system does deterministically
+evolve into one particular measurement outcome. Exactly which outcome is determined by the
+degrees of freedom of the detector that serve as the “hidden variables”. Since it is generically
+impossible to exactly know all the detector’s degrees of freedom, quantum mechanics can only
+make probabilistic predictions.
+The challenge of this approach is to find a suitable function that actually has this behaviour."
+
+But in another text Hossenfelder stresses:
+
+"this does not mean future-input
+dependence is retrocausal in the space-time way, so to avoid confusion, I will simply refer to it
+as future-input dependence. Future-input dependence means that a model draws on input that
+will become available only in the future.
+Please keep in mind that the interventionist way to think about causality is all about what
+you, as a user, can do with a model, not about the physics which the model describes. So, saying
+that some input will only become available in the future does not mean it didn’t previously exist.
+In a deterministic model, if some information is present on one space-like hypersurface, it is
+present on all of them. Thing is though, this information may not be available in any practically
+useful form before a certain point in time. [...] The
+input that goes into the superdeterministic model is the measurement setting at the time of
+measurement. At the time of preparation, you do not have this input, so it’s fair to call it “future
+input”. In principle, the information is there, somewhere, on the preparation hypersurface, but
+for all practical purposes you have no way of figuring it out. The result is that you have a model
+which makes contingent predictions depending on a parameter you will only learn about in the
+future. You may not know at preparation what later will be measured, but you can very well
+say: If the measurement setting is this, then the prediction is that.
+You may wonder now why not take one of the good, old Hamiltonian evolutions, rather
+than one that has future input in the dynamical law? Because if you do this, the model isn’t
+useful. You would have to precisely know the details of the initial state to be able to calculate
+anything with it. Future-input dependence, hence, is the reason why superdeterminism is not a
+conspiracy theory. It demonstrates that there is a simple way to write down the dynamical law
+that does not require much information."
+
+To experimentally test superdeterminism, Hossenfelder has proposed conducting measurements on extremely small scales and at very low temperatures. The goal is to reduce the chaotic motion of electrons in order to determine whether they behave more deterministically than previously thought.
+
+In a 2013 presentation, Hossenfelder suggested repeatedly measuring the non-commuting variables of a single particle at very short intervals. Non-commuting variables, such as position and momentum, cannot be precisely determined at the same time. Another approach involves spin measurements in different directions, where each new measurement disrupts the previous state. However, she assumes that hidden variables might change if measurements aren’t performed quickly enough or if the experimental setup allows for interference, which is why low temperatures are necessary.
+The key to testing superdeterminism is to create a system that interacts with its surroundings as little as possible. If the environment interferes with the experiment, it could alter the hidden variables. Hossenfelder’s proposed experiment consists of a system with two mirrors and two polarized beam splitters—one testing spin up/down and the other testing spin right/left.
+According to standard quantum mechanics, a photon encountering a beam splitter has a 50% chance of passing through and a 50% chance of being reflected. If reflected, it exits the system; otherwise, after passing through both beam splitters, it reaches a mirror, repeats the process, encounters another mirror on the other side, and continues indefinitely. Since the photon has a 50% chance of being reflected at each step, the probability of it remaining in the system drops quickly to near zero.
+
+However, in a superdeterministic framework, the outcome would be predetermined. If the photon initially passes through both beam splitters, it must continue doing so in every subsequent cycle—unless an external disturbance alters the hidden variables. Since perfectly isolating such a system is extremely difficult in practice, the best experimental evidence for superdeterminism would be a slight statistical deviation from quantum mechanical predictions. Specifically, there would be a small but measurable increase in the time photons remain in the system compared to what standard quantum mechanics predicts.
+
+Hossenfelder writes:
+
+"Since the theory is deterministic, this tells us that if we manage to create a time-sequence of
+initial states similar to each other, then the measurement outcomes should also be similar. This
+means conceretely that rather than fulfilling the Born-rule, such an experiment would reveal
+time-correlations in the measurement outcomes. The easiest way to understand this is to keep
+in mind that if we were able to exactly reproduce the initial state, then in a superdeterministic
+theory the measurement outcome would have to be the same each time, in conflict with the
+predictions of quantum mechanics.
+This raises the question how similar the initial states have to be for this to be observable.
+Unfortunately, this is not a question which can be answered in generality; for this one would
+need a theory to make the corresponding calculation. However, keeping in mind that the simplest case of hidden variables are the degrees of freedom of other particles and that the theory is
+local in the way we are used to it, the obvious thing to try is minimizing changes of the degrees
+of freedom of the detecting device. Of course one cannot entirely freeze a detector’s degrees
+of freedom, for then it could no longer detect something. But one can at least try to prevent
+non-essential changes, i.e., reduce noise.
+This means concretely that one should make measurements on states prepared as identically
+as possible with devices as small and cool as possible in time-increments as small as possible.
+This consideration does not change much if one believes the hidden variables are properties
+of the particle after all. In this case, however, the problem is that preparing almost identical initial states is impossible since we do not know how to reproduce the particle’s hidden variables.
+One can then try to make repeated measurements of non-commuting observables on the same
+states, as previously laid out in. The distinction between the predictions of quantum mechanics and the predictions of the
+underlying, superdeterministic theory is not unlike the distinction between climate predictions
+and weather forecasts. So far, with quantum mechanics, we have made predictions for longterm averages. But even though we are in both cases dealing with a non-linear and partly
+chaotic system, we can in addition also make short-term predictions, although with limited
+accuracy. The experiment proposed here amounts to recording short-term trends and examining
+the data for regularities that, according to quantum mechanics alone, should not exist.
+Needless to say, the obvious solution may not be the right one and testing Superdeterminism
+may be more complicated than that. But it seems reasonable to start with the simplest and most
+general possibility before turning to model-specific predictions."
 
 
 
