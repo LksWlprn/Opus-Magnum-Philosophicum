@@ -2345,8 +2345,59 @@ right thing to do, because this idea is founded on the belief that the Schrödin
 fundamental; that nothing underpins it. Moreover, it does not make sense to just append nonlinear dynamics to the Schrödinger equation in situations when state decoherence becomes
 non-negligible, because it is not the Schrodinger equation itself that needs to become nonlinear."
 
+One further problem of the MWI is its incompatibility with the theory of relativity, because it violates local causality. Sabine Hossenfelder explains:
 
-Since we now have good reason to believe that there aren't infinitely many branches of history, but probably only one, we must, as I've suggested elsewhere, take superdeterminism more seriously. Superdeterminism is the hypothesis that local realism can be saved by hidden variables, if statistical independence isn't satisfied. 
+"Remember that the reason the Copenhagen Model violates Local Causality is that a measurement in one location can reveal information about a measurement in another, space-like
+separated region, and that this information could not be obtained from the wave-function.
+Well, the only information we have in the Many Worlds Interpretation is also that in the
+wave-function, and for what our observations are concerned, it gives the same predictions as the
+Copenhagen Model. Hence, it also violates Local Causality. You can believe in as many other
+universes as you wish, making a measurement on one end of the wave-function will de facto
+reveal something about the outcome on the other end. If you, for example, know that a particle
+was measured in one place, you know it wasn’t measured in another place. This, combined with
+the impossibility of predicting the measurement outcome from the wave-function alone, makes
+the Copenhagen Model non-local, and the Many Worlds Interpretation changes nothing about
+that.
+I believe the reason that Many World supporters are confused about this point is the following. If you think that the origin of violations of Local Causality in the Copenhagen Model is the
+Collapse Postulate, and you discard of the Collapse Postulate, then what’s left should be local. However, the non-locality of the Copenhagen Model does not come from the Collapse Postulate per se, it comes from the lack of information about measurement outcomes in the wavefunction, combined with the fact that making a measurement in one place reveals something
+about another place. The Collapse Postulate is just how this increase in information is taken
+into account in the Copenhagen Model. The Many Worlds Interpretation doesn’t change anything about the origin of the violation of Local Causality, hence it violates Local Causality the
+same way. It does not help that [...] the word “locality” in the context of
+Many Worlds Interpretations has been used with different meanings.
+Neither does it help to add more complicated stories about how the branching occurs. The
+local branching idea has it that the
+splitting of the worlds obeys the speed-of-light limit. For this reason, a measurement in B in does not split the world in A instantaneously. It is only when the two come into causal
+contact and observers from both places can compare their measurements that the split must have
+been completed.
+But for us instrumentalist this story is irrelevant. We take the measurement results from A
+and B and apply our definition of Local Causality. It is violated, and that’s that. Whether you
+think there were multiple different universes with different outcomes at A before we compared
+both records is irrelevant for the fact that the records which we do have in our universe show
+these correlations. And since there is not enough information in the wave-function to predict
+A without the information from B, Local Causality is violated. Stories about local branchings
+do not matter. (Unless the branching contains additional information about the measurements
+that will be made, in which case Local Causality can be restored by violating Measurement
+Independence instead.)
+One way to proceed is to just argue that Local Causality is not a relevant or even meaningful
+criterion to require of a theory with many worlds. This is the avenue pursued in ideas like the
+Parallel Lives Interpretation. This is a very valid approach to pursue because indeed
+giving up Local Causality is one of the logical options. It still leaves one with the question of
+how to reconcile the measurements that we observe with the locality requirements in Einstein’s
+General Relativity, but then some might not find this as important as I do.
+If one, however, makes the mistake of thinking that the Many Worlds Interpretation is
+locally causal, then one has another problem, which is Bell’s theorem. According to Bell’s
+theorem, a theory can only be locally causal if it introduces hidden variables which violate
+Measurement Independence. [...]
+It is indeed possible to formulate some variants of Many Worlds models that are local, but
+these violate Measurement Independence. This should not be surprising because this follows
+from Bell’s theorem." We will see what this entails in the following summary of superdeterminism.
+
+
+Since we now have good reason to believe that there aren't infinitely many branches of history, but probably only one, we must, as I've suggested elsewhere, take superdeterminism more seriously. Superdeterminism is the hypothesis that local realism can be saved by hidden variables, if statistical independence isn't satisfied. More specifically, "a deterministic hidden-variable model is said to be superdeterministic if the so-called Measurement Independence assumption (sometimes referred to as the Statistical Independence assumption or the λ-independence assumption),
+
+ρ(λ|θ) = ρ(λ)
+
+is violated.
 
 In 1964, John Stewart Bell published the Bell inequality, delivering an unwarranted setback to Einstein’s hidden variable theories about quantum mechanics. Einstein had introduced the concept of local realism to address apparent violations of two fundamental physical principles by quantum mechanics: locality and realism. Einstein was concerned about the apparent superluminal "spooky action at a distance", which is not compatible with the theory of relativity.
 Locality asserts that no information or influence can travel faster than the speed of light, while realism holds that particles possess well-defined properties even when not being measured. Many physicists interpret Bell’s inequality as proof that hidden variables cannot exist, arguing that its violation implies the rejection of local realism—a conclusion that has been experimentally confirmed.
@@ -2375,6 +2426,7 @@ In the standard interpretation of quantum mechanics, this first measurement coll
 
 If superdeterminism is correct, however, the states of both photons were predetermined from the moment the spacecraft launched, though they remained unmeasured. In this view, the universe would have had to evolve in such a way that the experimenters (or their descendants) were inevitably led to choose the exact measurement settings that align with the states the particles had possessed since the beginning of the journey.
 To many physicists, this idea resembles a kind of cosmic conspiracy—a scenario in which the fundamental laws of the universe conspire to prevent truly free experimental choices, challenging the assumptions underlying conventional scientific methodology.
+The key critique is this: "In any deterministic theory one can take a measurement outcome and, by using the law of time-evolution, calculate the initial state that would have given rise to this outcome. One can then postulate that since this initial state gave rise to the observation, we have somehow “explained” the observation. If one were to accept this as a valid argument, this would seemingly invalidate the science method in general. For then, whenever we observe any kind of regularity—say a correlation between X-ray exposure and cancer—we could say it can be explained simply because the initial state happened to be what it was."
 
 Sabine Hossenfelder retorts: "In a superdeterministic theory, the measurement
 setting, θ, can be chosen in the same way you can chose it in normal quantum mechanics. It’s
@@ -2407,6 +2459,45 @@ One can make the situation even more complicated by rolling back the initial con
 further in time by some billions of years so that now one has to take into account each and everything that happened in the backward lightcone of the actual measurement. It then seems like
 one needs to arrange the hidden variables in “just the right way” so that any possible method
 for choosing the detector settings comes out correctly. This is one of the reasons that superdetermism is widely believed to be finetuned."
+
+"A “finetuned” theory or a “conspiracy theory” is a theory which lacks explanatory power. A
+lack of explanatory power means that the theory requires more information as input than just
+collecting the data. This notion of finetuning makes sense because a theory that is finetuned in
+this way is unscientific. We should prefer just collecting the data over such a theory.
+[...]
+Consider this common example of finetuning: A pen balanced on its tip. Should we encounter such a situation, we would suspect a hidden mechanism because otherwise the balance
+seems “unnatural”, a “conspiracy”, or “finetuned”. The reason is that we know the system is
+unstable under perturbations that (here comes the relevant point) are likely to occur (during the
+time of observation) given the initial conditions we are likely to encounter. This means we have
+an empirically supported expectation for the state the system is likely in, and the perturbations
+it is likely to be exposed to, and these experiences have themselves been obtained by drawing
+on theories which have explanatory power.
+For this reason, seeing a precariously balanced pen leads us to discard the possibility that it
+just happens to have had the right initial condition as possible but implausible. It is much more
+likely the pen is held in place by something. Any mechanism that did that would remove the
+need to finetune and thus have much higher explanatory power.
+The balanced pen is an example for a good, scientific finetuning argument. As example
+for an unscientific finetuning argument take the supposed issue that certain parameters of the
+standard model of particle physics are finetuned. In this case, we have no way to quantify the
+probability of having a different parameter in this model because that would describe a universe
+we do not inhabit. Neither can these parameters be perturbed in the real world.7 The consequence is that this notion of finetuning used to criticize the standard model has no empirical
+basis. And unsurprisingly so: The standard model is in some sense the scientifically most successful theory that humans have ever conceived of. It explains Terabytes of data with merely
+some dozen parameters. It would be hugely absurd to complain it lacks explanatory power.8
+This is not to say that finetuning arguments are always unscientific. Finetuning arguments
+can be used when one has a statistical distribution over an allowed set of parameters and a
+dynamical law acting on this distribution. If the initial distribution requires us to use detailed
+information to get the observed outcome then the theory becomes scientifically useless because
+that amounts to assuming what one observes."
+
+But "there need be nothing a priori unscientific about a fine-tuned theory. A fine-tuned theory may be unscientific if one needs to put a lot of information into the initial condition thereby losing explanatory power. But this does not necessarily have to be the case. In fact, according to currently accepted terminology both the standard model of particle physics and the concordance model of cosmology are “fine-tuned” despite arguably being scientifically useful.
+One way to avoid that fine-tuning leads to a lack of explanatory power is to find a measure that can be defined in simple terms and that explains which states are “close” to each other and/or which are distant and have measure zero, i.e., are just forbidden.
+Bell's and similar examples that rest on arguments from fine-tuning (or sensitivity, or conspiracy) all implicitly assume that there is no simple way to mathematically express the allowed (or likely) initial states that give rise to the predictions of quantum mechanics."
+
+In another paper, it is shown that "one can
+violate the (Bell-)Statistical Independence assumption in Bell’s theorem without any
+correlations between the measurement outcomes and the hidden variables. The violations of Bell-Statistical Independence can instead come about by the geometry of the
+underlying state space. [...] This is a simple way to see that violating
+Bell-Statistical Independence does not require fine tuning."
 
 "A lot of people seem to think that violating Statistical Independence is weird, but is no weirder
 than quantum mechanics already is because in quantum mechanics too the measurement outcome depends on the detector settings. Yes, it does: You need the detector setting to update the
@@ -2584,9 +2675,25 @@ anything with it. Future-input dependence, hence, is the reason why superdetermi
 conspiracy theory. It demonstrates that there is a simple way to write down the dynamical law
 that does not require much information."
 
+
 To experimentally test superdeterminism, Hossenfelder has proposed conducting measurements on extremely small scales and at very low temperatures. The goal is to reduce the chaotic motion of electrons in order to determine whether they behave more deterministically than previously thought.
 
-In a 2013 presentation, Hossenfelder suggested repeatedly measuring the non-commuting variables of a single particle at very short intervals. Non-commuting variables, such as position and momentum, cannot be precisely determined at the same time. Another approach involves spin measurements in different directions, where each new measurement disrupts the previous state. However, she assumes that hidden variables might change if measurements aren’t performed quickly enough or if the experimental setup allows for interference, which is why low temperatures are necessary.
+In a 2013 presentation, Hossenfelder suggested repeatedly measuring the non-commuting variables of a single particle at very short intervals. Non-commuting variables, such as position and momentum, cannot be precisely determined at the same time. Another approach involves spin measurements in different directions, where each new measurement disrupts the previous state. However, she assumes that hidden variables might change if measurements aren’t performed quickly enough or if the experimental setup allows for interference, which is why low temperatures are necessary. Hossenfelder's idea was inspired by an account of Eugene Wigner about John von Neumann's thought on hidden variables:
+
+“Von Neumann often discussed the measurement of the spin component of a spin-1/2
+particle in various directions. Clearly, the possibilities for the two possible outcomes of a
+single such measurement can be easily accounted for by hidden variables [...] However,
+Von Neumann felt that this is not the case for many consecutive measurements of
+the spin component in various different directions. The outcome of the rst such
+measurement restricts the range of values which the hidden parameters must have
+had before that rst measurement was undertaken. The restriction will be present also
+after the measurement so that the probability distribution of the hidden variables
+characterizing the spin will be different for particles for which the measurement gave
+a positive result from that of the particles for which the measurement gave a negative
+result. The range of the hidden variables will be further restricted in the particles for
+which a second measurement of the spin component, in a different direction, also gave
+a positive result...”
+
 The key to testing superdeterminism is to create a system that interacts with its surroundings as little as possible. If the environment interferes with the experiment, it could alter the hidden variables. Hossenfelder’s proposed experiment consists of a system with two mirrors and two polarized beam splitters—one testing spin up/down and the other testing spin right/left.
 According to standard quantum mechanics, a photon encountering a beam splitter has a 50% chance of passing through and a 50% chance of being reflected. If reflected, it exits the system; otherwise, after passing through both beam splitters, it reaches a mirror, repeats the process, encounters another mirror on the other side, and continues indefinitely. Since the photon has a 50% chance of being reflected at each step, the probability of it remaining in the system drops quickly to near zero.
 
@@ -2623,5 +2730,84 @@ Needless to say, the obvious solution may not be the right one and testing Super
 may be more complicated than that. But it seems reasonable to start with the simplest and most
 general possibility before turning to model-specific predictions."
 
+The question is, will we be able to measure a statistical deviation between what normal quantum mechanics and what superdeterministic quantum mechanics would predict. Sabine Hossenfelder tried to estimate this possibility in the following way:
 
+"To see whether such an experiment is possible in an interesting parameter
+range, let us estimate what is the typical decay time to expect. As an example,
+consider a photodetector constituted of N atoms that measure an infalling
+photon by excitation of an electron into the conduction band. The energy gap
+of the material be ∆E and the temperature be T. At that temperature, one
+single atom has a probability of exp(−∆E/T ) to become excited by thermal
+motion, and it remains so for the average electron-hole recombination time
+τr. The time τ̃  for N atoms to undergo a statistical change is thus
 
+![Equation](https://latex.codecogs.com/svg.latex?%5Ctilde%7B%5Ctau%7D%20%5Capprox%20%5Cfrac%7B%5Cexp%28%5CDelta%20E%2FT%29%7D%7BN%7D%5Ctau_r.)
+
+There are many other sorts of noise, but this is the one with the highest
+frequency, and thus the one relevant for the decay time.
+We set this time in relation to the decay time of the correlation by τ = ατ̃ .
+Here, the dimensionless parameter α is the parameter we want to constrain
+by experiment. For a SDHVT [super-deterministic hidden variable theory] one would expect it to be of order one, whereas
+for ordinary quantum mechanics it is zero.
+If one inserts typical values of ∆E ∼ .5eV, T ∼ 300K, τr ∼ 1 ns, and
+N ≈ 10^20 one finds τ̃ ∼ 10^−20s and, for α ≈ 1, a hopelessly small correlation
+time. One might think about cooling the whole system down. However, this
+would practically necessitate immersion in some liquid, thereby increasing N
+and the difficulty to perform an experiment to begin with. However, if we
+consider instead a microscopically small detector, maybe with an extension
+of some µm, we could get down to N ≈ 10^15. Let us further take a semiconductor with a fairly large band gap of ∆E ≈ 1 eV. Then we get down
+τ̃ ≈ 10^−6 s. This now has to be compared with the typical time in which
+measurements can be repeated.
+In 10^−6 sec a photon travels a distance of about 100m. The experiment
+cannot be arbitrarily small because it still should be larger than the wavelength of the photon, but a size of a mm is, with visible light, still large
+enough. In this case, the time for a photon to get from one end of the experiment to the other is below 10^−11sec, and is as desired much shorter than
+the decay time, leaving space for non-ideal material and other sources of
+experimental uncertainty.
+For the example of the photon, the detectors A and B could measure
+different polarization states in a photonic version of the Stern-Gerlach experiment, when such devices can be made sufficiently small. Alternatively,
+one can use electrons and spin-filters. While the research in this area
+is not yet sufficiently advanced, it may soon be. To return the electron into
+the initial state, the function of a mirror could for example be mimicked by
+Bragg-reflection on sufficient layers of suitably spaced atoms. Electrons bring
+the advantage that the wavelength is smaller and thus the experiment can
+be made smaller. It has the disadvantage that it is more difficult to handle
+charged particles.
+In either case, the detector would let the particle (photon or electron)
+trespass straight for one particular combination of measurement outcomes
+(polarization or spin), while the particle would be deviated to leave the loop
+if it does not have this particular combination. The quantity of interest is
+then time it takes for the particle to leave the loop at either detector A or
+B. The average value of these time measurements is the correlation time.
+Let us denote the measurement outcomes the particle needs to have to
+stay in the loop with a and b, corresponding to the two detectors (for example
+spin up and left). The probabilities for these measurement outcomes be pa
+and pb, respectively. In ordinary quantum mechanics the probability for a
+particle that has entered the system to be deviated out of the system at
+detector A or B before it returns to the point of entry is (1−pa)²(1−pb). Then,
+it has a probability of p that it leaves through the imperfect one-way mirror,
+and the probability to make it into the next loop is (1−p)(1−pa)²(1−pb). The
+probability that the particle is still in the system after the mth reflection at
+the one-way mirror is (1−p)^m (1−pa)^m+1 (1−pb)^m. In the SDHVT however,
+we know that if the particle has fulfilled the conditions to make the loop once
+it will continue to do so and, on a duration shorter than the autocorrelationtime, it should return to the mirror on the second screen with probability
+(1 − p)^m (1 − pa)(1 − pb).
+With p ≪ 1 and pa, pb of order one, in ordinary quantum mechanics the
+probability is thus very high that the photon will be detected within only a
+few rounds. In the SDHVT, detection should occur either in the first round,
+or with a delay relative to the standard case. There is not much use in making
+the propagation time of the particle very short by making the experiment
+very small, since the time still has to be measureable. However, with presentday technology, it seems feasible to measure a correlation time of 10^−6
+sec and
+distinguish it from no correlation.
+In addition to the above considerations about measurability of the autocorrelation, there is of course experimental error that needs to be taken into
+account. Most crucially, we have so far assumed that the mirrors are perfectly
+even. In reality, they will of course have a finite surface roughness and the
+electron or photon will only return to its initial state with some limited precision, which then alters the probability for it to make the same loop again.
+We can estimate this effect by noting it will become relevant if the unwanted
+dislocation of the particle per loop, ∆zm, through a non-perfect reflection
+makes a non-negligible change to its relative location to the degrees of freedom of the environment. In the case considered here, the relevant distance
+would be of about one atomic diameter, or 10^−10m. If we denote this distance
+with zN , then we have an additional contribution to the autocorrelation time
+that increases with m,
+
+![Equation](https://latex.codecogs.com/svg.latex?Corr_{\kappa}%20=%20\exp\left(-\frac{\kappa}{\alpha\tilde{\tau}}\right)%20+%20\exp\left(-m\frac{\Delta%20z_m}{z_N}\right)) ."
