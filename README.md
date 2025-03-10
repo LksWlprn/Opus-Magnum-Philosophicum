@@ -1188,7 +1188,7 @@ Whether we regard the situation as one in which ultimately two brains have chang
 The only remaining question is, how the subjecthood can be a universal, when all the other experiences are not. I cannot find a good explanation for this, which leads me to conclude that unification should in the end be true. The paradox remains.
 
 Universalism, as based on the universal of immediacy, since experience is always here, now, and mine, rest on a type theory of identity rather than a token theory.
-One contended counterargument to type theory is the slicing problem. Let's see why this is assertion is false. 
+One contended counterargument to type theory is the slicing problem. Let's see why this assertion is false. 
 Imagine replacing an entire human brain with a functionally equivalent computer. Arnold Zuboff’s proof of functionalism allows us to infer that this preserves qualia and consciousness. 
 Nick Bostrom now imagines a thought experiment, in which such a computer is sliced into two identical halves by splitting each wire and electrical component in two, inserting an insulator material between them. 
 Bostrom suggests that the insertion of the insulator leads to the duplication of qualia and that insulating more of the computer gradually leads to more qualia being experienced. He writes: 
