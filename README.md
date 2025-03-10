@@ -1393,6 +1393,11 @@ subject in the activities of the single left hemisphere. This token view is
 incoherent."
 
 
+To see this more clearly, just imagine what we've done before. Imagine, we shut down one of the right hemispheres. Would you need to be worried that you might not survive this shutdown? Well, on the token view you would only worry that half of your experience would not survive. But the problem is that there is no remaining left half of the experience on its own, because the remaining experience is still a unified experience of both the left and right hemisphere. Consequently, you cannot have experienced a shutdown, because the part of you that survives after the shutdown doesn't experience a shutdown. Therefore, you survive as a whole. 
+
+By the way, this thought experiment also closes our loophole solution that the experience could have been duplicated, while only the subject was universal. If duplication was right, even if both of the right hemispheres were us, we would need to fear a 50% chance of half of our experience being killed. But that's just incoherent. Either we die or we survive. There is no half survival. And since we do not die, we survive as a whole. Duplication is refuted, leaving us no choice other than accepting the non-existence of a quasi-infinite universe.
+
+
 
 ## Consciousness
 
