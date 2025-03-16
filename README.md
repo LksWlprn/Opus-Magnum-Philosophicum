@@ -1330,7 +1330,7 @@ activity. And a variation of our exercise with the distant brains can, I believe
 help you in deciding between these views. 
 But first I must tell you that in a few moments my colleagues, in preparation for 
 the next exercise, will be shutting down one of the brains in the pair that is 
-currently communicating with your body [Fig. 3]. And this is something worth 
+currently communicating with your body. And this is something worth 
 thinking about. For, if you believe the token view, you must hope, if you want to 
 remain conscious for the next exercise, that it will happen not to be your brain 
 that is shut down but the other one. If, on the other hand, you believe the type 
@@ -1362,7 +1362,7 @@ hemisphere into its own nutrient bath. But we have all along continued by radio
 communication the pattern of impulses across the severed corpus callosum, so 
 that the activity of each hemisphere has all along been integrated with that of 
 the other as though they had never been parted. And each still communicates 
-with the body in the same pattern it normally would [Fig. 4]. This maintenance of 
+with the body in the same pattern it normally would. This maintenance of 
 the normal pattern of brain activity and of interaction with the body explains why 
 your experience and behavior is, even in this odd case, of a normal sort. 
 
@@ -1402,7 +1402,9 @@ incoherent."
 
 To see this more clearly, just imagine what we've done before. Imagine, we shut down one of the right hemispheres. Would you need to be worried that you might not survive this shutdown? Well, on the token view you would only worry that half of your experience would not survive. But the problem is that there is no remaining left half of the experience on its own, because the remaining experience is still a unified experience of both the left and right hemisphere. Consequently, you cannot have experienced a shutdown, because the part of you that survives after the shutdown doesn't experience a shutdown. Therefore, you survive as a whole. 
 
-By the way, this thought experiment also closes our loophole solution that the experience could have been duplicated, while only the subject was universal. If duplication was right, even if both of the right hemispheres were us, we would need to fear a 50% chance of half of our experience being killed. But that's just incoherent. Either we die or we survive. There is no half survival. And since we do not die, we survive as a whole. Duplication is refuted, leaving us no choice other than accepting the non-existence of a quasi-infinite universe.
+If you are still sceptical you might argue that I have cheated by limiting the thought experiment to one hemisphere, while we can only really prove the type theory if my entire identity would be on the line. Well, this is quite easily done. Imagine, instead of one left hemisphere and two right hemispheres a scenario with three duplications of a brain, 1, 2 and 3. Each duplication has a right and left hemisphere only connected by our radio communication device. Both hemispheres in brain 1 communicate with each other. Both hemispheres in brain 3 communicate with each other. But the left hemisphere of brain 2 also communicates with the right hemisphere of brain 3 and the right hemisphere of brain 2 also communicates with the left hemisphere of brain 1. Now, if someone were to shut down brain 2 entirely, person 2 cannot have died. The experiences of person 2's left hemisphere would shut down, but the corresponding right hemisphere experience would survive in person 3. Similarly, person 2's right hemisphere would shut down, but the corresponding left hemisphere experience would survive in person 1. And since both 1 and 3 have identical overall experiences to person 2, person 2 must survive entirely in each of them.
+
+By the way, this thought experiment also closes our loophole solution that the experience could have been duplicated, while only the subject was universal. If duplication was right, even if both of the right hemispheres were us, we would need to fear a 50% chance of half of our experience being killed in these thought experiments. But that's just incoherent. Either we die or we survive. There is no half survival. And since we do not die, we survive as a whole. Duplication is refuted, leaving us no choice other than accepting the non-existence of a quasi-infinite universe.
 
 
 
