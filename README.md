@@ -319,13 +319,103 @@ what I said earlier about that one: We can indeed even now be certain that if no
 can be certain then we can never be certain of that. So we can be certain of
 something."
 
-In the Second Meditation, Descartes reaches his foundational conclusion about what it is that we can indeed be certain of: the one certainty is thought itself. Even if deceived, the act of doubting confirms his existence—Cogito ergo sum ("I think, therefore I am"). Since deception requires a subject to be deceived, something must exist: a thinking entity, a mind.
+In the Second Meditation, Descartes reaches his foundational conclusion about what it is that we can indeed be certain of: the one certainty is his thinking itself. Even if deceived, the act of doubting, as it is thinking, confirms his existence—Cogito ergo sum ("I think, therefore I am"). Since deception requires a subject to be deceived, something must exist: a thinking entity, a mind.
 
 While Descartes later argues that the external world is also certain, his reasoning depends on the assumption that God exists and would not deceive us. Since this premise is questionable, we set aside his further meditations.
 
 By establishing one's existence as a necessary truth, we also implicitly establish the necessary truth of logic, since my existence stands in opposition to my non-existence. By establishing my existence, I am implying that my non-existence is a contradiction. Logic is therfore even prior to my existence, because I can only establish my existence through logic. Even though a Cartesian demon could deceive me into believing more abstract logical reasoning about mathematics, this simplest kind of tautological logic must be necessarily true, for if it weren't I would not be able to differentiate my thoughts existence from their non-existence.
 
-By this reasoning, we can establish the following a priori necessary truths:
+Zuboff explains this in detail: 
+
+"Not till the Third Meditation does [Descartes] explicitly bring in his standard of ‘clarity and distinctness’, 
+introduced there as the standard that he had already employed in judging that he was certain of his 
+own existence. In discussing Principle 45 of the Principles of Philosophy, Part I he explains that 
+any mental item is ‘clear’ when it is before the mind and is also ‘distinct’ when it is fully clear in that 
+it is not being confused with any other thing. 
+For example, a pain in my foot is clear since it is present to the mind, but it is only distinct insofar as 
+I recognize it as not actually something in the foot but rather a sensation, which could have existed 
+exactly as I perceive it even if, as in the case of a phantom limb pain, I had no foot at all. Then I 
+know it clearly and distinctly, as a sensation presently before my mind. And I can be certain of the 
+existence and nature of anything thus known clearly and distinctly because it simply is what it is in 
+my awareness of it; that awareness thus cannot be mistaken. In recent terminology this claim that 
+one cannot be mistaken about the immediate contents of one’s own present mental state is called 
+the doctrine of ‘the incorrigibility of the mental’. 
+And when the clear and distinct mental item is not a sensation or emotion but rather an idea, a 
+concept, then one knows the nature of the object of that idea with clarity and distinctness as well. 
+An idea of a circle is only the idea of that object because it, as an idea, contains within it the nature 
+of a circle—not, of course, in the way a circle itself does—for the idea of a circle would then itself 
+be a circle—but rather in the way that an idea contains the nature of its object in representing it.  
+The nature of a circle, in Descartes’ terminology, exists ‘formally’ in a circle itself and ‘by 
+representation’ or ‘objectively’ in the corresponding concept of a circle. The idea is not, or is not
+essentially, the image that may accompany the thought of a circle but rather the form of thought in 
+which the mind conceives of that image as being of a circle. After all, the very same image could be 
+conceived of as the image of various things—of a flat circle seen face on, an ellipse seen at an 
+angle, a sphere, a simple rendition of a head or countless other things. It is only the concept that 
+gives its meaning to the image. 
+At a later stage of his theory, in the Sixth Meditation, he claims that the mind interacts with a small 
+portion of the brain and that images are actually not in the mind but in the brain. And in the 
+definition of ‘idea’ in his ‘Arguments Arranged in Geometric Fashion’ he says ‘it is not only the 
+images depicted in the imagination which I call ‘ideas’. Indeed, in so far as these images are in the 
+corporeal imagination, that is, are depicted in some part of the brain, I do not call them ‘ideas’ at 
+all; I call them ‘ideas’ only in so far as they give form to the mind itself, when it is directed towards 
+that part of the brain.’  
+
+So, anyway, when the mental item that is clear and distinct is the idea of a triangle, the mind grasps 
+clearly and distinctly the nature, the essence of a triangle—the mind knows what would have to be 
+true of anything that would agree with this, its own idea, and thus be a triangle. And the mind can, 
+in thus knowing clearly and distinctly the essential properties of a triangle, be brought to discover 
+with certainty the ‘necessary’ truth that nothing could be a triangle if its internal angles did not 
+equal 180 degrees. Why?
+
+In the case of any triangle on a flat surface (any ‘plane triangle’), through any point where two of its 
+sides meet it must always be possible to draw a line that would be parallel to the opposite side. We 
+have an example of this above. It is easy to grasp that angle ‘d’ must be equal to angle ‘a’ and that 
+angle ‘e’ must be equal to angle ‘c’. Angle ‘b’, of course, must be equal to itself. And so internal 
+angles ‘a’, ‘ b’ and ‘c’ must together be equal to angles ‘d’, ‘b’ and ‘e’. The three internal angles 
+must, in this or any triangle, be equal to a ‘straight angle’, to half  the degrees in a circle, to 180 
+degrees. 
+A denial of this truth, or of any necessary truth, would be a contradiction. The denial would assert 
+something to be true of a triangle that would contradict its being a triangle and hence could never 
+be true of one. Thus the mind, through perceiving its own ideas with clarity and distinctness, can 
+discover necessary truths about the objects of those ideas. When it does so in a single mental act, as 
+in recognizing that it would contradict the nature of 2 added to 3 if they were anything but 5, the 
+discovery is called an ‘intuition’ of the intellect. When intuitions are strung together as the steps of 
+an argument, like that we have made concerning the angles of a triangle, such discovery is called 
+‘demonstration’. 
+
+So clarity and distinctness gives Descartes two areas of certainty. He has incorrigible knowledge of 
+the mental items immediately before his mind and he has necessary knowledge of the natures of 
+objects when the concepts of them are clear and distinct. And his certainty that he exists depends on 
+both. 
+
+He has incorrigible knowledge of the existence of a property, his own current thinking, his own 
+being conscious; and he also intuits the necessary truth that if a property exists there must exist 
+something that has that property (as is required by the concept of a property). So his certainty that 
+he is thinking gives him certainty that he exists. 
+It seems to me that at the end of the paragraph in which Descartes presents this in the Second 
+Meditation he misstates his own position. He concludes by saying ‘it must, in fine, be maintained 
+...that this proposition I am, I exist, is necessarily true each time it is expressed by me, or conceived 
+in my mind.’  But merely saying that it is necessary that he be right in thinking he exists (because he 
+must exist to be thinking it), though this is true, is not enough to express the full reason he can be 
+certain of his own existence. 
+For it is also true that it is impossible for him to be wrong in writing that he exists, because he must 
+exist to be doing it, but he could not know with certainty that he was writing rather than merely 
+dreaming that he was. With any of his properties, walking for example, he would necessarily exist 
+while the property existed and hence he would necessarily be right if he then thought he existed. 
+But thinking is the only property he can be certain actually does exist. Incorrigibility is the key. 
+[..,]
+But, he next asks, what kind of thing does he thus know with certainty to exist? He does not know 
+himself to exist as an animal, as something with a body or such bodily properties as nutrition, 
+walking or sense perception through sense organs. 
+He only knows himself to exist insofar as he is a thinking thing, where ‘thinking’ may include 
+doubting, understanding, conceiving, affirming, denying, willing, refusing, imagining and having 
+sensations as though in sense perception.  (Later we learn that the term ‘thinking’ applies to all 
+conscious states because thinking in the usual narrower sense of conceiving and judging is essential 
+to all conscious states.)  
+So Descartes’ knowledge of his existence requires no knowledge of the existence of any material 
+thing."
+
+By Cartesian reasoning, we can establish the following a priori necessary truths:
 
 1. The existence of something.
 2. The existence of a thinking entity.
