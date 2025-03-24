@@ -1513,7 +1513,15 @@ These psychophysical laws might not be as big of a burden for Panpsychism (the v
 These old arguments against dualism might not refute all types of dualistic approaches, but this wasn't my goal here. The goal was just to show how this one idea has really stiffled philosophical progress, even though it's easily shown to be a fantasy. Instead of refuting all types of dualism, it will suffice to prove that functionalism must be true, which is a non-dualist account of consciousness and mind. If functionalism is true, then dualism is false.
 
 
-This, in turn, means that the merely intrinsic characterisics and states of any parts of the brain are wholly irrelevant to consciousness. As long as the input/output-relations are the same, the experience is the same. This implies that philosophical zombies, as imagined by David Chalmers, are impossible. It also implies that mind-uploading is indeed possible and that cryonics/cryopreservation can actually work in principle. While these topics are interesting, they are not discussed in further detail here.
+This, in turn, means that the merely intrinsic characterisics and states of any parts of the brain are wholly irrelevant to consciousness. As long as the input/output-relations are the same, the experience is the same. This implies that philosophical zombies, as imagined by David Chalmers, are impossible. I might add that philosophical zombies are "creatures absolutely identical to us in every external measure, but with no internal light, no inner subjective experience". Chalmers argument against physicalism goes as follows (as reported by Robert Lawrence Kuhn):
+1. In our world, there are conscious experiences.
+2. There is a logically possible world physically identical to ours, in which the positive facts about consciousness in our world do not hold.
+3. Therefore, facts about consciousness are further facts about our world, over and above the physical facts.
+4. So, materialism is false.
+
+This argument fails because it sneaks in the conclusion in its premise, that there can be a world, in which the positive facts about consciousness of our world might not hold. 
+
+The truth of functionalism also implies that mind-uploading is indeed possible and that cryonics/cryopreservation can actually work in principle. While these topics are interesting, they are not discussed in further detail here.
 
 
 ### Functionalism
