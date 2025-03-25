@@ -1132,6 +1132,8 @@ While both are the same universal subject, the observer in the first universe ca
 The observer in the first universe, if it recognized blue and gold at the same time, would need to be able to tell people about this experience of gold-blue-ness in both universes. 
 But the observer is not able to do this, because there is no corresponding function and so the observer is cut-off from the other experiences it has, even though these experiences belong to the same subject. 
 Ultimately, this argument claims that universalism needs to be true, if the observer's properties cause reality to be causal invariant in the way Wolfram's physics project suggests. 
+The reality of parallel universes is not necessary for this conclusion to be true and I will later argue that the Many Worlds Interpretation of quantum mechanics is not compatible with universalism, which is seemingly problematic within the hypergraph hypothesis of reality, because the ruliad would suggest that any computationally possible world would probably be instantiated somewhere within it. I do not have an answer to this problem, but my hunch is that the answer depends on what Sabine Hossenfelder terms the future input-dependence of the Feynman integral, which seemingly requires our future to be already determined to enable us, as observers, to exist. This condition for our existence might restrict the completion rules causing our reality to become causal invariant such that reality always converges into a single branch. 
+
 
 
 ### Falsifying Universalism
