@@ -930,7 +930,7 @@ And ultimately this scenario isn't different from injecting one person's memorie
 Derek Parfit's famous thought experiment of the teletransporter imagines a person being teleported from Earth to Mars. For our discussion, let’s assume macroscopic teleportation is physically possible. Of interest to us is only what happens to our experience. Will we survive? 
 The common view holds that teleportation would end our experience due to a discontinuity. But discontinuity doesn't end our experience in other cases, like sleep, coma, memory loss, near-death experiences or brain surgery. 
 Consider a teleportation process that disassembles a person in an attosecond and reconstructs them in the same spot an attosecond later. No one, including the person, would notice. They would just go about their day as if nothing happened and they would certainly not die. 
-Destroying a piece of paper (which contains certain written information) after copying it does not erase the information it carried. Likewise, we are not defined by our material atoms (which are completely replaced over time) but by the information structured within them. 
+Destroying a piece of paper (which contains certain written information) after copying it does not erase the information it carried. The information survives on the other copy. Likewise, we are not defined by our material atoms (which are completely replaced over time) but by the information structured within them. 
 So, teleportation cannot destroy us.
 
 Parfit, however, concluded otherwise. He emphasized psychological connectedness and considered a case where teleportation malfunctions: person A remains on Earth while an identical replica, B, appears on Mars. 
