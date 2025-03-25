@@ -2809,7 +2809,43 @@ impossible to exactly know all the detector’s degrees of freedom, quantum mech
 make probabilistic predictions.
 The challenge of this approach is to find a suitable function that actually has this behaviour."
 
-But in another text Hossenfelder stresses:
+"For a quantum system, the optimal evolution should be one in which the prepared
+state always ends up in one of the possible detector eigenstates. Note that this is not what
+happens in quantum mechanics. In quantum mechanics the state (generically) ends up in a
+superposition of detector eigenstates. The wave-function collapse then needs to be added as
+an ad-hoc prescription because the Schrödinger equation alone fails to give the result that we
+actually observe. To replace the collapse postulate with a principle of least action, one would
+need to know the right action to vary over. [...] The important difference between [the path integral approach to Superdeterminism] and quantum mechanics is that in quantum
+mechanics the time evolution of the state [is independent] of the measurement settings. The settings
+only enter in the calculation of probabilities at the time of measurement. This is the reason
+why one needs a non-local update of the wave-function and why a realist interpretation of the
+wave-function is difficult to reconcile with relativity."
+
+The specific approach by Donadi and Hossenfelder requires a minutely different treatment of the Feynman integral:
+
+"
+1. The paths under consideration here are not trajectories in space-time but trajectories in Hilbert-space. They are not only not classically allowed, they are not
+classical.
+2. The system is not only allowed to take all possible paths to one fixed final state, but can take all possible paths to all possible final states. This is why the model has a future-input dependence.
+3. |Z|² is not a probability. As with the classical principle of least action, the probability is = 1 that the initial state evolves into the state which maximizes the transition function, and = 0 that it goes into any other state. |Z|² is instead the quantity that is maximized.
+4. The paths that we integrate over need not solve the Schrödinger-equation, just like, in the normal path integral, the paths that one integrates over do not have to solve the classical Euler-Lagrange equations."
+
+"For final states with high quantumness,
+∣Z∣ will be exponentially damped, which means that these states will
+be very unlikely outcomes of the evolution. On the other hand, a detector in a pointer state
+has comparably low quantumness and is hence likely to maximize [∣Z∣].
+
+The difficulty is "with the measures of quantumness that are commonly used in the literature,
+evaluating the path integral becomes mathematically intractable. A possible way to
+proceed would be to use an effective approximation for quantumness that exploits
+our knowledge that the detector pointer basis exists and thus does not have to be
+computationally identified from all the degrees of freedom."
+
+To find a suitable measure of quantumness, it might thus be beneficial to gain a deeper understanding of Quantum Darwinism.
+
+
+
+Concerning worries about future dependent inputs Hossenfelder stresses:
 
 "this does not mean future-input
 dependence is retrocausal in the space-time way, so to avoid confusion, I will simply refer to it
@@ -2836,7 +2872,15 @@ conspiracy theory. It demonstrates that there is a simple way to write down the 
 that does not require much information."
 
 
+
+
 To experimentally test superdeterminism, Hossenfelder has proposed conducting measurements on extremely small scales and at very low temperatures. The goal is to reduce the chaotic motion of electrons in order to determine whether they behave more deterministically than previously thought.
+
+"Indeed, in a superdeterministic model, the randomness [of quantum mechanics] should not be fundamental but merely a consequence of lacking
+detailed information – as one expects in a ‘hidden variables’ theory. Thus, the distribution of
+the hidden variables should in certain circumstances deviate from being completely uniform. In
+this case, taking the average over the hidden varables will not give the same result as in quantum
+mechanics."
 
 In a 2013 presentation, Hossenfelder suggested repeatedly measuring the non-commuting variables of a single particle at very short intervals. Non-commuting variables, such as position and momentum, cannot be precisely determined at the same time. Another approach involves spin measurements in different directions, where each new measurement disrupts the previous state. However, she assumes that hidden variables might change if measurements aren’t performed quickly enough or if the experimental setup allows for interference, which is why low temperatures are necessary. Hossenfelder's idea was inspired by an account of Eugene Wigner about John von Neumann's thought on hidden variables:
 
