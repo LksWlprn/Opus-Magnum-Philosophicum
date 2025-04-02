@@ -61,6 +61,12 @@ In a society, anyone performing the same role is functionally equivalent. Howeve
 It might also be said, though it's not a rigorous argument, that merely societally agreed upon concepts are in a way less real than concepts based on ontic structural realism or functional realism, because they depend on the existence of that specific society, while functionally or structurally real concepts would be rediscovered by any society. (This argument is inspired by and expands the argument that some societally agreed upon religion would not be rediscoverable if that society were to be wiped out, while the scientifc knowledge of that society would be rediscoverable by any other society.)
 
 
+
+### Logic and Metamathematics
+
+
+
+
 ## Epistemology
 
 ### The Problem of Induction
@@ -1373,6 +1379,22 @@ While identical experiences may be epistemically indistinguishable, they are sti
 Since they exist within the same universal function, they are part of the same subject, which supports universalism. So, this view abandons unification, meaning that functionally independent experiences remain distinct, and still allows for the possibility of a multiverse. 
 One might interject and criticize this explanation on the same grounds I criticized causality as experience-binding in my previous solution attempt to the probability paradox: How can causality account for the hard boundary of conscious experience? 
 But this explanation doesn't claim that causality could account for the boundary of consciousness. There might be many more prerequisites for conscious experience, like coherence, consensus, integration, feedback loops etc. These are more likely to account for the boundary.
+
+
+### The Anthropic Principle
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### In Denfense of the Type Theory of Identity
