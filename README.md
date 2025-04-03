@@ -132,7 +132,9 @@ The paradox reappears when we formulate the predicate "'Is not true of itself.'"
 
 Betrtrand Russells solution to all these paradoxes is the introduction of new terminology where our language encounters contradictions. In set theory, self-containing sets are possible, but then we are no longer dealing with sets but with other mathematical objects. Russell called this distinction "types." A type 0 set contains objects, a type 1 set contains sets, type 2 contains sets of sets, and so on. This prevents self-reference and circularity because we cannot place type 1 sets into type 1 sets without turning them into type 2 sets. We can define sets of type 1 sets, but such sets then belong to type 2."
 
-Higher category theory approaches the problem differently. Instead of imposing external restrictions, it redefines the very notion of "collection" and "membership" in a way that inherently avoids the paradoxes. Instead of treating mathematical objects as fixed entities, it sees them as flexible shapes that can smoothly transform into each other. This means that contradictions like Russell's Paradox are avoided because objects are categorized by how they relate to each other rather than by whether they contain themselves. Through Homotopy Type Theory, higher category theory and Russell's type theory are deeply connected. Gorard et al showed that a multiway
+Higher category theory approaches the problem differently. Instead of imposing external restrictions, it redefines the very notion of "collection" and "membership" in a way that inherently avoids the paradoxes. Higher category theory generalizes traditional category theory by allowing morphisms to have higher-dimensional analogs, while Homotopy Type Theory provides a type-theoretic foundation that integrates homotopy-theoretic principles into logic. Instead of treating mathematical objects as fixed entities, it sees them as flexible shapes that can smoothly transform into each other. Given any axiom system, it can be encoded as an (∞,1)-category where objects correspond to statements, 1-morphisms to proofs, and higher morphisms to proof equivalences. A homotopy type is structured as an (∞,1)-category. This provides a flexible structure where different axiom systems can be related via functors. In such a system the naive comprehension principle, which leads to Russell’s paradox, does not hold outright since types do not support unrestricted self-membership. This property is inherented from Russells type theory, so that self-membership is impossible because of a hierarchy of universes. This means that contradictions like Russell's Paradox are avoided. 
+
+Gorard et al showed that a multiway
 rewriting system with homotopies up to order n may naturally be formalized as an n-fold
 category, such that the infinite limit of this structure yields an ∞-groupoid. Via Grothendieck’s
 homotopy hypothesis, this ∞-groupoid thus inherits the structure of a formal homotopy
@@ -979,6 +981,43 @@ Thus, because our thoughts do not jump, we cannot jump through time either.
 
 A similar principle applies to the idea of consciousness jumping between beings. For you to recognize this jump, you would need to retain your previous experiences before the jump in your memory. 
 But this would require telepathy, which is not what we are discussing. The point is that even if your consciousness were constantly jumping through time or beings, or if all experiences were happening simultaneously and eternally, your experience would still be the same as it is. 
+
+
+Hedda Hassel Mørch helps the novice by distinguishing two concepts of mine-ness by writing that
+"it seems that the
+experiences of every conscious being are private in the sense of having a sharp border around
+them, which renders them directly accessible to that conscious being but not to others. That is,
+I am clearly not literally having the experiences of others in the way I am currently having my
+own. The SAME PERSON view, however, may seem to imply that I am literally having the
+experiences of every other conscious being.
+But this apparent paradox can be resolved by distinguishing two different senses in which an
+experience can be mine, or had by me. Firstly, there is synchronic mine-ness, which is the
+relation I (at the present time, and in the ordinary sense of referring to an individual human
+being or perspective)stand in to all my experiences right now, i.e., my occurrent and concurrent
+experiences of, e.g., color, sound, taste, emotions and thoughts. Importantly, synchronic mineness implies co-consciousness. Co-consciousness is the relation of being experienced together
+from the same point of view, and thereby forming part of the same total unified experience
+(Dainton 2010). Two experiences that are co-conscious will not be private relative to each
+other, but are rather immediately and directly accessible from the same perspective.
+Secondly, there is diachronic mine-ness, which is the relation I (at the present time, and still in
+the ordinary sense) stand in to my experiences in the past and future. This relation does not
+imply co-consciousness: my past and future experiences are not subsumed under the same point
+of view as my current experiences, and therefore not immediately and directly accessible to me
+now. Instead, my past and future experiences are at best only indirectly accessible to me right
+now via some kind of psychological connectedness, such as representation in memory (for the
+past) and imagination (or prediction, anticipation, intention, or similar, for the future). And in
+many cases, my past and future experiences are not accessible to me at all, as they lack any
+psychological connectedness to my present experience. For example, just last night, I was most
+likely having dreams that I currently have no memory of at all—I am entirely psychologically
+disconnected from them. But these dream experiences are still diachronically mine.
+The SAME PERSON view should be understood as the view that the experiences of every
+conscious being are mine, not in the synchronic sense, but only in the diachronic sense. Or
+more precisely, in the sense that is diachronic in the most familiar cases, but according to the
+SAME PERSON view is not diachronic essentially but can in fact also apply synchronically.
+To say that all experiences are mine in the synchronic sense clearly leads to paradox, since it
+is obvious that the experiences of other people (and any other conscious beings) are not coconscious with mine, and synchronic mine-ness implies co-consciousness. But to say that all
+experiences are mine in the diachronic sense implies neither co-consciousness nor any kind of
+psychological connectedness. Hence, this claim is compatible with the experiences of others
+being entirely inaccessible to me." 
 
 
 ### Some Thought Experiments about Identity
@@ -2022,6 +2061,175 @@ you then were ready to talk about them, think about them, perform voluntary acti
 response to them. My view, of course, is that this much fuller occupation of your conscious
 functions with the state of your toes just was your more definite consciousness of them."
 
+
+### Against Intrinsicism and Epipehnomenalism
+
+Zuboff contrasts his views about the mind with what he terms intrinsicism, that something intrinsic to the neural processing determines the qualia in our experience of it.
+
+"The completely natural temptation that I am claiming is naive is to think that the look of
+an object is already established in the processing area, in the visual cortex. The
+temptation is to think that some bit of processing in the visual cortex possesses within
+itself the phenomenal property we are seeking. I am going to argue that what fixes a look
+is rather the pattern of readiness to respond to the look. (Let me point out an essential
+subtlety here: My view is that what might best be thought of as in some sense possessing
+the phenomenal property may indeed be a relevant bit of processing in the visual cortex,
+but that such processing could have no phenomenal property in itself. It would possess its phenomenal property only on account of its causing the appropriate responsiveness to
+the corresponding phenomenal property, the look, of the object.)
+But doesn’t my view seem hopeless from the start? After all, it just seems obvious that a
+look is established first, that only after a look has been established can we become
+appropriately responsive to that look. The responsiveness must be caused by the
+experience of the look to which it is responsive, and therefore the experience must
+possess the character through which it excites this responsiveness independent of the
+responsiveness itself. Now, in physiological terms what causes the responsiveness to a
+look is something happening in the visual processing, in the visual cortex. So the natural
+view is that something in the intrinsic character of that bit of the processing is what
+crucially determines the way that something looks. I shall call this view ‘intrinsicism’.
+There are two competing versions of this natural view. One is the physicalist version.
+Those many physicalists who are also intrinsicists will identify, say, the experience of
+seeing a red triangle with that bit of the processing in the visual cortex that ‘plays the
+causal role’ of the experience. That is, they will identify the experience with that bit of
+the processing which is caused by the causes of the experience of seeing the red triangle
+and in turn is itself the cause of whatever is an effect of the experience of seeing the red
+triangle. Now, I too shall be making exactly that identification although I am arguing
+against intrinsicism. Here is the difference between my view, functionalism, and a
+physicalist’s intrinsicism: The functionalist thinks that playing its causal role is all that
+gives that bit of neural activity its mental character, including its phenomenal nature,
+whereas the intrinsicist thinks that properties intrinsic to that bit of neural activity, which
+could be chemical or even biological, must be essential to the subject’s experiencing of
+the phenomenal qualities of the object. So, for the physical intrinsicist, the phenomenal
+property in the subject -- that which is essential to the subject’s experiencing of the
+phenomenal property in the object -- is some such intrinsic physical property in the
+relevant bit of processing.
+
+But some intrinsicist philosophers understandably balk at identifying a phenomenal
+property with any of these purely physical intrinsic properties of neural activity. It seems
+clear to them (and to me) that a phenomenal property (that whose involvement in some
+state of the perceiver would not cause but simply be the perceiver’s being conscious in
+the way in question) is necessarily unidentifiable with anything like chemical or
+biological properties. Consider it: The merely physical event of an electro-chemical
+impulse surging through a neuron that is hooked up to fire when there are right angles on
+the retinas is supposed to have what it takes, within itself, on account of its chemical or
+biological nature, to be the experiencing of something as a right angle? But there is
+nothing within that neuron that is particularly redolent of right angles -- or of experience.
+It has within itself, as philosophers say, no ‘intentionality’, no intimate relating of itself
+to the object of the experience, to a right angle. (Let me quickly mention that this
+neuron’s extrinsic property of causing responsiveness elsewhere in the brain that is
+appropriate specifically to the seeing of a right angle, this might much more easily be
+supposed to give the firing of this neuron intentionality.)
+Those intrinsicists who thus balk at identifying a phenomenal property with any purely
+physical intrinsic properties of neural activity will therefore reject physicalism, the view
+that there are only physical entities and properties, in that they assert that there must be
+two irreducibly distinct sorts of properties involved in perception, the physical and the
+mental. These days such philosophers are unlikely to be substance dualists and
+interactionists like Descartes. They will probably accept the scientific evidence that
+Descartes did not have that there are no causal gaps in the physical workings of the brain
+of a sort that would have to be discoverable if the mind was an entity that was distinct
+from the brain and interacting with it. So these philosophers are property rather than
+substance dualists. They think that the brain is the entity that possesses the irreducible
+mental properties along with its physical properties.
+And they are epiphenomenalists rather than interactionists. For the epiphenomenalist
+there is a one-way causation of the mental by certain physical properties. The mental
+properties of experience are generated by the relevant physical properties of the brain;
+but these mental properties don’t themselves have any effects on the physical brain
+(because otherwise causal gaps in the physical activities of the brain would have been
+discovered). The phenomenal events are epiphenomena of the brain events. And, as
+intrinsicists, these philosophers believe that the phenomenal characteristics of experience
+are generated by (and therefore not identical with) the very sorts of intrinsic physical
+properties in the perceptual processing with which the physicalists had unconvincingly
+identified them."
+
+Let's look at a concrete example:
+
+"The light from a book on a
+shelf reaches my retinas. The neural processing is done behind the eyes, on the way to
+and then within the visual cortex. The interactionist dualist thinks that the physical
+pattern thus produced in the brain somehow, mysteriously, causes the visual
+experience of a book to occur in a mind, a self, which is a non-physical entity, without
+parts, without extension, and, of course, distinct from the brain, with which it is
+nevertheless interacting. Within the mind the experience of the book, let us say, leads
+to a decision to reach for the book. The will within the mind consequently acts, again
+in mysterious fashion, on a part of the brain that causes impulses to be sent to the
+muscles involved in taking hold of the book; and so the action is performed. The
+causal gap in the working of the brain that interactionist dualism must predict, and that
+science has shown does not exist, would come, in this example of vision, between the
+visual processing and the beginning of the neural signals to the muscles. For the nonmaterial mind, not directly detectable by physical means, should be undetectably
+carrying events forward from the experience of the book to the decision to reach for it
+and then to the willing that finally causes the brain to excite the muscles.
+The physical intrinsicist, the epiphenomenalist and the functionalist all agree that there
+are no causal gaps of the sort predicted by the interactonist. The light from the book 
+falls on the retinas. The visual processing occurs. This in turn, through neural
+transmission, brings about appropriate effects within the parts of the brain that are
+responsible for making decisions, for voluntary movement and so on. The centre for
+voluntary movement excites the muscles that would be involved in getting hold of the
+book; and so the action is performed. The physical intrinsicist will identify the
+phenomenal character of the visual experience of the book with intrinsic physical
+characteristics of the processing in the visual cortex. The epiphenomenal intrinsicist,
+will say that these same intrinsic physical characteristics of the processing, while they
+cannot be identified with the phenomenal properties, generate as epiphenomena the
+non-physical phenomenal properties involved in seeing the book. The functionalist,
+however, believes that the phenomenal character of seeing the book, though we may
+in some sense say it belongs to whatever happens to be playing the causal role of
+seeing -- and therein is seeing -- which is probably some bit of processing in the visual
+cortex, belongs to that seeing purely by virtue of its causing the responsiveness in the
+other parts of the brain that is appropriate to having that visual experience."
+
+Zuboff goes on to explain the difficulties of intrisicist or epiphenomenal theories:
+
+"Has the epiphenomenalist really escaped the absurdity of the physicalist identity claim?
+The epiphenomenalist rightly insisted that the electro-chemical impulse surging through
+the neuron that is hooked up to fire when there are right angles on the retinas could never
+be thought of as having what it takes within itself to be an experiencing of a right angle.
+Well, why should we think that the electro-chemical impulse somehow has what it takes
+within itself to cause an epiphenomenal experiencing of a right angle? As I pointed out
+before, there is nothing within that neuron that is particularly redolent of right angles or
+of experience. Against both its identification with and its generation of the right-angle
+experience let me add that internally this bit of neural activity is likely to be virtually
+indistinguishable from a good deal of the rest of the brain’s neural activity. A neuron
+hooked up to retinal stimulation from red things won’t have to differ internally from this
+right-angle neuron in a way that would be in the least plausible as responsible for the
+phenomenal difference in the experiences of red and right angles. (Where they will
+relevantly differ is in the patterns of effects they bring about in the areas of the brain
+controlling the sort of behaviour, speech and thought that would arise from experiencing
+red or a right angle.)
+And epiphenomenalism loses an important feature of the mental. Surely the phenomenal
+character of my experience of a red triangle does have causal powers. For example, it is
+that phenomenal character itself that gets me as a philosopher to talk about that
+phenomenal character. A powerless epiphenomenon could have no effect on my speech
+centre and so could never influence what I say. It might seem that the physical
+intrinsicist has an advantage here. Although it might turn out, as the epiphenomenalist
+insists, that it is contradictory and therefore impossible to identify the mental with an
+intrinsic physical characteristic, at least, one might think, such physical characteristics
+are not epiphenomenal and could therefore have effects like that I’ve mentioned on
+speech. But there really is no such advantage because there is no way that the intrinsic
+character of a bit of visual processing could reach over to my speech centre, somehow
+apart from its causal role, to affect what I say. Bits of visual processing can affect speech
+and other responses to experience only by virtue of playing their causal roles. Local
+intrinsic determinations are as powerless as epiphenomena when it comes to making any
+specific impression on my responses to experience.
+And this problem for the intrinsicist -- the causal isolation of intrinsic physical
+properties -- is reflected on the other side of his identification -- in a causal isolation of
+the phenomenal. He believes that the experience of the look of the red triangle is already
+fully present within the intrinsic state of the visual cortex. What he must think is
+happening, then, if this already fully realized experience is what is getting me to talk
+about having it, is that its phenomenal character is conveyed into my speech by way of
+the transmission of neural impulses that occurs between the visual cortex and the speech
+centre. But how can the phenomenal travel through neural impulses? [...]
+
+The intrinsicist, of course, agrees that there will be a change in the responsiveness that
+comes with the change in the look [of a Necker cube, for example]. But he understands the responsiveness as related
+contingently to the experience of the look. The shift in responsiveness, for him, would be
+an effect of the independently established change in the look. The functionalist, however,
+says that if there were not this shift in responsiveness it would be logically impossible
+for the look to have changed. It is a contradiction for you to be ready in all ways to treat
+the look as if it were of one of these orientations while in fact you are actually seeing it
+as of the other orientation. And if there is in you a particular one of those patterns of
+readiness to respond, then you must, necessarily, be experiencing the look to which that
+responsiveness is appropriate. [...]
+The look of the
+Necker cube’s orientation, which depends on nothing but our responsiveness to it, is a
+look that powerfully seems fixed independent of that responsiveness (as well as seeming
+to be so fixed in the object and not the perceiver). But only the naive will let that
+powerful seeming decide their understanding of perception."
 
 
 ### A Functional Analysis of Colour Qualia
