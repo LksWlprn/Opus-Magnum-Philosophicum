@@ -64,7 +64,80 @@ It might also be said, though it's not a rigorous argument, that merely societal
 
 ### Logic and Metamathematics
 
+"Back in 1910 Whitehead and Russell’s Principia Mathematica had popularized the idea that perhaps all of mathematics could be derived from logic. And particularly with this in mind, there was significant interest in seeing just how simple the axioms for logic could be. Some of the most notable work on this was done in Lviv and Warsaw (then both part of Poland), particularly by Jan Łukasiewicz (who, as a side effect of his work, invented in 1920 parenthesis-free Łukasiewicz or “Polish” notation). [...] Mathematics as humans practice it is based on a handful of particular axiom systems—each in effect defining a certain field of mathematics (say logic, or group theory, or geometry, or set theory). But in the abstract, there are an infinite number of possible axiom systems out there—in effect each defining a field of mathematics that could in principle be studied, even if we humans haven’t ever done it. [...] 
+So what about axiom systems for mathematics? Well, to compare what’s just “out there” with what we humans have studied, we have to know where the axiom systems for existing areas of mathematics that we’ve studied—like logic—actually lie. And based on traditional human-constructed axiom systems we’d conclude that they have to be far, far out there—in effect only findable if one already knows where they are. [...] Given how fundamental logic is to so many formal systems we humans study, we might have thought that in any reasonable representation, logic corresponds to one of the very simplest conceivable axiom systems. But at least with the (NAND-based) representation we’re using, that’s not true. There’s still by most measures a very simple axiom system for it, but it’s perhaps the hundred thousandth possible axiom system one would encounter if one just started enumerating axiom systems starting from the simplest one. [...] If history had been different, and we’d routinely looked (in the manner of A New Kind of Science) at lots of possible simple axiom systems, then perhaps we would have “discovered” the axiom system for logic as one with particular properties we happened to find interesting. But given that we have explored so few of the possible simple axiom systems, I think we can only reasonably view logic as something “invented”—by being constructed in an essentially “discretionary” way." says Stephen Wolfram. He argues:
 
+"The individual “tokens of mathematics” can be mathematical statements, written in some symbolic form (as they would be in the Wolfram Language). In a sense these mathematical statements are like the hyperedges of our spatial hypergraph in physics: they define relations between elements, which in the case of physics are “atoms of space” but in the case of mathematics are “literal mathematical objects”, like the number 1 or the operation Plus (or at least single instances of them).
+Now we can imagine that the “state of mathematics” at some particular time in its development consists of a large number of mathematical statements. Like the hyperedges in the spatial hypergraph for physics, these mathematical statements are knitted together through their common elements (two mathematical statements might both refer to Plus, just as two hyperedges might both refer to a particular atom of space).
+What is the “evolution of mathematics” like? Basically we imagine that there are laws of inference that take, say, two mathematical statements and deduce another one from them, either using something like structural substitution, or using some (symbolically defined) logical principle like modus ponens. The result of repeatedly applying a law of inference in all possible ways is to build up a multiway graph of—essentially—what statements imply what other ones, or in other words, what can be proved from what.
+But what does a human mathematician perceive of all this? Most mathematicians don’t operate at the level of the raw proof graph and individual raw formalized mathematical statements. Instead, they aggregate together the statements and their relationships to form more “human-level” mathematical concepts.
+In effect that aggregation can be thought of as choosing some “mathematical reference frame”—a slice of metamathematical space that can successfully be “parsed” by a human “mathematical observer”. No doubt there will be certain typical features of that reference frame; for example it might be set up so that things are “sufficiently organized” that “category theory works”, in the sense that there’s enough uniformity to be able to “move between categories” while preserving structure.
+There are both familiar and unfamiliar features of this emerging picture. There are the analog of light cones in “proof space” that define dependencies between mathematical results. There are geodesics that correspond to shortest derivations. There are regions of “metamathematical space” (the slices of proof space) that might have higher “densities of proofs” corresponding to more interconnected fields of mathematics—or more “metamathematical energy”. And as part of the generic behavior of multicomputational systems we can expect an analog of Einstein’s equations, and we can expect that “proof geodesics” will be “gravitationally attracted” to regions of higher “metamathematical energy”.
+In most areas of metamathematical space there will be “proof paths” that go on forever, reflecting the fact that there may be no path of bounded length that will reach a given statement, so that the question of whether that statement is present at all can be considered undecidable. But in the presence of large amounts of “metamathematical energy” there’ll effectively be a metamathematical black hole formed. And where there’s a “singularity in metamathematical space” there’ll be a whole collection of proof paths that just end—effectively corresponding to a decidable area of mathematics.
+Mathematics is normally done at the level of “specific mathematical concepts” (like, say, algebraic equations or hyperbolic geometry)—that are effectively the “populated places” (or “populated reference frames”) of metamathematical space. But by having a multicomputational model of the low-level “machine code of metamathematics” there’s the potential to make more general statements—and to identify what amount to general “bulk laws of metamathematics” that apply at least to the “metamathematical reference frames” used by human “mathematical observers”."
+
+This metamathematical approach circumvents or avoids the seemingly logic-destroying classical paradoxes that plagued set theory. One way to destroy classical logic is through Russell's paradox or, when applied to language, the Grelling-Nelson paradox. In the latter, we categorize words into two groups called "autological" and "heterological."
+
+Autological words describe themselves, such as "multisyllabic," a word used to describe words with multiple syllables, which itself has multiple syllables (mul-ti-syl-la-bic), thus describing itself. Heterological words do not describe themselves, such as "monosyllabic" or "cold." The word "cold" is not itself cold, and "monosyllabic" does not have only one syllable.
+All adjectives and all other words can be sorted into these categories—except for the words "heterological" and "autological." Suppose "heterological" is a heterological word; then it must not describe itself. However, if we assume "heterological" is heterological, it describes itself, making it autological. But if we instead assume "heterological" is autological, then it must describe itself. To do so, "heterological" must be heterological, not autological.
+The situation gets even more peculiar when we attempt to categorize the word "autological." If we assume "autological" is heterological, then it must not belong to its own category. Therefore, it would indeed be heterological. However, if we assume "autological" is autological, then it must belong to its own category, making it autological. This means it belongs to both categories. But is that possible? No, because logically, a word can either describe itself or not, but not both simultaneously.
+
+This principle, stating that for any word X, the statement "X is autological" or "X is heterological" must be either true or false, is called the principle of bivalence. Ultimately, we have exploited a logical gap in our language, which can also be classically illustrated by the sentence: "This statement is false." If the sentence is false, then the statement must be true, making the sentence true. But if the sentence is true, then the statement must be false, making the sentence false.
+What happens here is that a statement refers to itself. We make the truth value of a sentence dependent on the truth value of the statement within that sentence, creating an endless loop because we have established a circular system from the outset. The truth value of the sentence "This statement is false" references the truth value of the statement. Since the statement is supposed to be false, this negates the sentence’s truth value (e.g., true) and creates the opposite truth value (false), which again references the statement, which is supposed to be false, meaning the truth value (false) is again false and is negated back to the new truth value (true), ad infinitum. This type of recursive self-reference is what breaks logic in this case.
+
+Thus, it must be concluded that such a form of self-reference is not a logical process but rather a trap of our language. The sentence "This statement is false" has no influence on whether the sentence is true or false. If the sentence is true, then it is correct that the statement inside the sentence is false. But this does not suddenly make the sentence false; it remains true. Only the statement is false. We have thus created a new category of truth to overcome self-reference.
+
+In a similar manner, paradoxes in set theory—often cited as examples of the untenability of logic—can be resolved.
+First, let us define naive set theory with 11 rules:
+
+1. Any possible collection of elements is a set; anything can be a set.
+
+2. The identity of a set is determined by the elements contained within it.
+
+3. The order of elements in a set does not matter.
+
+4. Repetition of elements does not change the set and is redundant.
+
+5. How elements in a set are named is irrelevant, as long as they are clearly defined.
+
+6. The union of multiple sets results in another set.
+
+7. Any subset is a set.
+
+8. A set can contain only one element.
+
+9. A set that contains no elements is called the empty set or null set.
+
+10. Sets can be formed from sets (since Axiom 1 states that anything can be made into a set, including sets).
+
+11. Sets can contain themselves.
+
+The problem arises with Axiom 11.
+Russell’s paradox states that a contradiction arises when defining a set X that contains all sets that do not contain themselves. If set X does not contain itself, then it belongs to X, since X consists of all sets that do not contain themselves. However, if X belongs to X, then X contains itself, violating its own definition. Conversely, if we assume from the outset that X contains itself, then it cannot belong to X, because X consists only of sets that do not contain themselves. Both possibilities lead to a contradiction.
+The obvious solution was to prohibit self-containing sets in set theory and to discard Axiom 11, leading to the Zermelo-Fraenkel set theory. Intuitively, this makes sense: regardless of what sets we imagine, if they are supposed to contain themselves, we inevitably alter them and no longer deal with the same sets. A set cannot contain itself, because then it would become a different set. For example, a set of all objects in my room contains only the objects in the room. If we then say it must contain itself as well, we change the set, and it no longer just contains all objects in the room.
+
+However, our intuition can be misleading. We could, for instance, define the set X of all sets that contain the number 1. X itself contains ones, so it must contain itself. In real-world sets, self-containing sets may be impossible, but they are not logically impossible. A further downside of Zermelo-Fraenkel set theory is that our first axiom is no longer valid: sets can no longer contain absolutely everything, as they are not allowed to contain themselves.
+That this should be possible becomes evident when we formally translate the discussed linguistic examples into set theory. A set is characterized by the elements it contains. In language, we find an analogy in the fact that predicates are characterized by being true for certain things. For example, we can state, "Cars are vehicles." "Are vehicles" is a predicate that is true for certain things, such as cars.
+
+We now formulate axioms for predicates:
+
+1. For every conceivable characteristic of a thing, there is a predicate.
+
+2. Predicates can be formed from predicates.
+
+3. Predicates can be true of themselves.
+
+"'Is a predicate' is a predicate" is a true statement, confirming Axiom 3. To understand this better, we can form other statements, such as "'Is a sequence of words' is a sequence of words." Here, too, the predicate is true of itself. As in the first example above, where we used adjectives instead of predicates, we can also say: "'Is multisyllabic' is multisyllabic." While this phrase consists of multiple words, together they have multiple syllables.
+The paradox reappears when we formulate the predicate "'Is not true of itself.'" If the predicate is true of itself (Axiom 3), then it states that it is not true of itself. If the predicate is not true of itself, then it states that it is false that it is not true of itself, making it true. 
+
+Betrtrand Russells solution to all these paradoxes is the introduction of new terminology where our language encounters contradictions. In set theory, self-containing sets are possible, but then we are no longer dealing with sets but with other mathematical objects. Russell called this distinction "types." A type 0 set contains objects, a type 1 set contains sets, type 2 contains sets of sets, and so on. This prevents self-reference and circularity because we cannot place type 1 sets into type 1 sets without turning them into type 2 sets. We can define sets of type 1 sets, but such sets then belong to type 2."
+
+Higher category theory approaches the problem differently. Instead of imposing external restrictions, it redefines the very notion of "collection" and "membership" in a way that inherently avoids the paradoxes. Instead of treating mathematical objects as fixed entities, it sees them as flexible shapes that can smoothly transform into each other. This means that contradictions like Russell's Paradox are avoided because objects are categorized by how they relate to each other rather than by whether they contain themselves. Through Homotopy Type Theory, higher category theory and Russell's type theory are deeply connected. Gorard et al showed that a multiway
+rewriting system with homotopies up to order n may naturally be formalized as an n-fold
+category, such that the infinite limit of this structure yields an ∞-groupoid. Via Grothendieck’s
+homotopy hypothesis, this ∞-groupoid thus inherits the structure of a formal homotopy
+space and becomes geometrical because for specific models of ∞-categories, these structures
+correspond precisely to topological spaces. Other foundational challenges, like Gödel’s incompleteness theorems or the Axiom of Choice, are reinterpreted within this framework. Incompleteness manifests as the absence of finite proofs for certain statements, which can be modeled as infinite, non-terminating paths in the metamathematical structure, while the Axiom of Choice simply becomes one possibility in the broader landscape of axiomatic systems.
 
 
 ## Epistemology
@@ -938,6 +1011,43 @@ But suppose her old memories eventually resurface, bringing her former personali
 Rather than two subjects sharing a single brain, the new personality comes to recognize that she has always been the same subject as the old personality. 
 And ultimately this scenario isn't different from injecting one person's memories and personality into another person's brain, which must lead us to conclude that everyone is actually the same subject/identity. 
 
+Examining similar lines of thought, Zuboff concludes:
+
+"Imagine that you had been different in just the particularity of one of your
+ atoms, or the character of one memory, or of one gene in one cell. Surely
+ you would not have failed entirely to exist if there had been only some
+ such slight difference in your token or type. But you would also not have
+ been that fraction less in the world. That fractionally different body or
+ mind would not have been a fraction less yours. You would have existed
+ fully in all of it. The quality of being yours would have filled the experience
+ of it.
+ Next imagine there having been a further slight difference, beyond that
+ we just considered. The body or mind with the first slight difference would
+ still have been fully yours. The reasoning, then, must apply exactly as
+ before with this further hypothetical difference. You would have been fully
+ present in that body and mind as well. But then we may apply this same
+ consideration to all the slightly differing bodies and minds that might next
+ be proposed with wider and wider differences in their tokens or types from
+ those of your body and mind as presently constituted. And you, that subject
+ of experience with which we started, would not have failed to be fully
+ present in any of the continuum of all possible bodies and minds, of all
+ conscious beings, which could finally be built from such differences. All
+ their experience would have been fully yours. And so the experience of
+ such actual beings must be fully yours."
+
+ This argument is called the continuum argument. But Zuboff emphazises:
+ "The continuum argument would not work with an object such as a table 
+or with the body or mind itself. [...] The identity of a table, body or mind is not an
+ all-or-nothing proposition. In the later steps of changing token or type of
+ such complex entities, we shall have to say that they are only fractionally
+ the same as in the earlier steps or that their identity is indeterminate. In
+ the case of a table or body or mind there is nothing like the simple abstract
+ quality of immediacy of experience which kept you the same through all
+ hypothetical differences. (Those in the world of one red object could
+ consider red persisting across such hypothetical differences.)"
+
+
+
 ### Teleportation
 
 Derek Parfit's famous thought experiment of the teletransporter imagines a person being teleported from Earth to Mars. For our discussion, let’s assume macroscopic teleportation is physically possible. Of interest to us is only what happens to our experience. Will we survive? 
@@ -1383,18 +1493,125 @@ But this explanation doesn't claim that causality could account for the boundary
 
 ### The Anthropic Principle
 
+"'The possibility of life as we know it evolving in the universe depends on the values
+ of a few basic physical constants - and is in some respects remarkably sensitive to
+ their numerical values. Indeed, the various anthropic relations ... in principle
+ determine the order-of-magnitude of most of the fundamental constants of physics.'"
 
+ The Anthropic Principle is a result of the debate around fine-tuning. The universe seems to be fine-tuned for life.
+ 
+ In his published lecture, Is the End in Sight for Theoretical Physics?,
+ Stephen Hawking describes some of these anthropic relations. He says:
+ 
+ 'For example, if the proton-neutron mass difference were not about twice the mass
+ of the electron, one would not obtain the couple of hundred or so stable nucleides
+ that make up the elements and are the basis of chemistry and biology. Similarly, if
+ the gravitational mass of the proton were significantly different, one would not
+ have had stars in which these nucleides could have been built up and, if the initial
+ expansion of the Universe had been slightly smaller or greater, the Universe would
+ either have collapsed before such stars could have evolved or would have expanded
+ so rapidly that stars would never have been formed by gravitational condensation.'"
 
+Zuboff further adds:
 
+"All protons are positively charged and therefore repel each other. How is it, then, that protons can stay 
+firmly together in the nucleus of an atom? The answer is that one of the two nuclear forces, 
+the strong nuclear force, attracts protons to each other more strongly than their positive 
+charges repel them. But why, then, doesn’t this stronger force, this attraction, pull together 
+great heaps of protons? Well, it seems this force is stronger than the positive charges only 
+over the very short distances within the diameter of a nucleus. It is a short-range force, whose 
+strength falls off quickly, as the seventh power of the distance, unlike the long-range positive 
+charges, whose strength falls off only as the square of the distance. One more question: why 
+don’t the protons that are within the nucleus, where the strong nuclear force is supreme, just 
+keep pulling each other closer and closer? Here the answer is that the strong nuclear force has 
+a strangely complex character; it suddenly becomes a repulsion when the protons get too 
+close to each other. And so we have atoms, with positively charged nuclei holding round 
+them negatively charged electrons—just what’s required for there to be chemistry, and life."
 
+"There is an extraordinary appearance of contingency about most of these
+ basic determinations. Consider the strength of the two long-range forces.
+ Gravity is 1042 times weaker than electro-magnetic force. Think of all the
+ different levels of strength seemingly available here. A relatively small change in the strength of either force would have made life impossible."
 
+To make sense of this fine-tuning, physicists and philosophers have embrace a multiverse hypothesis (different from the Everettian Multiverse):
+"According to the multiverse hypothesis, there are multiple universes, some of them radically different from our own. Many of those who believe that fine-tuning for life requires some theoretical response regard it as the main alternative beside the designer hypothesis. The idea that underlies it is that, if there is a sufficiently diverse multiverse in which the conditions differ between universes, it is only to be expected that there is at least one where they are right for life. As the strong anthropic principle highlights, the universe in which we, as observers, find ourselves must be one where the conditions are compatible with the existence of observers. This suggests that, on the assumption that there is a sufficiently diverse multiverse, it is neither surprising that there is at least one universe that is hospitable to life nor—since we could not have found ourselves in a life-hostile universe—that we find ourselves in a life-friendly one."
 
+On first glace, this idea seems to be perfectly reasonable. But Zuboff realized that its conclusion actually required universalism to be true and would not work without it. He says:
 
+"If we accept the many-worlds thesis along with the ordinary view of our
+ individuation, we must see ourselves as bound up with particular tokens
+ and thus as confined to just one of the many physical worlds - and only by
+ luck would this be a world also capable of producing life. In fact, we would
+ require the same luck as we did on the view that this was the only world
+ in existence."
 
+"If the basic features of matter that we see in this universe had resulted from a physical or 
+mathematical necessity within the nature of matter itself—so that it could never have been 
+any different anywhere, then such agreement between these features and the requirements for 
+life developing would have to have been nothing but a stupendously improbable coincidence. 
+But if matter instead were extremely protean, with its basic universe-wide characteristics 
+varying radically across countless different universes, then no coincidence would have been 
+involved in a miniscule fraction of these varied physical worlds happening to agree in such 
+fundamental characteristics with what was required for life to develop. 
+Universalism must be added to the many-worlds hypothesis, however, before it can explain 
+why our particular world did not fail to be amenable to life. On the ordinary view of a person, 
+even if there are enough varied physical worlds to eliminate the coincidence of there 
+somewhere in physical reality being an amenable universe, from the observer’s perspective it 
+would nevertheless be as great a coincidence that the observer’s universe, that your universe 
+was amenable, as it would have been if there was only one physical world and yet that was 
+amenable to life. To eliminate the anthropic coincidence from our view, as rationality 
+regarding the probabilities requires, we must loosen the conditions for personal identity, so 
+that you, the observer, would automatically be in any of the universes in which the right 
+conditions occurred. Then 'my' universe is guaranteed to be amenable. My universe will be 
+every universe that is a host to consciousness. Only combined with universalism can the 
+many-worlds hypothesis make probable the amenable character of our world. 
 
+Consider an analogy. You have awakened in a strange room from a drugged sleep. Three 
+hypotheses attempting to account for your situation are offered to you. 
+First, that you were to have been awakened only if a single pre-designated number had come 
+up on a single spin of a single roulette wheel with trillions of numbers on it. This is like the 
+hypothesis of a single physical world that just happens to be anthropic. 
+The second hypothesis is that there were countless such wheels being spun, so that it was to 
+be expected that the required number would come up on some wheel, but there were also 
+countless sleepers, each assigned to just one wheel and awakening only should the right 
+number come up on his wheel. 
+Under these conditions, though it is probable there will be some awakening, in no way is your 
+awakening, dependent still on just one wheel, made any more probable than in the first 
+hypothesis. This, then, is like the useless combination of the many-worlds hypothesis and the 
+ordinary view of identity, a view that would confine your existence to only one region of 
+reality where one particular organism existed, a view that would regard even an organism just 
+like you but in another world as not you but a mere duplicate of you. 
+The third hypothesis offered, the account you must accept as being overwhelmingly more 
+probable than the others, is like the combination of many worlds and universalism. It is that 
+any sleeper would have been awakened so long as the required number came up on any of 
+countless wheels. 
+According to universalism I am any conscious being. Therefore the existence of many worlds 
+can make probable that some world will simply become mine by producing conscious beings. 
+That world will, of course, have consciousness-producing natural laws; and it must be this 
+combination of factors that actually is responsible for our experience of an anthropic 
+universe. It is this, then, that gives us our physical laws. And accepting this points the way to 
+understanding the fluid underlying nature of matter, of which the laws of our world are only 
+one of a myriad of expressions. 
+Now, a scientist who failed to see through the illusion of uniqueness would seem to be tied to 
+a universe doomed to remain a terrifically improbable possessor of the sorts of laws that we 
+find it to have. Such a scientist could thus never properly explain those laws. The seeming 
+uniqueness of me and mine, taken as objective local determinations, will distort the way the 
+world is seen so that a full discovery of its universal, objective law-like character must be 
+impossible."
 
-
-
+As an example, consider the oscillating or cyclic universe hypothesis, in which the universe expands and then after some time collapses back on itself, resulting in a Big Bounce in which a new universe bounces back, expanding again until the cycle repeats.
+"The usual view of experience would hold that awakenings in different cycles would constitute
+ numerically distinct experiences. Hence on the usual view it would have
+ been far more likely, to say the least, that the identity conditions of this
+ experience you are now having would have been assigned to a cycle that
+ was not anthropic. It would, thus, have been far more likely that this
+ particular experience had never existed. Only if this very observation, in
+ its numerical identity, is admitted to exist whenever as a universal it arises,
+ is its existence made more probable, and hence explained, by positing many
+ cycles in which the universe had a chance to be anthropic and produce it.
+ So for Wheeler's theory to work this very experience must be thought
+ capable of existing in any anthropic success among the cycles; objective
+ times could not individuate distinct present moments."
 
 
 ### In Denfense of the Type Theory of Identity
